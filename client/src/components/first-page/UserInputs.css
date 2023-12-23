@@ -1,0 +1,12 @@
+.custom-width
+{
+    max-width: 300px;
+}
+.input-group
+{
+    box-sizing: border-box;
+}
+.input-group input:focus
+{
+    outline: 3px solid blue;
+}
