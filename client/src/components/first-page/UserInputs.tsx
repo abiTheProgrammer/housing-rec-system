@@ -43,8 +43,8 @@ function UserInputs() {
         <input
           type="text"
           className="form-control custom-width mx-auto"
-          placeholder="Location to Buy House"
-          aria-label="Location to Buy House"
+          placeholder="Monthly Down Payment"
+          aria-label="Monthly Down Payment"
           style={{ backgroundColor: "rgb(216, 227, 184)" }}
         />
       </div>
