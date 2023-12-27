@@ -14,10 +14,11 @@
 #first-to-second-page-button
 {
   position: absolute;
-  left: 25%;
   top: 115%;
   width: 200px;
   height: 80px;
+  left: 50%;
+  transform: translateX(-50%);
 }
 
 .error-message {
