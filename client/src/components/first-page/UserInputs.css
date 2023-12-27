@@ -10,3 +10,12 @@
 {
     outline: 3px solid blue;
 }
+
+#first-to-second-page-button
+{
+  position: relative;
+  left: 25%;
+  top: 100px;
+  width: 200px;
+  height: 80px;
+}

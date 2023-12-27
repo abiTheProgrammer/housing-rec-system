@@ -17,16 +17,8 @@ function App() {
     return (
       <div className="first-page">
         <div className="user-inputs">
-          <UserInputs />
+          <UserInputs onSearchSubmit={() => handlePageChange("recs")} />
         </div>
-        <button
-          type="button"
-          id="first-to-second-page-button"
-          className="btn btn-outline-primary"
-          onClick={() => handlePageChange("recs")}
-        >
-          Search Houses
-        </button>
       </div>
     );
   };
