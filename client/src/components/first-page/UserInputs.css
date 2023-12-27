@@ -13,9 +13,26 @@
 
 #first-to-second-page-button
 {
-  position: relative;
+  position: absolute;
   left: 25%;
-  top: 100px;
+  top: 115%;
   width: 200px;
   height: 80px;
+}
+
+.error-message {
+    color: red;
+    font-family: Arial;
+    font-style: italic;
+    font-size: 14px;
+    margin-left: 50px;
+    top: -18px;
+    position:relative;
+  }
+
+.padding {
+    position: absolute;
+    top: 120%;
+    width: 200px;
+    height: 80px;
 }

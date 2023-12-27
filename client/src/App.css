@@ -18,17 +18,20 @@
 
 /* Optional: Add a subtle border-bottom for separation */
 .heading h1::after {
+  position: absolute;
   content: '';
   display: block;
   width: 635px;
-  margin: 2px 405px 0px;
+  margin: 2px 0px;
+  left: 50%;
+  transform: translateX(-50%);
   border-bottom: 2px solid #333333;
 }
 
 .user-inputs {
   background-color: #6e3a14;
   position: relative;
-  height: 380px;
+  height: 480px;
   margin: 0px 520px;
   top: 90px;
   border: 2px solid #000000; /* Updated border color (Black) */
@@ -39,15 +42,6 @@
 .btn.btn-outline-primary {
   font-size: 22px;
   background-color: #fff0f5;
-}
-
-#first-to-second-page-button
-{
-  position: relative;
-  left: 43%;
-  top: 150px;
-  width: 200px;
-  height: 80px;
 }
 
 #second-to-first-page-button
