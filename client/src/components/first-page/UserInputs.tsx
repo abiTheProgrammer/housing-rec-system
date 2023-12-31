@@ -109,7 +109,7 @@ function UserInputs({ onSearchSubmit }: UserInputsProps) {
       onSearchSubmit();
     }
   };
-  // Change font, style, layout of error message in <span>
+
   return (
     <form onSubmit={handleSubmit}>
       <div className="input-group mb-3" style={{ marginTop: "80px" }}>
