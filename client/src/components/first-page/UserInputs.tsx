@@ -1,4 +1,4 @@
-import { useState } from "react";
+import { useEffect, useState } from "react";
 import "./UserInputs.css";
 
 interface UserInputsProps {
@@ -6,21 +6,33 @@ interface UserInputsProps {
 }
 
 function UserInputs({ onSearchSubmit }: UserInputsProps) {
-  const [formData, setFormData] = useState({
+  const initialFormData = {
     "Annual Income": "",
     "Monthly Expenditure": "",
     "Credit Score": "",
     "Available Savings": "",
     "Monthly Down Payment": "",
+  };
+
+  const [formData, setFormData] = useState(() => {
+    const savedFormData = localStorage.getItem("userInputsFormData");
+    return savedFormData ? JSON.parse(savedFormData) : initialFormData;
   });
 
-  const [errors, setErrors] = useState({
-    "Annual Income": "",
-    "Monthly Expenditure": "",
-    "Credit Score": "",
-    "Available Savings": "",
-    "Monthly Down Payment": "",
-  });
+  useEffect(() => {
+    // Add an event listener to clear localStorage on page refresh
+    const handleBeforeUnload = () => {
+      localStorage.removeItem("userInputsFormData");
+    };
+    window.addEventListener("beforeunload", handleBeforeUnload);
+
+    // Clean up the event listener when the component unmounts
+    return () => {
+      window.removeEventListener("beforeunload", handleBeforeUnload);
+    };
+  }, []);
+
+  const [errors, setErrors] = useState(initialFormData);
 
   const handleChange = (e: any) => {
     const { name, value } = e.target;
@@ -93,6 +105,7 @@ function UserInputs({ onSearchSubmit }: UserInputsProps) {
         (value) => value === Object.values(validationErrors)[0]
       )
     ) {
+      localStorage.setItem("userInputsFormData", JSON.stringify(formData));
       onSearchSubmit();
     }
   };
@@ -108,6 +121,7 @@ function UserInputs({ onSearchSubmit }: UserInputsProps) {
           name="Annual Income"
           style={{ backgroundColor: "rgb(216, 227, 184)" }}
           onChange={handleChange}
+          value={formData["Annual Income"]}
         />
       </div>
       {errors["Annual Income"] && (
@@ -122,6 +136,7 @@ function UserInputs({ onSearchSubmit }: UserInputsProps) {
           name="Monthly Expenditure"
           style={{ backgroundColor: "rgb(216, 227, 184)" }}
           onChange={handleChange}
+          value={formData["Monthly Expenditure"]}
         />
       </div>
       {errors["Monthly Expenditure"] && (
@@ -136,6 +151,7 @@ function UserInputs({ onSearchSubmit }: UserInputsProps) {
           name="Credit Score"
           style={{ backgroundColor: "rgb(216, 227, 184)" }}
           onChange={handleChange}
+          value={formData["Credit Score"]}
         />
       </div>
       {errors["Credit Score"] && (
@@ -150,6 +166,7 @@ function UserInputs({ onSearchSubmit }: UserInputsProps) {
           name="Available Savings"
           style={{ backgroundColor: "rgb(216, 227, 184)" }}
           onChange={handleChange}
+          value={formData["Available Savings"]}
         />
       </div>
       {errors["Available Savings"] && (
@@ -164,6 +181,7 @@ function UserInputs({ onSearchSubmit }: UserInputsProps) {
           name="Monthly Down Payment"
           style={{ backgroundColor: "rgb(216, 227, 184)" }}
           onChange={handleChange}
+          value={formData["Monthly Down Payment"]}
         />
       </div>
       {errors["Monthly Down Payment"] && (
