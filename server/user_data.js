@@ -8,6 +8,7 @@ dotenv.config();
 const app = express();
 
 app.use(cors());
+app.use(express.json());
 
 const db = mysql.createConnection({
     host: process.env.DB_HOST,
@@ -24,6 +25,16 @@ db.connect((err) => {
     }
 });
 
-app.listen(5173, () => {
+app.put("/", (req, res) => {
+    const formData = req.body;
+    
+    console.log('Received formData on the server', formData);
+    // Process the formData and send a response if needed
+
+
+    res.send("Data received successfully!");
+});  
+
+app.listen(process.env.PORT, () => {
     console.log("Listening...");
 });
