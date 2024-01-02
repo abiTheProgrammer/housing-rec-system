@@ -1,5 +1,7 @@
 import { useEffect, useState } from "react";
+import axios from "axios";
 import "./UserInputs.css";
+import Port from "./BackendPort";
 
 interface UserInputsProps {
   onSearchSubmit: () => void;
@@ -42,7 +44,7 @@ function UserInputs({ onSearchSubmit }: UserInputsProps) {
     });
   };
 
-  const handleSubmit = (e: any) => {
+  const handleSubmit = async (e: any) => {
     e.preventDefault();
     const validationErrors = {
       "Annual Income": "",
@@ -105,8 +107,17 @@ function UserInputs({ onSearchSubmit }: UserInputsProps) {
         (value) => value === Object.values(validationErrors)[0]
       )
     ) {
-      localStorage.setItem("userInputsFormData", JSON.stringify(formData));
-      onSearchSubmit();
+      try {
+        const response = await axios.put(
+          `http://localhost:${Port.REACT_APP_BACKEND_PORT}/`,
+          formData
+        );
+        console.log("PUT request response:", response.data);
+        localStorage.setItem("userInputsFormData", JSON.stringify(formData));
+        onSearchSubmit();
+      } catch (error: any) {
+        console.error("PUT request error:", error);
+      }
     }
   };
 
