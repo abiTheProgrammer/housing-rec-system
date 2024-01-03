@@ -1,7 +1,7 @@
 import { useEffect, useState } from "react";
 import axios from "axios";
 import "./UserInputs.css";
-import Port from "./BackendPort";
+import URL from "./BackendPort";
 
 interface UserInputsProps {
   onSearchSubmit: () => void;
@@ -108,10 +108,7 @@ function UserInputs({ onSearchSubmit }: UserInputsProps) {
       )
     ) {
       try {
-        const response = await axios.put(
-          `http://localhost:${Port.REACT_APP_BACKEND_PORT}/`,
-          formData
-        );
+        const response = await axios.put(URL.REACT_APP_BACKEND_URL, formData);
         console.log("PUT request response:", response.data);
         localStorage.setItem("userInputsFormData", JSON.stringify(formData));
         onSearchSubmit();
