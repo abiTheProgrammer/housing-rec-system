@@ -1,2 +1,2 @@
 # housing-rec-system
-Model that recommends Houses to User based on User's financial needs.
+Model that recommends Houses to a User based on the User's financial needs.
