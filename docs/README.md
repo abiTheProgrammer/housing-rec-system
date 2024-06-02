@@ -36,7 +36,7 @@ cd housing-rec-system
 **2. Create and Activate Virtual Enviornment**:
 
 ```sh
-python -m venv .venv
+python3 -m venv .venv
 source .venv/bin/activate
 ```
 
