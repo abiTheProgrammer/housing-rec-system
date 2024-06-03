@@ -51,3 +51,26 @@ pip install -r requirements.txt
 ```sh
 python3 src/data_processing/house_scraper.py
 ```
+
+## EC2 Setup
+
+**1. Login into AWS console**
+
+**2. Create Amazon Linux EC2 Virtual Instance. Select free tier**
+
+**3. Create a new key pair. Download it as keypair1.pem**
+
+**4. Connect to your EC2 instance using the pem file.**
+
+**5. Install git using this command:**
+```sh
+   sudo yum update -y
+   sudo yum install git -y
+   git config --global user.name “Your Name”
+   git config --global user.email “your_email@example.com”
+```
+ **6. Then, download your repository.**
+ ```sh
+    git clone https://github.com/abiTheProgrammer/housing-rec-system.git
+```
+
