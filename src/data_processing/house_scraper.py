@@ -9,7 +9,7 @@ class HouseScraper:
         r = requests.get("https://www.mls.com/Search/California.mvc")
         soup = BeautifulSoup(r.content, 'html.parser')
         soup_content = soup.prettify()
-        # pipe the soup_html content into local data file
+        # pipe the soup_html content into local data file (remove once analysis of html content completed)
         with open("data/mls_listings_california.html", "w") as data_file:
             data_file.write(soup_content)
         # <ul class = "sub-section-list"> contains urls of each listings for each area
@@ -26,7 +26,7 @@ class HouseScraper:
                     r = requests.get("https://www.mls.com" + metro_area_url)
                     soup = BeautifulSoup(r.content, 'html.parser')
                     soup_content = soup.prettify()
-                    # pipe the area content into local data file
+                    # pipe the area content into local data file (remove once analysis of html content completed)
                     # temp: file name is "north-coast" because only last area is saved to file (remove once content is examined)
                     with open("data/mls_listings_california_north_coast.html", "w") as data_file:
                         data_file.write(soup_content)
