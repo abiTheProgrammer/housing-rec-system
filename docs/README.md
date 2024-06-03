@@ -46,7 +46,7 @@ source .venv/bin/activate
 pip install -r requirements.txt
 ```
 
-**4. Run the script:**
+**4. Run the script**:
 
 ```sh
 python3 src/data_processing/house_scraper.py
@@ -63,14 +63,16 @@ python3 src/data_processing/house_scraper.py
 **4. Connect to your EC2 instance using the pem file.**
 
 **5. Install git using this command:**
+
 ```sh
    sudo yum update -y
    sudo yum install git -y
    git config --global user.name “Your Name”
    git config --global user.email “your_email@example.com”
 ```
- **6. Then, download your repository.**
- ```sh
-    git clone https://github.com/abiTheProgrammer/housing-rec-system.git
-```
 
+**6. Then, download your repository.**
+
+```sh
+   git clone https://github.com/abiTheProgrammer/housing-rec-system.git
+```
