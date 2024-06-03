@@ -46,7 +46,7 @@ source .venv/bin/activate
 pip install -r requirements.txt
 ```
 
-**4. Run the script**
+**4. Run the script:**
 
 ```sh
 python3 src/data_processing/house_scraper.py
