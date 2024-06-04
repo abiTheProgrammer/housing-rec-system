@@ -31,17 +31,17 @@ class HouseScraper:
             # include break statement to analyze
             break
     
-    def scrape_area(self, area: str):
-        metro_area = area.text
-        metro_area_url = area.get('href')
-        print("Metro Area: \"" + metro_area + '\"\n' + "Path: \"" + metro_area_url + "\"", end='\n\n')
+    def scrape_area(self, area_tag: str):
+        cities = area_tag.text
+        cities_url = area_tag.get('href')
+        print("Metro Area: \"" + cities + '\"\n' + "Path: \"" + cities_url + "\"", end='\n\n')
         # parse the url of area to get listings in that area
-        r = requests.get("https://www.mls.com" + metro_area_url)
+        r = requests.get("https://www.mls.com" + cities_url)
         soup = BeautifulSoup(r.content, 'html.parser')
         # pipe the area content into local data file (remove once analysis of html content completed)
         soup_content = soup.prettify()
         # temp: file name is "bakersfield" because only this area is saved to file (remove once content is examined)
-        with open("data/mls_listings_california_bakersfield.html", "w") as data_file:
+        with open(f"data/mls_listings_california_bakersfield.html", "w") as data_file:
             data_file.write(soup_content)
         # TODO: parse the content of each area page to get house data for each neighborhood
         rows = soup.find_all("ul", class_ = "sub-section-list")
@@ -51,10 +51,34 @@ class HouseScraper:
                 home_links = ul_row.find_all("a")
                 for link in home_links:
                     # for each home_link: parse
-                    neighborhood = link.text
-                    neighborhood_link = link.get('href')
-                    print("Neighborhood: \"" + neighborhood + '\"\n' + "Path: \"" + neighborhood_link + "\"", end='\n\n')
-    
+                    HouseScraper.scrape_listing_data(self, link)
+                    # include break statement to analyze
+                    break
+            # include break statement to analyze
+            break
+
+
+    def scrape_listing_data(self, neighborhood_tag: str):
+        neighborhood = neighborhood_tag.text
+        link = neighborhood_tag.get('href')
+        index = link.find("url=")
+        neighborhood_url = link[index + 4:]
+        # error checking
+        if (neighborhood_url == -1):
+            print("URL of neighborhood: %s doesn't exist!", neighborhood)
+            return
+        print("Neighborhood: \"" + neighborhood + '\"\n' + "Path: \"" + neighborhood_url + "\"", end='\n\n')
+        # set user-agent in heaeder to mimic a browser
+        headers = {
+            'User-Agent': 'Mozilla/5.0 (Linux; Android 13; SM-G981B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Mobile Safari/537.36'
+        }
+        r = requests.get(neighborhood_url, headers=headers)
+        soup = BeautifulSoup(r.content, 'html.parser')
+        # print(soup.prettify())
+        # temp: file name is "bakersfield_arvin" because only this area is saved to file (remove once content is examined)
+        with open("data/mls_listings_california_bakersfield_arvin.html", "w") as data_file:
+            data_file.write(soup.prettify())
+        # TODO: Parse the housing data in bakersfield_arvin.html
 
 # to run the file using "python3 <relative-path-of-file>"
 if __name__ == "__main__":
