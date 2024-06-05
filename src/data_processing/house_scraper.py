@@ -51,34 +51,49 @@ class HouseScraper:
                 home_links = ul_row.find_all("a")
                 for link in home_links:
                     # for each home_link: parse
-                    HouseScraper.scrape_listing_data(self, link)
+                    HouseScraper.scrape_neighborhood(self, link, 1)
                     # include break statement to analyze
                     break
             # include break statement to analyze
             break
 
 
-    def scrape_listing_data(self, neighborhood_tag: str):
+    def scrape_neighborhood(self, neighborhood_tag: str, page_number: int):
         neighborhood = neighborhood_tag.text
         link = neighborhood_tag.get('href')
         index = link.find("url=")
-        neighborhood_url = link[index + 4:]
+        page_count = "&ps=100"
+        # append all search elements to url
+        neighborhood_url = link[index + 4:] + page_count + "&pg=" + str(page_number)
         # error checking
         if (neighborhood_url == -1):
             print("URL of neighborhood: %s doesn't exist!", neighborhood)
             return
-        print("Neighborhood: \"" + neighborhood + '\"\n' + "Path: \"" + neighborhood_url + "\"", end='\n\n')
+        # print only f
+        if page_number == 1:
+            print("Neighborhood: \"" + neighborhood + '\"\n' + "Path: \"" + neighborhood_url + "\"")
+        print("Page Number: " + str(page_number))
         # set user-agent in heaeder to mimic a browser
         headers = {
             'User-Agent': 'Mozilla/5.0 (Linux; Android 13; SM-G981B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Mobile Safari/537.36'
         }
         r = requests.get(neighborhood_url, headers=headers)
         soup = BeautifulSoup(r.content, 'html.parser')
-        # print(soup.prettify())
         # temp: file name is "bakersfield_arvin" because only this area is saved to file (remove once content is examined)
         with open("data/mls_listings_california_bakersfield_arvin.html", "w") as data_file:
             data_file.write(soup.prettify())
-        # TODO: Parse the housing data in bakersfield_arvin.html
+        # If there are 100 (more than max per page) listings => scrape next page
+        # If less than 100 (max reached) => stop scraping
+        if HouseScraper.scrape_listings(self, soup) == 100:
+            HouseScraper.scrape_neighborhood(self, neighborhood_tag, page_number + 1)
+    
+    def scrape_listings(self, listings_data: BeautifulSoup) -> int:
+        rows = listings_data.find_all("div", class_ = "listingInfo")
+        print("Number of House Listings in Page: " + str(len(rows)), end='\n\n')
+        # TODO: retrieve info for each house
+        # for div in rows:
+        #     print(div, end='\n\n')
+        return len(rows)
 
 # to run the file using "python3 <relative-path-of-file>"
 if __name__ == "__main__":
