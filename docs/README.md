@@ -16,7 +16,34 @@ The Housing Recommendation System is a Model designed to recommend Houses to a U
 
 ## Steps
 
-**1. Collect User and Housing Data from different Data Sources (Web Scrape/Real Estate Data/Housing Web App APIs)**
+**1. Web Scrape Housing Data from https://www.mls.com/**
+
+    1. Extract Links for Each State:
+            For each of the 50 states, extract the URLs that link to the state's
+            housing information. This includes categories like cities, rural
+            areas, and foreclosures. **
+
+    2. Extract Links for Each Category within Each State:
+            For each state, navigate to the categories: cities, rural areas
+            (if present), and foreclosures. Extract the URLs that link to
+            these categories.
+
+    3. Extract Links for Each Location within Each Category:
+            Within each category, there are different locations (e.g., cities,
+            towns) where homes are listed for sale. Extract the URLs for these locations.
+
+    4. Extract Housing Listings from Each Location:
+            Navigate to each location's URL and scrape the house listings.
+            For each house listing, extract relevant information such as:
+            - Price
+            - Address
+            - Number of bedrooms
+            - Number of bathrooms
+            - Square feet
+            - Type of House (Single, Mobile, Condo, etc)
+    5. Store Data:
+            Store the housing data somewhere.
+
 
 **2. Clean and Preprocess Data**
 
