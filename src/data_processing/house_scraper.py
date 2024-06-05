@@ -31,17 +31,17 @@ class HouseScraper:
             # include break statement to analyze
             break
     
-    def scrape_area(self, area: str):
-        metro_area = area.text
-        metro_area_url = area.get('href')
-        print("Metro Area: \"" + metro_area + '\"\n' + "Path: \"" + metro_area_url + "\"", end='\n\n')
+    def scrape_area(self, area_tag: str):
+        cities = area_tag.text
+        cities_url = area_tag.get('href')
+        print("Metro Area: \"" + cities + '\"\n' + "Path: \"" + cities_url + "\"", end='\n\n')
         # parse the url of area to get listings in that area
-        r = requests.get("https://www.mls.com" + metro_area_url)
+        r = requests.get("https://www.mls.com" + cities_url)
         soup = BeautifulSoup(r.content, 'html.parser')
         # pipe the area content into local data file (remove once analysis of html content completed)
         soup_content = soup.prettify()
         # temp: file name is "bakersfield" because only this area is saved to file (remove once content is examined)
-        with open("data/mls_listings_california_bakersfield.html", "w") as data_file:
+        with open(f"data/mls_listings_california_bakersfield.html", "w") as data_file:
             data_file.write(soup_content)
         # TODO: parse the content of each area page to get house data for each neighborhood
         rows = soup.find_all("ul", class_ = "sub-section-list")
@@ -51,10 +51,49 @@ class HouseScraper:
                 home_links = ul_row.find_all("a")
                 for link in home_links:
                     # for each home_link: parse
-                    neighborhood = link.text
-                    neighborhood_link = link.get('href')
-                    print("Neighborhood: \"" + neighborhood + '\"\n' + "Path: \"" + neighborhood_link + "\"", end='\n\n')
+                    HouseScraper.scrape_neighborhood(self, link, 1)
+                    # include break statement to analyze
+                    break
+            # include break statement to analyze
+            break
+
+
+    def scrape_neighborhood(self, neighborhood_tag: str, page_number: int):
+        neighborhood = neighborhood_tag.text
+        link = neighborhood_tag.get('href')
+        index = link.find("url=")
+        page_count = "&ps=100"
+        # append all search elements to url
+        neighborhood_url = link[index + 4:] + page_count + "&pg=" + str(page_number)
+        # error checking
+        if (neighborhood_url == -1):
+            print("URL of neighborhood: %s doesn't exist!", neighborhood)
+            return
+        # print only f
+        if page_number == 1:
+            print("Neighborhood: \"" + neighborhood + '\"\n' + "Path: \"" + neighborhood_url + "\"")
+        print("Page Number: " + str(page_number))
+        # set user-agent in heaeder to mimic a browser
+        headers = {
+            'User-Agent': 'Mozilla/5.0 (Linux; Android 13; SM-G981B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Mobile Safari/537.36'
+        }
+        r = requests.get(neighborhood_url, headers=headers)
+        soup = BeautifulSoup(r.content, 'html.parser')
+        # temp: file name is "bakersfield_arvin" because only this area is saved to file (remove once content is examined)
+        with open("data/mls_listings_california_bakersfield_arvin.html", "w") as data_file:
+            data_file.write(soup.prettify())
+        # If there are 100 (more than max per page) listings => scrape next page
+        # If less than 100 (max reached) => stop scraping
+        if HouseScraper.scrape_listings(self, soup) == 100:
+            HouseScraper.scrape_neighborhood(self, neighborhood_tag, page_number + 1)
     
+    def scrape_listings(self, listings_data: BeautifulSoup) -> int:
+        rows = listings_data.find_all("div", class_ = "listingInfo")
+        print("Number of House Listings in Page: " + str(len(rows)), end='\n\n')
+        # TODO: retrieve info for each house
+        # for div in rows:
+        #     print(div, end='\n\n')
+        return len(rows)
 
 # to run the file using "python3 <relative-path-of-file>"
 if __name__ == "__main__":
