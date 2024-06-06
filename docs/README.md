@@ -41,9 +41,9 @@ The Housing Recommendation System is a Model designed to recommend Houses to a U
             - Number of bathrooms
             - Square feet
             - Type of House (Single, Mobile, Condo, etc)
+
     5. Store Data:
             Store the housing data somewhere.
-
 
 **2. Clean and Preprocess Data**
 
@@ -56,7 +56,7 @@ The Housing Recommendation System is a Model designed to recommend Houses to a U
 **1. Clone Github Repo**:
 
 ```sh
-git clone https://github.com/abiTheProgrammer/housing-rec-system.git
+git clone <URL>
 cd housing-rec-system
 ```
 
@@ -81,7 +81,7 @@ python3 src/data_processing/house_scraper.py
 
 ## EC2 Setup
 
-**1. Login into AWS console**
+**1. Login to AWS console**
 
 **2. Create Amazon Linux EC2 Virtual Instance. Select free tier**
 
@@ -89,7 +89,7 @@ python3 src/data_processing/house_scraper.py
 
 **4. Connect to your EC2 instance using the pem file.**
 
-**5. Install git using this command:**
+**5. Install git using these commands:**
 
 ```sh
    sudo yum update -y
@@ -98,8 +98,8 @@ python3 src/data_processing/house_scraper.py
    git config --global user.email “your_email@example.com”
 ```
 
-**6. Then, download your repository.**
+**6. Then, clone git repository.**
 
 ```sh
-   git clone https://github.com/abiTheProgrammer/housing-rec-system.git
+   git clone <URL>
 ```
