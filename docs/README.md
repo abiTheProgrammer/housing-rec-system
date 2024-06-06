@@ -41,6 +41,7 @@ The Housing Recommendation System is a Model designed to recommend Houses to a U
             - Number of bathrooms
             - Square feet
             - Type of House (Single, Mobile, Condo, etc)
+
     5. Store Data:
             Store the housing data somewhere.
 
