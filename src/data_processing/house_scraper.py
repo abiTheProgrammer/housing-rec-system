@@ -91,8 +91,14 @@ class HouseScraper:
         rows = listings_data.find_all("div", class_ = "listingInfo")
         print("Number of House Listings in Page: " + str(len(rows)), end='\n\n')
         # TODO: retrieve info for each house
-        # for div in rows:
-        #     print(div, end='\n\n')
+        for div in rows:
+            # print(div, end='\n\n')
+            price = div.strong
+            if price != None:
+                # TODO: Must convert price to int
+                price = div.strong.text
+            print(price, end='\n\n')
+
         return len(rows)
 
 # to run the file using "python3 <relative-path-of-file>"
