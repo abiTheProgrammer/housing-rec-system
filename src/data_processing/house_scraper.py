@@ -1,5 +1,4 @@
 import requests
-import re
 from bs4 import BeautifulSoup
 
 class HouseScraper:
@@ -18,19 +17,27 @@ class HouseScraper:
         rows = soup.find_all("ul", class_ = "sub-section-list")
         for ul_row in rows:
             # handle regular area listings
-            if ul_row.a.get('class') == None:
+            if not ul_row.a:
+                continue
+            elif ul_row.a.get('class') == None:
                 areas = ul_row.find_all("a")
                 for area in areas:
                     # for each area: parse
                     HouseScraper.scrape_area(self, area)
                     # include break statement to analyze
-                    break
+                    # break
                 print('\n', end="")
             else:
-                # TODO: handle foreclosure listings
+                foreclosures = ul_row.find_all("a")
+                for fc in foreclosures:
+                    # for each fc: parse
+                    HouseScraper.scrape_foreclosure(self, fc)
+                    # include break statement to analyze
+                    # break
+                print('\n', end="")
                 pass
             # include break statement to analyze
-            break
+            # break
     
     def scrape_area(self, area_tag: str):
         cities = area_tag.text
@@ -41,13 +48,15 @@ class HouseScraper:
         soup = BeautifulSoup(r.content, 'html.parser')
         # pipe the area content into local data file (remove once analysis of html content completed)
         # soup_content = soup.prettify()
-        # temp: file name is "bakersfield" because only this area is saved to file (remove once content is examined)
-        # with open(f"data/mls_listings_california_bakersfield.html", "w") as data_file:
+        # temp: file name is "montana_c" because only this area is saved to file (remove once content is examined)
+        # with open(f"data/mls_listings_montana_c.html", "w") as data_file:
         #     data_file.write(soup_content)
         # parse the content of each area page to get house data for each neighborhood
         rows = soup.find_all("ul", class_ = "sub-section-list")
         for ul_row in rows:
             # handle only listings that do not have the title "Foreclosure"
+            if not ul_row.a:
+                continue
             if 'Foreclosure' not in ul_row.a.text:
                 home_links = ul_row.find_all("a")
                 for link in home_links:
@@ -57,7 +66,11 @@ class HouseScraper:
                     # break
             # include break statement to analyze
             # break
-
+    
+    def scrape_foreclosure(self, foreclosure_tag: str):
+        # TODO: handle foreclosure listings
+        print(foreclosure_tag)
+        pass
 
     def scrape_neighborhood(self, neighborhood_tag: str):
         neighborhood = neighborhood_tag.text
@@ -104,7 +117,7 @@ class HouseScraper:
         # retrieve info for each house
         for i in range(len(prices)):
             price = prices[i].strong
-            if price != None:
+            if price:
                 price = price.text
             address = adresses[i].a.get('title')
             rent_estimate = rent_estimates[i].text
@@ -123,11 +136,10 @@ class HouseScraper:
             print("Price: " + str(price) + "\nAddress: " + address + "\nRent Estimate: "
                    + str(rent_estimate) + "\nBeds: " + str(bedrooms) + "\nBaths: " + str(bathrooms)
                    + "\nSq Ft: " + str(area) + "\nHome Type: " + str(home_type), end='\n\n')
-
         return len(prices)
 
 # to run the file using "python3 <relative-path-of-file>"
 if __name__ == "__main__":
     h = HouseScraper()
     # TODO: update with a list of states
-    h.scrape_state('California')
+    h.scrape_state('Utah')
