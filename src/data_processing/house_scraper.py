@@ -1,4 +1,5 @@
 import requests
+import re
 from bs4 import BeautifulSoup
 
 class HouseScraper:
@@ -88,18 +89,39 @@ class HouseScraper:
             HouseScraper.scrape_neighborhood(self, neighborhood_tag, page_number + 1)
     
     def scrape_listings(self, listings_data: BeautifulSoup) -> int:
-        rows = listings_data.find_all("div", class_ = "listingInfo")
-        print("Number of House Listings in Page: " + str(len(rows)), end='\n\n')
-        # TODO: retrieve info for each house
-        for div in rows:
-            # print(div, end='\n\n')
-            price = div.strong
+        # rent estimates are stored as "per m" or "/m" Estimated Rental Value (ERV)
+        prices = listings_data.find_all("div", class_ = "listingInfo")
+        rent_estimates = listings_data.find_all("div", class_ = "rentEstimate")
+        adresses = listings_data.find_all("div", class_ = "address")
+        beds = listings_data.find_all("div", class_ = "fl bedroomsbox")
+        baths = listings_data.find_all("div", class_ = "fl barhroomsbox")
+        sq_areas = listings_data.find_all("div", class_ = "fl sizebox d-none d-sm-block")
+        home_types = listings_data.find_all("div", class_ = "fl ptypebox")
+        print("Number of House Listings in Page: " + str(len(prices)), end='\n\n')
+        # retrieve info for each house
+        for i in range(len(prices)):
+            price = prices[i].strong
             if price != None:
-                # TODO: Must convert price to int
-                price = div.strong.text
-            print(price, end='\n\n')
+                price = price.text
+            address = adresses[i].a.get('title')
+            rent_estimate = rent_estimates[i].text
+            bedrooms = beds[i].text.strip()
+            bathrooms = baths[i].text.strip()
+            area = sq_areas[i].text.strip()
+            home_type = home_types[i].text.strip()
+            if not bedrooms:
+                bedrooms = None
+            if not bathrooms:
+                bathrooms = None
+            if not area:
+                area = None
+            if not home_type:
+                home_type = None
+            print("Price: " + str(price) + "\nAddress: " + address + "\nRent Estimate: "
+                   + str(rent_estimate) + "\nBeds: " + str(bedrooms) + "\nBaths: " + str(bathrooms)
+                   + "\nSq Ft: " + str(area) + "\nHome Type: " + str(home_type), end='\n\n')
 
-        return len(rows)
+        return len(prices)
 
 # to run the file using "python3 <relative-path-of-file>"
 if __name__ == "__main__":
