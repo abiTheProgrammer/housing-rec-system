@@ -40,11 +40,11 @@ class HouseScraper:
         r = requests.get("https://www.mls.com" + cities_url)
         soup = BeautifulSoup(r.content, 'html.parser')
         # pipe the area content into local data file (remove once analysis of html content completed)
-        soup_content = soup.prettify()
+        # soup_content = soup.prettify()
         # temp: file name is "bakersfield" because only this area is saved to file (remove once content is examined)
-        with open(f"data/mls_listings_california_bakersfield.html", "w") as data_file:
-            data_file.write(soup_content)
-        # TODO: parse the content of each area page to get house data for each neighborhood
+        # with open(f"data/mls_listings_california_bakersfield.html", "w") as data_file:
+        #     data_file.write(soup_content)
+        # parse the content of each area page to get house data for each neighborhood
         rows = soup.find_all("ul", class_ = "sub-section-list")
         for ul_row in rows:
             # handle only listings that do not have the title "Foreclosure"
@@ -52,28 +52,30 @@ class HouseScraper:
                 home_links = ul_row.find_all("a")
                 for link in home_links:
                     # for each home_link: parse
-                    HouseScraper.scrape_neighborhood(self, link, 1)
+                    HouseScraper.scrape_neighborhood(self, link)
                     # include break statement to analyze
-                    break
+                    # break
             # include break statement to analyze
-            break
+            # break
 
 
-    def scrape_neighborhood(self, neighborhood_tag: str, page_number: int):
+    def scrape_neighborhood(self, neighborhood_tag: str):
         neighborhood = neighborhood_tag.text
         link = neighborhood_tag.get('href')
         index = link.find("url=")
         page_count = "&ps=100"
         # append all search elements to url
-        neighborhood_url = link[index + 4:] + page_count + "&pg=" + str(page_number)
-        # error checking
-        if (neighborhood_url == -1):
-            print("URL of neighborhood: %s doesn't exist!", neighborhood)
-            return
-        # print only f
-        if page_number == 1:
-            print("Neighborhood: \"" + neighborhood + '\"\n' + "Path: \"" + neighborhood_url + "\"")
-        print("Page Number: " + str(page_number))
+        neighborhood_url = link[index + 4:] + page_count + "&pg=1"
+        # change the url if it doesn't follow the pattern
+        if ("https://mls.foreclosure.com/listing" not in neighborhood_url) or ("https://mls.foreclosure.com/listings" in neighborhood_url):
+            state = link[-link[::-1].find("-"): -1]
+            city = link[-1 - link[::-1][1:].find("/"): -2 - len(state)]
+            neighborhood_url = f"https://mls.foreclosure.com/listing/search.html?ci={city}&st={state}&utm_source=internal&utm_medium=link&utm_campaign=MLS_top_links{page_count}&pg=1"
+        print("Neighborhood: \"" + neighborhood + '\"\n' + "Path: \"" + neighborhood_url + "\"")
+        # scrape every page
+        HouseScraper.scrape_page(self, neighborhood_url, 1)
+
+    def scrape_page(self, neighborhood_url: str, page_number: int):
         # set user-agent in heaeder to mimic a browser
         headers = {
             'User-Agent': 'Mozilla/5.0 (Linux; Android 13; SM-G981B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Mobile Safari/537.36'
@@ -81,12 +83,13 @@ class HouseScraper:
         r = requests.get(neighborhood_url, headers=headers)
         soup = BeautifulSoup(r.content, 'html.parser')
         # temp: file name is "bakersfield_arvin" because only this area is saved to file (remove once content is examined)
-        with open("data/mls_listings_california_bakersfield_arvin.html", "w") as data_file:
-            data_file.write(soup.prettify())
-        # If there are 100 (more than max per page) listings => scrape next page
-        # If less than 100 (max reached) => stop scraping
-        if HouseScraper.scrape_listings(self, soup) == 100:
-            HouseScraper.scrape_neighborhood(self, neighborhood_tag, page_number + 1)
+        # with open("data/mls_listings_california_bakersfield_arvin.html", "w") as data_file:
+        #     data_file.write(soup.prettify())
+        # If there are 0 listings => stop scraping
+        print("Page Number: " + str(page_number))
+        if HouseScraper.scrape_listings(self, soup) > 0:
+            neighborhood_url = neighborhood_url.replace(f"&pg={str(page_number)}", f"&pg={str(page_number + 1)}")
+            HouseScraper.scrape_page(self, neighborhood_url, page_number + 1)
     
     def scrape_listings(self, listings_data: BeautifulSoup) -> int:
         # rent estimates are stored as "per m" or "/m" Estimated Rental Value (ERV)
