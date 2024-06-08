@@ -93,6 +93,10 @@ class HouseScraper:
         prices = listings_data.find_all("div", class_ = "listingInfo")
         rent_estimates = listings_data.find_all("div", class_ = "rentEstimate")
         adresses = listings_data.find_all("div", class_ = "address")
+        beds = listings_data.find_all("div", class_ = "fl bedroomsbox")
+        baths = listings_data.find_all("div", class_ = "fl barhroomsbox")
+        sq_areas = listings_data.find_all("div", class_ = "fl sizebox d-none d-sm-block")
+        home_types = listings_data.find_all("div", class_ = "fl ptypebox")
         print("Number of House Listings in Page: " + str(len(prices)), end='\n\n')
         # retrieve info for each house
         for i in range(len(prices)):
@@ -101,7 +105,21 @@ class HouseScraper:
                 price = price.text
             address = adresses[i].a.get('title')
             rent_estimate = rent_estimates[i].text
-            print(str(price) + '\n' + address + '\n' + str(rent_estimate), end='\n\n')
+            bedrooms = beds[i].text.strip()
+            bathrooms = baths[i].text.strip()
+            area = sq_areas[i].text.strip()
+            home_type = home_types[i].text.strip()
+            if not bedrooms:
+                bedrooms = None
+            if not bathrooms:
+                bathrooms = None
+            if not area:
+                area = None
+            if not home_type:
+                home_type = None
+            print("Price: " + str(price) + "\nAddress: " + address + "\nRent Estimate: "
+                   + str(rent_estimate) + "\nBeds: " + str(bedrooms) + "\nBaths: " + str(bathrooms)
+                   + "\nSq Ft: " + str(area) + "\nHome Type: " + str(home_type), end='\n\n')
 
         return len(prices)
 
