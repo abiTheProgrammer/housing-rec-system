@@ -68,9 +68,10 @@ class HouseScraper:
             # break
     
     def scrape_foreclosure(self, foreclosure_tag: str):
-        # TODO: handle foreclosure listings
-        print(foreclosure_tag)
-        pass
+        url = foreclosure_tag.get('href')
+        print(url[url.find("ci=") + 3: url.find("&")].replace("+", " ") + " Foreclosures", end='\n\n')
+        fc_url = url + "&ps=100" + "&pg=1"
+        HouseScraper.scrape_page(self, fc_url, 1)
 
     def scrape_neighborhood(self, neighborhood_tag: str):
         neighborhood = neighborhood_tag.text
@@ -142,4 +143,4 @@ class HouseScraper:
 if __name__ == "__main__":
     h = HouseScraper()
     # TODO: update with a list of states
-    h.scrape_state('Utah')
+    h.scrape_state('Montana')
