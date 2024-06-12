@@ -16,15 +16,34 @@ The Housing Recommendation System is a Model designed to recommend Houses to a U
 
 ## Steps
 
-**1. Collect User and Housing Data from https://mls.com/ (Web Scrape Real Estate Data)**
+**1. Web Scrape Housing Data from https://www.mls.com/**
 
-The website contains housing data for every state in the United States. In each state, there are two or three sections. There exist a ***non-rural*** and a ***foreclosures*** section in all fifty states. However, some states also have a third ***rural*** section. A ***non-rural*** section has ***cities***, whereas a ***rural*** section has ***census-designated places (CDP)***. Each ***city*** or ***CDP*** contains listing information for houses, such as price, address, number of bedrooms and bathrooms, area size, and type of house.
+    1. Extract Links for Each State:
+            For each of the 50 states, extract the URLs that link to the state's
+            housing information. This includes categories like cities, rural
+            areas, and foreclosures. **
 
-country (USA) -> state -> non-rural/rural/foreclosures
+    2. Extract Links for Each Category within Each State:
+            For each state, navigate to the categories: cities, rural areas
+            (if present), and foreclosures. Extract the URLs that link to
+            these categories.
 
-non-rural: contains cities
+    3. Extract Links for Each Location within Each Category:
+            Within each category, there are different locations (e.g., cities,
+            towns) where homes are listed for sale. Extract the URLs for these locations.
 
-rural: contains census-designated places (CDP)
+    4. Extract Housing Listings from Each Location:
+            Navigate to each location's URL and scrape the house listings.
+            For each house listing, extract relevant information such as:
+            - Price
+            - Address
+            - Number of bedrooms
+            - Number of bathrooms
+            - Square feet
+            - Type of House (Single, Mobile, Condo, etc)
+
+    5. Store Data:
+            Store the housing data somewhere.
 
 **2. Clean and Preprocess Data**
 
@@ -37,7 +56,7 @@ rural: contains census-designated places (CDP)
 **1. Clone Github Repo**:
 
 ```sh
-git clone https://github.com/abiTheProgrammer/housing-rec-system.git
+git clone <URL>
 cd housing-rec-system
 ```
 
@@ -62,7 +81,7 @@ python3 src/data_processing/house_scraper.py
 
 ## EC2 Setup
 
-**1. Login into AWS console**
+**1. Login to AWS console**
 
 **2. Create Amazon Linux EC2 Virtual Instance. Select free tier**
 
@@ -70,11 +89,17 @@ python3 src/data_processing/house_scraper.py
 
 **4. Connect to your EC2 instance using the pem file.**
 
-**5. Install git using this command:**
+**5. Install git using these commands:**
 
 ```sh
    sudo yum update -y
    sudo yum install git -y
    git config --global user.name “Your Name”
    git config --global user.email “your_email@example.com”
+```
+
+**6. Then, clone git repository.**
+
+```sh
+   git clone <URL>
 ```
