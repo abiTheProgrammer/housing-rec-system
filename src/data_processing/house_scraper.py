@@ -1,18 +1,21 @@
 import requests
+import json
 from bs4 import BeautifulSoup
 
 class HouseScraper:
-    def __init__(self) -> None:
-        pass
+    def __init__(self, config_path: str) -> None:
+        with open(config_path, 'r') as urls:
+            self.config = json.loads(urls.read())
 
-    def scrape_state(self, state: str):
+    def scrape_state(self, state: str) -> None:
         # parse html content of main html page
-        r = requests.get(f"https://www.mls.com/Search/{state}.mvc")
+        state_url = self.config['base_url'] + self.config['search_state'].format(state=state)
+        r = requests.get(state_url)
         soup = BeautifulSoup(r.content, 'html.parser')
         # pipe the soup_html content into local data file (remove once analysis of html content completed)
-        soup_content = soup.prettify()
-        with open(f"data/mls_listings_{state.lower()}.html", "w") as data_file:
-            data_file.write(soup_content)
+        # soup_content = soup.prettify()
+        # with open(f"data/mls_listings_{state.lower()}.html", "w") as data_file:
+        #     data_file.write(soup_content)
         # <ul class = "sub-section-list"> contains urls of each listings for each area
         rows = soup.find_all("ul", class_ = "sub-section-list")
         for ul_row in rows:
@@ -23,28 +26,21 @@ class HouseScraper:
                 areas = ul_row.find_all("a")
                 for area in areas:
                     # for each area: parse
-                    HouseScraper.scrape_area(self, area)
-                    # include break statement to analyze
-                    # break
+                    self.scrape_area(area)
                 print('\n', end="")
             else:
                 foreclosures = ul_row.find_all("a")
                 for fc in foreclosures:
                     # for each fc: parse
-                    HouseScraper.scrape_foreclosure(self, fc)
-                    # include break statement to analyze
-                    # break
+                    self.scrape_foreclosure(fc)
                 print('\n', end="")
-                pass
-            # include break statement to analyze
-            # break
     
-    def scrape_area(self, area_tag: str):
+    def scrape_area(self, area_tag: str) -> None:
         cities = area_tag.text
         cities_url = area_tag.get('href')
         print("Metro Area: \"" + cities + '\"\n' + "Path: \"" + cities_url + "\"", end='\n\n')
         # parse the url of area to get listings in that area
-        r = requests.get("https://www.mls.com" + cities_url)
+        r = requests.get(self.config['base_url'] + cities_url)
         soup = BeautifulSoup(r.content, 'html.parser')
         # pipe the area content into local data file (remove once analysis of html content completed)
         # soup_content = soup.prettify()
@@ -61,49 +57,38 @@ class HouseScraper:
                 home_links = ul_row.find_all("a")
                 for link in home_links:
                     # for each home_link: parse
-                    HouseScraper.scrape_neighborhood(self, link)
-                    # include break statement to analyze
-                    # break
-            # include break statement to analyze
-            # break
+                    self.scrape_neighborhood(link)
     
-    def scrape_foreclosure(self, foreclosure_tag: str):
+    def scrape_foreclosure(self, foreclosure_tag: str) -> None:
         url = foreclosure_tag.get('href')
         print(url[url.find("ci=") + 3: url.find("&")].replace("+", " ") + " Foreclosures", end='\n\n')
-        fc_url = url + "&ps=100" + "&pg=1"
-        HouseScraper.scrape_page(self, fc_url, 1)
+        fc_url = url + self.config['init_page_count'] + self.config['init_page_number']
+        self.scrape_page(fc_url, 1)
 
-    def scrape_neighborhood(self, neighborhood_tag: str):
+    def scrape_neighborhood(self, neighborhood_tag: str) -> None:
         neighborhood = neighborhood_tag.text
         link = neighborhood_tag.get('href')
         index = link.find("url=")
-        page_count = "&ps=100"
         # append all search elements to url
-        neighborhood_url = link[index + 4:] + page_count + "&pg=1"
+        neighborhood_url = link[index + 4:] + self.config['init_page_count'] + self.config['init_page_number']
         # change the url if it doesn't follow the pattern
-        if ("https://mls.foreclosure.com/listing" not in neighborhood_url) or ("https://mls.foreclosure.com/listings" in neighborhood_url):
+        if (self.config['base_listing_url'] + "/listing" not in neighborhood_url) or (self.config['base_listing_url'] + "/listings" in neighborhood_url):
             state = link[-link[::-1].find("-"): -1]
             city = link[-1 - link[::-1][1:].find("/"): -2 - len(state)]
-            neighborhood_url = f"https://mls.foreclosure.com/listing/search.html?ci={city}&st={state}&utm_source=internal&utm_medium=link&utm_campaign=MLS_top_links{page_count}&pg=1"
+            neighborhood_url = self.config['base_listing_url'] + self.config['listing_search_path'].format(city=city,state=state) + self.config['init_page_count'] + self.config['init_page_number']
         print("Neighborhood: \"" + neighborhood + '\"\n' + "Path: \"" + neighborhood_url + "\"")
         # scrape every page
-        HouseScraper.scrape_page(self, neighborhood_url, 1)
+        self.scrape_page(neighborhood_url, 1)
 
-    def scrape_page(self, neighborhood_url: str, page_number: int):
+    def scrape_page(self, neighborhood_url: str, page_number: int) -> None:
         # set user-agent in heaeder to mimic a browser
-        headers = {
-            'User-Agent': 'Mozilla/5.0 (Linux; Android 13; SM-G981B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Mobile Safari/537.36'
-        }
-        r = requests.get(neighborhood_url, headers=headers)
+        r = requests.get(neighborhood_url, headers=self.config['browser_header'])
         soup = BeautifulSoup(r.content, 'html.parser')
-        # temp: file name is "bakersfield_arvin" because only this area is saved to file (remove once content is examined)
-        # with open("data/mls_listings_california_bakersfield_arvin.html", "w") as data_file:
-        #     data_file.write(soup.prettify())
         # If there are 0 listings => stop scraping
         print("Page Number: " + str(page_number))
-        if HouseScraper.scrape_listings(self, soup) > 0:
+        if self.scrape_listings(soup) > 0:
             neighborhood_url = neighborhood_url.replace(f"&pg={str(page_number)}", f"&pg={str(page_number + 1)}")
-            HouseScraper.scrape_page(self, neighborhood_url, page_number + 1)
+            self.scrape_page(neighborhood_url, page_number + 1)
     
     def scrape_listings(self, listings_data: BeautifulSoup) -> int:
         # rent estimates are stored as "per m" or "/m" Estimated Rental Value (ERV)
@@ -122,10 +107,11 @@ class HouseScraper:
                 price = price.text
             address = adresses[i].a.get('title')
             rent_estimate = rent_estimates[i].text
-            bedrooms = beds[i].text.strip()
-            bathrooms = baths[i].text.strip()
-            area = sq_areas[i].text.strip()
-            home_type = home_types[i].text.strip()
+            # indices repeat because of visible and hidden div elements (x2 to skip)
+            bedrooms = beds[i*2].text.strip()
+            bathrooms = baths[i*2].text.strip()
+            area = sq_areas[i*2].text.strip()
+            home_type = home_types[i*2].text.strip()
             if not bedrooms:
                 bedrooms = None
             if not bathrooms:
@@ -141,6 +127,6 @@ class HouseScraper:
 
 # to run the file using "python3 <relative-path-of-file>"
 if __name__ == "__main__":
-    h = HouseScraper()
+    h = HouseScraper(config_path='config/config.json')
     # TODO: update with a list of states
-    h.scrape_state('Montana')
+    h.scrape_state('Minnesota')
