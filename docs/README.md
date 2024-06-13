@@ -8,7 +8,7 @@ The Housing Recommendation System is a Model designed to recommend Houses to a U
 
 **User Financial Needs**: Input user financial status and expectations such as ...
 
-**Recommendations**: House recommendations based on User needs and House features such as ...
+**Recommendations**: House recommendations based on User needs and House features such as location, price, rent estimate, and more.
 
 **Feedback Loop**: Continuous improvement through user feedback and interaction to improve model behavior.
 
@@ -43,11 +43,12 @@ The Housing Recommendation System is a Model designed to recommend Houses to a U
             - Type of House (Single, Mobile, Condo, etc)
 
     5. Store Data:
-            Store the housing data somewhere.
+            Convert house information to dataframe using filtering options(house listing info per state).
+            Export dataframe as csv file to further preprocess data and conduct EDA.
 
 **2. Clean and Preprocess Data**
 
-**3. EDA and Feature Engineering**
+**3. Exploratory Data Analysis (EDA) and Feature Engineering**
 
 **4. Build Recommendation System**
 
