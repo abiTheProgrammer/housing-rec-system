@@ -1,12 +1,15 @@
 import requests
 import json
 from bs4 import BeautifulSoup
+import pandas as pd
+import numpy as np
+import pyspark.pandas as ps
 
 class HouseScraper:
     def __init__(self, config_path: str) -> None:
         with open(config_path, 'r') as urls:
             self.__config = json.loads(urls.read())
-        self.__states = self.scrape_list_of_states()
+        self.states = self.scrape_list_of_states()
 
     def scrape_list_of_states(self) -> list:
         states = []
@@ -24,12 +27,9 @@ class HouseScraper:
         del states[-3:]
         return states
     
-    # TODO: Return a dataframe from this function and save it to the class
-    def scrape_webpage(self) -> None:
-        for state in self.__states:
-            self.scrape_state(state)
-
-    def scrape_state(self, state: str) -> None:
+    # Return a dataframe from this function with data for state
+    def scrape_state(self, state: str) -> pd.DataFrame:
+        self.df = pd.DataFrame(columns=self.__config['df_columns'])
         # parse html content of main html page
         state_url = self.__config['base_url'] + self.__config['search_state'].format(state=state)
         r = requests.get(state_url)
@@ -56,6 +56,7 @@ class HouseScraper:
                     # for each fc: parse
                     self.scrape_foreclosure(fc)
                 print('\n', end="")
+        return self.df
     
     def scrape_area(self, area_tag: str) -> None:
         cities = area_tag.text
@@ -144,9 +145,19 @@ class HouseScraper:
             print("Price: " + str(price) + "\nAddress: " + address + "\nRent Estimate: "
                    + str(rent_estimate) + "\nBeds: " + str(bedrooms) + "\nBaths: " + str(bathrooms)
                    + "\nSq Ft: " + str(area) + "\nHome Type: " + str(home_type), end='\n\n')
+            house_df = pd.DataFrame(np.array([[price, address, rent_estimate, bedrooms, bathrooms, area, home_type]]), columns=self.__config['df_columns'])
+            self.df = pd.concat([self.df, house_df], ignore_index=True)
         return len(prices)
 
 # to run the file using "python3 <relative-path-of-file>"
 if __name__ == "__main__":
     h = HouseScraper(config_path='config/config.json')
-    h.scrape_webpage()
+    # regulate number of states to output
+    states = h.states[h.states.index('District-of-Columbia'): h.states.index('Florida')]
+    for state in states:
+        h.scrape_state(state)
+        # convert pandas -> pandas-on-spark -> spark dataframe
+        h.df = ps.from_pandas(h.df)
+        print(h.df)
+        # coalesce into 1 csv file
+        h.df.to_spark().coalesce(1).write.csv(f"data/{state}_hd.csv", header=True)
