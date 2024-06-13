@@ -1,15 +1,37 @@
 import requests
 import json
 from bs4 import BeautifulSoup
+import pandas as pd
+import numpy as np
+import pyspark.pandas as ps
 
 class HouseScraper:
     def __init__(self, config_path: str) -> None:
         with open(config_path, 'r') as urls:
-            self.config = json.loads(urls.read())
+            self.__config = json.loads(urls.read())
+        self.states = self.scrape_list_of_states()
 
-    def scrape_state(self, state: str) -> None:
+    def scrape_list_of_states(self) -> list:
+        states = []
+        r = requests.get(self.__config['base_url'])
+        soup = BeautifulSoup(r.content, 'html.parser')
+        # with open('data/state_list.html', 'w') as file:
+        #     file.write(soup.prettify())
+        state_list = soup.find_all("select", "option", class_ = "form-control", id = "searchState")
+        states = str(state_list[0]).split("\n")
+        for i in range(2, len(states) - 1):
+            # index 19 is when state names start
+            state = states[i][19: states[i].find("</")]
+            states[i - 2] = state.replace(" ", "-")
+        # remove last 3 elements (because reusing states list)
+        del states[-3:]
+        return states
+    
+    # Return a dataframe from this function with data for state
+    def scrape_state(self, state: str) -> pd.DataFrame:
+        self.df = pd.DataFrame(columns=self.__config['df_columns'])
         # parse html content of main html page
-        state_url = self.config['base_url'] + self.config['search_state'].format(state=state)
+        state_url = self.__config['base_url'] + self.__config['search_state'].format(state=state)
         r = requests.get(state_url)
         soup = BeautifulSoup(r.content, 'html.parser')
         # pipe the soup_html content into local data file (remove once analysis of html content completed)
@@ -34,13 +56,14 @@ class HouseScraper:
                     # for each fc: parse
                     self.scrape_foreclosure(fc)
                 print('\n', end="")
+        return self.df
     
     def scrape_area(self, area_tag: str) -> None:
         cities = area_tag.text
         cities_url = area_tag.get('href')
         print("Metro Area: \"" + cities + '\"\n' + "Path: \"" + cities_url + "\"", end='\n\n')
         # parse the url of area to get listings in that area
-        r = requests.get(self.config['base_url'] + cities_url)
+        r = requests.get(self.__config['base_url'] + cities_url)
         soup = BeautifulSoup(r.content, 'html.parser')
         # pipe the area content into local data file (remove once analysis of html content completed)
         # soup_content = soup.prettify()
@@ -62,7 +85,7 @@ class HouseScraper:
     def scrape_foreclosure(self, foreclosure_tag: str) -> None:
         url = foreclosure_tag.get('href')
         print(url[url.find("ci=") + 3: url.find("&")].replace("+", " ") + " Foreclosures", end='\n\n')
-        fc_url = url + self.config['init_page_count'] + self.config['init_page_number']
+        fc_url = url + self.__config['init_page_count'] + self.__config['init_page_number']
         self.scrape_page(fc_url, 1)
 
     def scrape_neighborhood(self, neighborhood_tag: str) -> None:
@@ -70,19 +93,18 @@ class HouseScraper:
         link = neighborhood_tag.get('href')
         index = link.find("url=")
         # append all search elements to url
-        neighborhood_url = link[index + 4:] + self.config['init_page_count'] + self.config['init_page_number']
+        neighborhood_url = link[index + 4:] + self.__config['init_page_count'] + self.__config['init_page_number']
         # change the url if it doesn't follow the pattern
-        if (self.config['base_listing_url'] + "/listing" not in neighborhood_url) or (self.config['base_listing_url'] + "/listings" in neighborhood_url):
+        if (self.__config['base_listing_url'] + "/listing" not in neighborhood_url) or (self.__config['base_listing_url'] + "/listings" in neighborhood_url):
             state = link[-link[::-1].find("-"): -1]
             city = link[-1 - link[::-1][1:].find("/"): -2 - len(state)]
-            neighborhood_url = self.config['base_listing_url'] + self.config['listing_search_path'].format(city=city,state=state) + self.config['init_page_count'] + self.config['init_page_number']
+            neighborhood_url = self.__config['base_listing_url'] + self.__config['listing_search_path'].format(city=city,state=state) + self.__config['init_page_count'] + self.__config['init_page_number']
         print("Neighborhood: \"" + neighborhood + '\"\n' + "Path: \"" + neighborhood_url + "\"")
         # scrape every page
         self.scrape_page(neighborhood_url, 1)
 
     def scrape_page(self, neighborhood_url: str, page_number: int) -> None:
-        # set user-agent in heaeder to mimic a browser
-        r = requests.get(neighborhood_url, headers=self.config['browser_header'])
+        r = requests.get(neighborhood_url, headers=self.__config['browser_header'])
         soup = BeautifulSoup(r.content, 'html.parser')
         # If there are 0 listings => stop scraping
         print("Page Number: " + str(page_number))
@@ -123,10 +145,19 @@ class HouseScraper:
             print("Price: " + str(price) + "\nAddress: " + address + "\nRent Estimate: "
                    + str(rent_estimate) + "\nBeds: " + str(bedrooms) + "\nBaths: " + str(bathrooms)
                    + "\nSq Ft: " + str(area) + "\nHome Type: " + str(home_type), end='\n\n')
+            house_df = pd.DataFrame(np.array([[price, address, rent_estimate, bedrooms, bathrooms, area, home_type]]), columns=self.__config['df_columns'])
+            self.df = pd.concat([self.df, house_df], ignore_index=True)
         return len(prices)
 
 # to run the file using "python3 <relative-path-of-file>"
 if __name__ == "__main__":
     h = HouseScraper(config_path='config/config.json')
-    # TODO: update with a list of states
-    h.scrape_state('Minnesota')
+    # regulate number of states to output
+    states = h.states[h.states.index('District-of-Columbia'): h.states.index('Florida')]
+    for state in states:
+        h.scrape_state(state)
+        # convert pandas -> pandas-on-spark -> spark dataframe
+        h.df = ps.from_pandas(h.df)
+        print(h.df)
+        # coalesce into 1 csv file
+        h.df.to_spark().coalesce(1).write.csv(f"data/{state}_hd.csv", header=True)
