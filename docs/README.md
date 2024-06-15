@@ -74,10 +74,22 @@ source .venv/bin/activate
 pip install -r requirements.txt
 ```
 
-**4. Run the script**:
+- If JRE (Java Runtime Environment) not present, download from https://www.oracle.com/java/technologies/downloads/ (Required for PySpark)
+
+**4. Run Program**:
+
+**Data Pipeline**
+
+- Populate raw csv file with updated data from website:
 
 ```sh
 python3 src/data_processing/house_scraper.py
+```
+
+- Clean and convert raw scraped csv file to exportable dataset:
+
+```sh
+python3 src/data_processing/house_data_converter.py data/raw/data_all_states.csv
 ```
 
 ## EC2 Setup
