@@ -95,10 +95,12 @@ class HouseScraper:
         # append all search elements to url
         neighborhood_url = link[index + 4:] + self.__config['init_page_count'] + self.__config['init_page_number']
         # change the url if it doesn't follow the pattern
-        if (self.__config['base_listing_url'] + "/listing" not in neighborhood_url) or (self.__config['base_listing_url'] + "/listings" in neighborhood_url):
+        if (self.__config['base_listing_url'] + "/listing" not in neighborhood_url) \
+            or (self.__config['base_listing_url'] + "/listings" in neighborhood_url):
             state = link[-link[::-1].find("-"): -1]
             city = link[-1 - link[::-1][1:].find("/"): -2 - len(state)]
-            neighborhood_url = self.__config['base_listing_url'] + self.__config['listing_search_path'].format(city=city,state=state) + self.__config['init_page_count'] + self.__config['init_page_number']
+            neighborhood_url = self.__config['base_listing_url'] + self.__config['listing_search_path'] \
+                .format(city=city,state=state) + self.__config['init_page_count'] + self.__config['init_page_number']
         print("Neighborhood: \"" + neighborhood + '\"\n' + "Path: \"" + neighborhood_url + "\"")
         # scrape every page
         self.scrape_page(neighborhood_url, 1)
@@ -145,7 +147,8 @@ class HouseScraper:
             print("Price: " + str(price) + "\nAddress: " + address + "\nRent Estimate: "
                    + str(rent_estimate) + "\nBeds: " + str(bedrooms) + "\nBaths: " + str(bathrooms)
                    + "\nSq Ft: " + str(area) + "\nHome Type: " + str(home_type), end='\n\n')
-            house_df = pd.DataFrame(np.array([[price, address, rent_estimate, bedrooms, bathrooms, area, home_type]]), columns=self.__config['df_columns'])
+            house_df = pd.DataFrame(np.array([[price, address, rent_estimate, bedrooms, bathrooms, area, home_type]]),\
+                                     columns=self.__config['df_columns'])
             self.df = pd.concat([self.df, house_df], ignore_index=True)
         return len(prices)
 
