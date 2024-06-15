@@ -43,8 +43,8 @@ The Housing Recommendation System is a Model designed to recommend Houses to a U
             - Type of House (Single, Mobile, Condo, etc)
 
     5. Store Data:
-            Convert house information to dataframe using filtering options(house listing info per state).
-            Export dataframe as csv file to further preprocess data and conduct EDA.
+            Convert each listing into a dataframe row. Append row to final dataframe.
+            Export final dataframe as csv file to further preprocess data and conduct EDA.
 
 **2. Clean and Preprocess Data**
 
