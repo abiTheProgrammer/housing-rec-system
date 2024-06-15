@@ -1,0 +1,804 @@
+Price,Address,Rent Estimate,Beds,Baths,Sq. Ft,Home Type
+"$434,870","Ausdale Rd, Cranston, RI 02910",$1660/m Estimated Rental Value,,,,Single-Family
+"$360,675","Curtis St, Cranston, RI 02920",$1770/m Estimated Rental Value,2 bed,2 bath,878 sqft.,Single-Family
+"$358,697","Woburn St, Cranston, RI 02910",$1520/m Estimated Rental Value,4 bed,1.5 bath,"1,212 sqft.",Single-Family
+"$159,334","Delway Rd, Cranston, RI 02910",$1460/m Estimated Rental Value,,,,
+"$412,094","Capuano Ave, Cranston, RI 02920",$1820/m Estimated Rental Value,3 bed,1 bath,"1,340 sqft.",Single-Family
+"$360,355","Argyle St, Cranston, RI 02920",$1400/m Estimated Rental Value,1 bed,1 bath,"1,152 sqft.",Single-Family
+"$388,097","Ashley St, Cranston, RI 02920",$1770/m Estimated Rental Value,3 bed,2 bath,"1,002 sqft.",Single-Family
+"$451,096","Brettonwoods Dr, Cranston, RI 02920",$1860/m Estimated Rental Value,3 bed,1.5 bath,"1,416 sqft.",Single-Family
+"$241,805","Pippin St, Cranston, RI 02920",$1630/m Estimated Rental Value,3 bed,2 bath,"1,248 sqft.",Single-Family
+"$431,167","Hawthorne Ave, Cranston, RI 02910",$1680/m Estimated Rental Value,4 bed,1.5 bath,"1,853 sqft.",Single-Family
+,"Cranston St # 2, Cranston, RI 02920",*Rental Value Coming Soon,,,,
+,"Meshanticut Valley Pkw..., Cranston, RI 02920",*Rental Value Coming Soon,,,,
+"$396,598","Eliot Rd, Cranston, RI 02910",$1550/m Estimated Rental Value,3 bed,1.5 bath,"1,318 sqft.",Single-Family
+"$414,838","Burdick Dr, Cranston, RI 02920",$1830/m Estimated Rental Value,3 bed,2 bath,"1,296 sqft.",Single-Family
+"$458,244","Quail Hollow Rd, Cranston, RI 02920",$2020/m Estimated Rental Value,3 bed,1 bath,"1,564 sqft.",Single-Family
+"$223,000","Whipple Ave, Cranston, RI 02920",$1610/m Estimated Rental Value,7 bed,3 bath,"3,263 sqft.",Multi-Family
+,"Elena St Apt 324, Cranston, RI 02920",*Rental Value Coming Soon,,,,
+"$430,694","Old Spring Rd, Cranston, RI 02920",$1840/m Estimated Rental Value,3 bed,1 bath,"1,034 sqft.",Single-Family
+"$474,676","Community Dr, Cranston, RI 02905",$1800/m Estimated Rental Value,,,,
+"$601,885","E Pine Rd, Cranston, RI 02921",$1860/m Estimated Rental Value,,,,
+"$306,005","Cannon St Apt 165, Cranston, RI 02920",$1090/m Estimated Rental Value,,,,
+"$610,372","Phenix Ave, Cranston, RI 02921",$2370/m Estimated Rental Value,3 bed,2.5 bath,"2,570 sqft.",Single-Family
+"$286,656","Fletcher Ave, Cranston, RI 02920",$1388/m Estimated Rental Value,3 bed,2 bath,"1,125 sqft.",Single-Family
+"$351,000","Albert Ave, Cranston, RI 02905",$1840/m Estimated Rental Value,6 bed,3 bath,"3,487 sqft.",Multi-Family
+,"Broad St Apt 104, Cranston, RI 02905",*Rental Value Coming Soon,,,,
+,"Westcott Ave, Cranston, RI 02910",*Rental Value Coming Soon,3 bed,1.5 bath,"1,340 sqft.",Single-Family
+"$260,525","N View Ave, Cranston, RI 02920",$1570/m Estimated Rental Value,3 bed,2 bath,"1,160 sqft.",Single-Family
+"$408,252","Auburn St, Cranston, RI 02910",$1640/m Estimated Rental Value,,,,
+"$686,914","Fox Ridge Dr, Cranston, RI 02921",$2650/m Estimated Rental Value,3 bed,2.5 bath,"3,063 sqft.",Single-Family
+"$439,000","Weston Ave, Cranston, RI 02920",$1950/m Estimated Rental Value,4 bed,2 bath,"2,378 sqft.",Multi-Family
+"$326,024","Chestnut Ave, Cranston, RI 02910",$1580/m Estimated Rental Value,3 bed,1.5 bath,"1,326 sqft.",Single-Family
+,"Oaklawn Ave Apt 106, Cranston, RI 02920",*Rental Value Coming Soon,,,,
+,"Scituate Ave # 2, Cranston, RI 02921",*Rental Value Coming Soon,8 bed,2 bath,"2,422 sqft.",Multi-Family
+"$326,607","Chestnut Ave, Cranston, RI 02910",$1490/m Estimated Rental Value,2 bed,1 bath,"1,040 sqft.",Single-Family
+"$394,000","Whipple Ave, Cranston, RI 02920",$1950/m Estimated Rental Value,6 bed,2 bath,"2,233 sqft.",Multi-Family
+,"Plainfield Pike, Cranston, RI 02921",*Rental Value Coming Soon,,,,
+,"Hoffman Ave Apt 2, Cranston, RI 02920",*Rental Value Coming Soon,,,,
+"$440,511","Midland Dr, Cranston, RI 02920",$1930/m Estimated Rental Value,3 bed,2 bath,"1,200 sqft.",Single-Family
+"$526,391","Kimberly Ln N, Cranston, RI 02921",$2150/m Estimated Rental Value,3 bed,2 bath,"1,470 sqft.",Single-Family
+"$279,219","High School Ave, Cranston, RI 02910",$1390/m Estimated Rental Value,,,,
+"$402,259","Roslyn Ave, Cranston, RI 02910",$1590/m Estimated Rental Value,3 bed,1.5 bath,"1,352 sqft.",Single-Family
+"$448,800","Ferncrest Ave, Cranston, RI 02905",$1790/m Estimated Rental Value,4 bed,1.5 bath,"2,048 sqft.",Single-Family
+,"Brady Ave, Cranston, RI 02905",*Rental Value Coming Soon,,,,
+"$374,148","Bracken St, Cranston, RI 02920",$1440/m Estimated Rental Value,4 bed,1 bath,"1,248 sqft.",Single-Family
+"$271,200","Oak St, Cranston, RI 02910",$1430/m Estimated Rental Value,4 bed,2 bath,"1,782 sqft.",Multi-Family
+"$639,534","Lippitt Ave, Cranston, RI 02921",$2080/m Estimated Rental Value,3 bed,2 bath,999 sqft.,Single-Family
+"$395,901","Harwood St, Cranston, RI 02910",$1560/m Estimated Rental Value,3 bed,1 bath,"1,456 sqft.",Single-Family
+,"Hawthorne Ave # 2, Cranston, RI 02910",*Rental Value Coming Soon,4 bed,2 bath,"2,123 sqft.",Multi-Family
+,"Independence Way Apt 3..., Cranston, RI 02921",*Rental Value Coming Soon,,,,
+,"Elena St Apt 209, Cranston, RI 02920",*Rental Value Coming Soon,,,,
+"$323,303","Westwood Ave, Cranston, RI 02905",$1610/m Estimated Rental Value,3 bed,1 bath,"1,751 sqft.",Single-Family
+"$448,005","Eagle Rd, Cranston, RI 02920",$1920/m Estimated Rental Value,3 bed,1 bath,"1,392 sqft.",Single-Family
+"$377,673","Paine Ave, Cranston, RI 02910",$1480/m Estimated Rental Value,3 bed,1.5 bath,"1,440 sqft.",Single-Family
+"$315,775","Belmont Rd, Cranston, RI 02910",$1550/m Estimated Rental Value,,,,
+"$606,800","North St, Cranston, RI 02920",$1950/m Estimated Rental Value,8 bed,3 bath,"3,658 sqft.",Multi-Family
+"$563,418","Baneberry Dr, Cranston, RI 02921",$2180/m Estimated Rental Value,3 bed,2.5 bath,"1,644 sqft.",Single-Family
+"$376,747","Park View Blvd, Cranston, RI 02910",$1580/m Estimated Rental Value,4 bed,2 bath,"1,267 sqft.",Single-Family
+"$475,200","Hillwood St, Cranston, RI 02920",$1620/m Estimated Rental Value,3 bed,2 bath,"1,078 sqft.",Single-Family
+"$475,200","Hillwood St, Cranston, RI 02920",$1620/m Estimated Rental Value,3 bed,2 bath,"1,078 sqft.",Single-Family
+"$358,697","Woburn St, Cranston, RI 02910",$1520/m Estimated Rental Value,4 bed,2 bath,"1,535 sqft.",Single-Family
+"$358,697","Woburn St, Cranston, RI 02910",$1520/m Estimated Rental Value,4 bed,1.5 bath,"1,535 sqft.",Single-Family
+"$475,200","Hillwood St, Cranston, RI 02920",$1620/m Estimated Rental Value,4 bed,2 bath,"1,800 sqft.",Single-Family
+"$475,200","Hillwood St, Cranston, RI 02920",$1620/m Estimated Rental Value,,,,
+"$358,697","Woburn St, Cranston, RI 02910",$1520/m Estimated Rental Value,4 bed,1 bath,"1,212 sqft.",Single-Family
+,"Fenner St Apt 3, Cranston, RI 02910",*Rental Value Coming Soon,,,,
+,"Curry Rd, Cranston, RI 02920",*Rental Value Coming Soon,,,,
+"$345,562","Wheeler Ave, Cranston, RI 02905",$1570/m Estimated Rental Value,3 bed,1 bath,"1,174 sqft.",Single-Family
+,"Pleasant St # 2, Cranston, RI 02910",*Rental Value Coming Soon,,,,
+"$453,200","Hazelwood Ave, East Providence, RI 02914",$1680/m Estimated Rental Value,7 bed,2 bath,"1,664 sqft.",Multi-Family
+,"Warren Ave, East Providence, RI 02914",*Rental Value Coming Soon,,,,
+,"Office Pkwy Apt 104, East Providence, RI 02914",*Rental Value Coming Soon,,,,
+"$355,312","Arlington St, East Providence, RI 02914",$1530/m Estimated Rental Value,2 bed,2 bath,"1,092 sqft.",Single-Family
+,"Goldsmith Ave Apt 507, East Providence, RI 02914",*Rental Value Coming Soon,,,,
+"$383,809","Belmont Ave, East Providence, RI 02914",$1610/m Estimated Rental Value,2 bed,1.5 bath,"1,344 sqft.",Single-Family
+"$265,800","Follett St, East Providence, RI 02914",$1151/m Estimated Rental Value,4 bed,2 bath,"1,584 sqft.",Multi-Family
+"$421,545","Maxfield Ave, East Providence, RI 02914",$1700/m Estimated Rental Value,2 bed,1 bath,"1,296 sqft.",Single-Family
+"$383,139","Blanding Ave, East Providence, RI 02914",$1590/m Estimated Rental Value,3 bed,2.5 bath,"1,165 sqft.",Single-Family
+"$350,845","Martello St, East Providence, RI 02914",$1540/m Estimated Rental Value,3 bed,2 bath,"1,040 sqft.",Single-Family
+"$189,922","Ruth St, Pawtucket, RI 02861",*Rental Value Coming Soon,2 bed,1 bath,"1,176 sqft.",Single-Family
+"$145,520","Bloomingdale Ave, Pawtucket, RI 02860",*Rental Value Coming Soon,2 bed,1 bath,672 sqft.,Single-Family
+"$240,945","Grotto Ave, Pawtucket, RI 02860",*Rental Value Coming Soon,3 bed,1 bath,"1,440 sqft.",Single-Family
+"$237,576","Revere St, Pawtucket, RI 02861",*Rental Value Coming Soon,2 bed,1 bath,"1,072 sqft.",Single-Family
+"$185,956","Lloyd St, Pawtucket, RI 02860",*Rental Value Coming Soon,2 bed,1 bath,840 sqft.,Single-Family
+"$203,674","Diana Dr, Pawtucket, RI 02861",*Rental Value Coming Soon,2 bed,2 bath,958 sqft.,Single-Family
+,"Harrison St Apt 2, Pawtucket, RI 02860",*Rental Value Coming Soon,,,,
+"$225,911","Suffolk Ave, Pawtucket, RI 02861",*Rental Value Coming Soon,,,,
+"$206,097","Atwood Ave, Pawtucket, RI 02860",*Rental Value Coming Soon,3 bed,1 bath,"1,009 sqft.",Single-Family
+"$204,885","Glen Meadows Dr, Pawtucket, RI 02861",*Rental Value Coming Soon,3 bed,1 bath,"1,036 sqft.",Single-Family
+,"Broadway Apt 511, Pawtucket, RI 02860",*Rental Value Coming Soon,,,,
+,"Central Ave, Pawtucket, RI 02861",*Rental Value Coming Soon,,,,
+,"Evergreen St Apt 6, Pawtucket, RI 02861",*Rental Value Coming Soon,,,,
+,"Armistice Blvd # 3, Pawtucket, RI 02860",*Rental Value Coming Soon,,,,
+"$244,205","Garden St, Pawtucket, RI 02860",*Rental Value Coming Soon,6 bed,3 bath,"2,280 sqft.",Multi-Family
+,"Cottage St Apt 7, Pawtucket, RI 02860",*Rental Value Coming Soon,,,,
+,"Grand Ave, Pawtucket, RI 02861",*Rental Value Coming Soon,,,,
+,"Webster St # 1, Pawtucket, RI 02861",*Rental Value Coming Soon,4 bed,2 bath,"2,399 sqft.",Multi-Family
+"$200,601","Carter Ave, Pawtucket, RI 02861",*Rental Value Coming Soon,4 bed,1 bath,"1,008 sqft.",Single-Family
+"$170,765","Grove St, Pawtucket, RI 02860",*Rental Value Coming Soon,2 bed,1.5 bath,964 sqft.,Condo
+"$250,665","Mccabe Ave, Pawtucket, RI 02861",*Rental Value Coming Soon,3 bed,1.5 bath,"1,645 sqft.",Single-Family
+"$242,335","Thomas Ave, Pawtucket, RI 02860",*Rental Value Coming Soon,6 bed,2 bath,"2,340 sqft.",Multi-Family
+"$198,088","Glen Meadows Dr, Pawtucket, RI 02861",*Rental Value Coming Soon,3 bed,1 bath,936 sqft.,Single-Family
+"$283,543","Maynard St, Pawtucket, RI 02860",*Rental Value Coming Soon,4 bed,1.5 bath,"2,464 sqft.",Single-Family
+"$225,845","Hazard St, Pawtucket, RI 02860",*Rental Value Coming Soon,4 bed,1 bath,"1,500 sqft.",Single-Family
+,"Parkview Dr Apt 14, Pawtucket, RI 02861",*Rental Value Coming Soon,,,,
+"$244,545","Chaplin St, Pawtucket, RI 02861",*Rental Value Coming Soon,4 bed,2 bath,"2,122 sqft.",Multi-Family
+"$341,081","Bellmore Dr, Pawtucket, RI 02861",*Rental Value Coming Soon,3 bed,1.5 bath,"1,400 sqft.",Single-Family
+,"Capital St # 1, Pawtucket, RI 02860",*Rental Value Coming Soon,6 bed,5 bath,"4,554 sqft.",Multi-Family
+"$274,720","Avon St, Pawtucket, RI 02860",*Rental Value Coming Soon,4 bed,2 bath,"1,728 sqft.",Single-Family
+"$213,238","Windsor Rd, Pawtucket, RI 02861",*Rental Value Coming Soon,3 bed,1 bath,"1,092 sqft.",Single-Family
+,"Rhode Island Ave, Pawtucket, RI 02860",*Rental Value Coming Soon,,,,
+"$212,926","Oakdale Ave, Pawtucket, RI 02860",*Rental Value Coming Soon,4 bed,1.5 bath,"1,324 sqft.",Single-Family
+,"Madison St # 2, Pawtucket, RI 02861",*Rental Value Coming Soon,,,,Single-Family
+,"Ashton St, Pawtucket, RI 02860",*Rental Value Coming Soon,,,,
+,"Exchange St # 639, Pawtucket, RI 02860",*Rental Value Coming Soon,,,0 sqft.,
+"$189,922","Ruth St, Pawtucket, RI 02861",*Rental Value Coming Soon,2 bed,1 bath,876 sqft.,Single-Family
+"$245,310","Power Rd, Pawtucket, RI 02860",*Rental Value Coming Soon,2 bed,1 bath,"1,612 sqft.",Single-Family
+,"Mineral Spring Ave Apt..., Pawtucket, RI 02860",*Rental Value Coming Soon,,,,
+"$194,903","Rodman St, Providence, RI 02907",*Rental Value Coming Soon,3 bed,1.5 bath,"1,254 sqft.",Single-Family
+"$280,000","Orms St, Providence, RI 02908",$1910/m Estimated Rental Value,9 bed,3 bath,"5,078 sqft.",Multi-Family
+"$202,215","California Ave, Providence, RI 02905",*Rental Value Coming Soon,4 bed,1 bath,"1,560 sqft.",Single-Family
+"$260,462","Edgemere Ave, Providence, RI 02909",*Rental Value Coming Soon,4 bed,2.5 bath,"1,328 sqft.",Single-Family
+"$221,935","Bath St, Providence, RI 02908",*Rental Value Coming Soon,6 bed,3 bath,"2,288 sqft.",Multi-Family
+"$309,570","Steele St, Providence, RI 02906",*Rental Value Coming Soon,,,,
+"$256,870","Corinth St, Providence, RI 02907",*Rental Value Coming Soon,6 bed,3 bath,"3,210 sqft.",Multi-Family
+,"Charles St # 2, North Providence, RI 02904",*Rental Value Coming Soon,4 bed,2.5 bath,"1,642 sqft.",Multi-Family
+,"Camden Ave # 3, Providence, RI 02908",*Rental Value Coming Soon,,,,
+,"Public St # 2f, Providence, RI 02905",*Rental Value Coming Soon,,,,
+,"Gray St, Providence, RI 02909",*Rental Value Coming Soon,,,,
+"$178,604","Brighton St, Providence, RI 02909",*Rental Value Coming Soon,,,,
+,"Tanglewood Ln Apt 116, North Providence, RI 02904",*Rental Value Coming Soon,,,,
+,"Jastram St, Providence, RI 02908",*Rental Value Coming Soon,,,,
+"$189,890","Gallatin St, Providence, RI 02907",*Rental Value Coming Soon,3 bed,1 bath,"1,930 sqft.",Single-Family
+"$170,935","Linwood Ave, Providence, RI 02907",*Rental Value Coming Soon,3 bed,1 bath,"1,674 sqft.",Single-Family
+"$244,545","Berkley St, Providence, RI 02908",*Rental Value Coming Soon,6 bed,3 bath,"2,907 sqft.",Multi-Family
+"$185,158","Burleigh St, Providence, RI 02904",*Rental Value Coming Soon,2 bed,1.5 bath,"1,036 sqft.",Condo
+,"Stella St # 1, Providence, RI 02909",*Rental Value Coming Soon,4 bed,2 bath,"1,784 sqft.",Multi-Family
+,"Dartmouth Ave # 1, Providence, RI 02907",*Rental Value Coming Soon,5 bed,3 bath,"2,770 sqft.",Multi-Family
+"$260,065","Gallatin St, Providence, RI 02907",*Rental Value Coming Soon,5 bed,3 bath,"3,329 sqft.",Multi-Family
+"$318,300","Curtis St, Providence, RI 02909",$1570/m Estimated Rental Value,4 bed,3 bath,"2,304 sqft.",Multi-Family
+,"Messer St, Providence, RI 02909",*Rental Value Coming Soon,,,,
+"$474,676","Community Dr, Cranston, RI 02905",$1800/m Estimated Rental Value,,,,
+,"S Water St Apt 317, Providence, RI 02903",*Rental Value Coming Soon,,,,
+,"Mount Pleasant Ave Apt 1, Providence, RI 02908",*Rental Value Coming Soon,,,,
+,"Hartford Ave # 303, Providence, RI 02909",*Rental Value Coming Soon,,,,
+"$22,978,815","Valley St, Providence, RI 02909",$2120/m Estimated Rental Value,,,,Single-Family
+"$165,465","Metropolitan Rd, Providence, RI 02908",*Rental Value Coming Soon,2 bed,1 bath,816 sqft.,Single-Family
+,"Douglas Ave Apt E66, North Providence, RI 02904",*Rental Value Coming Soon,,,,
+"$187,935","Douglas Ave, Providence, RI 02908",*Rental Value Coming Soon,,,,
+"$367,463","Talbot St, North Providence, RI 02904",$1630/m Estimated Rental Value,3 bed,2.5 bath,"1,144 sqft.",Single-Family
+"$244,885","Herschel St, Providence, RI 02909",*Rental Value Coming Soon,3 bed,1 bath,"2,058 sqft.",Single-Family
+"$351,000","Albert Ave, Cranston, RI 02905",$1840/m Estimated Rental Value,6 bed,3 bath,"3,487 sqft.",Multi-Family
+,"Valley Green Court, North Providence, RI 02904",*Rental Value Coming Soon,2 bed,3 bath,"1,440 sqft.",Condo
+,"Charles St Apt 29, North Providence, RI 02904",*Rental Value Coming Soon,,,,
+,"Grape St # 2, Providence, RI 02908",*Rental Value Coming Soon,,,,
+,"Westwood Manor Dr Apt 1r, Providence, RI 02909",*Rental Value Coming Soon,,,,
+"$422,960","Primrose St, Providence, RI 02909",*Rental Value Coming Soon,6 bed,3 bath,"3,644 sqft.",Multi-Family
+"$302,544","Adams St, North Providence, RI 02904",$1610/m Estimated Rental Value,3 bed,1 bath,928 sqft.,Single-Family
+"$290,360","Kentland Ave, North Providence, RI 02908",$1660/m Estimated Rental Value,,,,
+,"Alton St # 1, Providence, RI 02908",*Rental Value Coming Soon,6 bed,3 bath,"2,814 sqft.",Multi-Family
+,"Broad St Apt 104, Cranston, RI 02905",*Rental Value Coming Soon,,,,
+,"Dakota St, Providence, RI 02904",*Rental Value Coming Soon,,,,
+"$271,830","Fairoaks Ave, Providence, RI 02908",*Rental Value Coming Soon,4 bed,2 bath,"1,986 sqft.",Single-Family
+"$189,803","Whittier Ave, Providence, RI 02909",*Rental Value Coming Soon,3 bed,1 bath,"1,120 sqft.",Single-Family
+"$126,905","Ada St, Providence, RI 02909",*Rental Value Coming Soon,1 bed,1 bath,609 sqft.,Single-Family
+"$368,780","Florence St, North Providence, RI 02904",$1630/m Estimated Rental Value,4 bed,1 bath,"1,254 sqft.",Single-Family
+,"Puritan St # 8, North Providence, RI 02904",*Rental Value Coming Soon,,,,
+,"Broad St Apt 1019, Providence, RI 02903",*Rental Value Coming Soon,,,,
+,"Abbott St Apt 12, Providence, RI 02906",*Rental Value Coming Soon,,,,
+"$411,331","Brown St, North Providence, RI 02904",$1690/m Estimated Rental Value,4 bed,3 bath,"2,714 sqft.",Single-Family
+"$227,460","Canton St, Providence, RI 02908",*Rental Value Coming Soon,3 bed,1.5 bath,"1,465 sqft.",Single-Family
+"$430,167","Rosner Ave, North Providence, RI 02904",$1630/m Estimated Rental Value,3 bed,1 bath,"1,236 sqft.",Single-Family
+"$261,000","Douglas Ave, Providence, RI 02908",$1570/m Estimated Rental Value,6 bed,3 bath,"2,745 sqft.",Multi-Family
+"$182,835","Corinth St, Providence, RI 02907",*Rental Value Coming Soon,4 bed,2.5 bath,"1,517 sqft.",Single-Family
+"$168,980","Blackstone St, Providence, RI 02907",*Rental Value Coming Soon,5 bed,1 bath,"1,334 sqft.",Single-Family
+,"Daniel Ave # 2, Providence, RI 02909",*Rental Value Coming Soon,4 bed,2 bath,"2,592 sqft.",Multi-Family
+,"Dodge St, North Providence, RI 02904",*Rental Value Coming Soon,3 bed,1 bath,"1,275 sqft.",Single-Family
+,"Newcomb St, Providence, RI 02908",*Rental Value Coming Soon,4 bed,3 bath,"1,976 sqft.",Multi-Family
+"$149,175","Camden Ave, Providence, RI 02908",*Rental Value Coming Soon,3 bed,1.5 bath,"1,040 sqft.",Single-Family
+,"Raymond St # 1, Providence, RI 02908",*Rental Value Coming Soon,8 bed,4 bath,"4,043 sqft.",Multi-Family
+"$261,348","Isabella Ave, Providence, RI 02908",*Rental Value Coming Soon,3 bed,1 bath,"1,156 sqft.",Single-Family
+"$363,600","Jane St, North Providence, RI 02904",$1640/m Estimated Rental Value,3 bed,1.5 bath,"1,681 sqft.",Single-Family
+"$448,800","Ferncrest Ave, Cranston, RI 02905",$1790/m Estimated Rental Value,4 bed,1.5 bath,"2,048 sqft.",Single-Family
+"$220,235","Miner St, Providence, RI 02905",*Rental Value Coming Soon,8 bed,3 bath,"2,704 sqft.",Multi-Family
+,"Brady Ave, Cranston, RI 02905",*Rental Value Coming Soon,,,,
+"$392,275","Bonaparte St, North Providence, RI 02904",$1630/m Estimated Rental Value,4 bed,2 bath,"1,152 sqft.",Single-Family
+"$208,760","Loveday St, Providence, RI 02908",*Rental Value Coming Soon,6 bed,2 bath,"1,827 sqft.",Multi-Family
+"$242,335","Daboll St, Providence, RI 02907",*Rental Value Coming Soon,,,,
+"$223,975","Tyndall Ave, Providence, RI 02908",*Rental Value Coming Soon,4 bed,1 bath,"1,271 sqft.",Single-Family
+,"Sumter St # 2nd, Providence, RI 02907",*Rental Value Coming Soon,,,,
+,"Wood St, Providence, RI 02909",*Rental Value Coming Soon,,,,
+"$266,310","Charles St, Providence, RI 02904",$1181/m Estimated Rental Value,2 bed,1 bath,"5,724 sqft.",Single-Family
+,"Eddy St, Providence, RI 02905",*Rental Value Coming Soon,,,,
+"$178,755","Hazael St, Providence, RI 02908",*Rental Value Coming Soon,4 bed,2 bath,"2,288 sqft.",Multi-Family
+"$247,095","River Ave, Providence, RI 02908",*Rental Value Coming Soon,8 bed,3 bath,"2,859 sqft.",Multi-Family
+,"New York Ave # 1, Providence, RI 02905",*Rental Value Coming Soon,,,,
+"$323,303","Westwood Ave, Cranston, RI 02905",$1610/m Estimated Rental Value,3 bed,1 bath,"1,751 sqft.",Single-Family
+"$472,009","E Lakeview Dr, North Providence, RI 02904",$1650/m Estimated Rental Value,3 bed,2 bath,"1,584 sqft.",Single-Family
+"$213,010","Mercy St, Providence, RI 02909",*Rental Value Coming Soon,3 bed,1 bath,"1,784 sqft.",Single-Family
+"$419,400","Whitney St, Providence, RI 02907",$1770/m Estimated Rental Value,8 bed,2 bath,"2,990 sqft.",Multi-Family
+"$463,410","Ward Ave, North Providence, RI 02904",$1378/m Estimated Rental Value,4 bed,3 bath,"1,748 sqft.",Multi-Family
+"$216,304","Lucy St, Providence, RI 02909",*Rental Value Coming Soon,4 bed,1.5 bath,"1,109 sqft.",Single-Family
+"$259,675","Mongenais St, Providence, RI 02909",*Rental Value Coming Soon,6 bed,3 bath,"2,684 sqft.",Multi-Family
+"$332,222","Vicksburg St, Providence, RI 02904",*Rental Value Coming Soon,6 bed,4.5 bath,"2,484 sqft.",Multi-Family
+"$202,215","California Ave, Providence, RI 02905",*Rental Value Coming Soon,4 bed,1 bath,"1,560 sqft.",Single-Family
+"$260,462","Edgemere Ave, Providence, RI 02909",*Rental Value Coming Soon,4 bed,3 bath,"1,328 sqft.",Single-Family
+"$348,755","Cypress St, Providence, RI 02906",*Rental Value Coming Soon,,,0 sqft.,
+"$202,215","California Ave, Providence, RI 02905",*Rental Value Coming Soon,4 bed,1 bath,"1,560 sqft.",Single-Family
+"$260,462","Edgemere Ave, Providence, RI 02909",*Rental Value Coming Soon,3 bed,1.5 bath,"2,442 sqft.",Single-Family
+"$139,740","Manton Ave, Providence, RI 02909",*Rental Value Coming Soon,2 bed,1 bath,780 sqft.,Single-Family
+"$348,755","Cypress St, Providence, RI 02906",*Rental Value Coming Soon,6 bed,3 bath,"3,498 sqft.",
+"$139,740","Manton Ave, Providence, RI 02909",*Rental Value Coming Soon,2 bed,1 bath,780 sqft.,Single-Family
+"$202,215","California Ave, Providence, RI 02905",*Rental Value Coming Soon,4 bed,1 bath,"1,560 sqft.",Single-Family
+"$260,462","Edgemere Ave, Providence, RI 02909",*Rental Value Coming Soon,3 bed,1.5 bath,"2,442 sqft.",Single-Family
+"$235,535","What Cheer Ave, Providence, RI 02909",*Rental Value Coming Soon,3 bed,2 bath,"2,280 sqft.",Single-Family
+"$235,535","What Cheer Ave, Providence, RI 02909",*Rental Value Coming Soon,3 bed,2 bath,"1,680 sqft.",Single-Family
+,"9th St, Providence, RI 02906",*Rental Value Coming Soon,4 bed,2 bath,"2,652 sqft.",Multi-Family
+"$345,562","Wheeler Ave, Cranston, RI 02905",$1570/m Estimated Rental Value,3 bed,1 bath,"1,174 sqft.",Single-Family
+,"Eagle St # B109, Providence, RI 02908",*Rental Value Coming Soon,,,,
+,"Carpenter St Apt 106, Providence, RI 02909",*Rental Value Coming Soon,,,,
+"$260,462","Edgemere Ave, Providence, RI 02909",*Rental Value Coming Soon,4 bed,2.5 bath,"1,328 sqft.",Single-Family
+,"Wood St, Providence, RI 02909",*Rental Value Coming Soon,8 bed,3 bath,"2,839 sqft.",Multi-Family
+"$109,900","Whittier Ave, Providence, RI 02909",*Rental Value Coming Soon,6 bed,3 bath,"3,288 sqft.",
+"$981,100","New Meadow Rd, Barrington, RI 02806",$2170/m Estimated Rental Value,4 bed,2 bath,"2,762 sqft.",Multi-Family
+"$604,235","Brown Ave, Barrington, RI 02806",$2180/m Estimated Rental Value,4 bed,2 bath,"1,488 sqft.",Single-Family
+"$485,475","Spruce St, Barrington, RI 02806",$2040/m Estimated Rental Value,3 bed,1.5 bath,"1,064 sqft.",Single-Family
+,"Foote St # 2, Barrington, RI 02806",*Rental Value Coming Soon,4 bed,2 bath,"1,365 sqft.",Multi-Family
+"$494,010","Brook St, Barrington, RI 02806",$2090/m Estimated Rental Value,,,,
+"$378,337","New Meadow Rd, Barrington, RI 02806",$2000/m Estimated Rental Value,2 bed,1 bath,883 sqft.,Single-Family
+"$492,607","New Hampshire Ave, Barrington, RI 02806",$2220/m Estimated Rental Value,3 bed,2 bath,"1,488 sqft.",Single-Family
+,"Franklin St Unit 217, Bristol, RI 02809",*Rental Value Coming Soon,,,,
+"$642,616","Michael Dr, Bristol, RI 02809",$2040/m Estimated Rental Value,4 bed,2.5 bath,"1,892 sqft.",Single-Family
+,"Child Street, # 609, Bristol, RI 02809",*Rental Value Coming Soon,,,,
+"$370,676","Rosedale Dr, Bristol, RI 02809",$1570/m Estimated Rental Value,3 bed,1 bath,"1,080 sqft.",Single-Family
+,"Hope St # 1, Bristol, RI 02809",*Rental Value Coming Soon,,,,
+,"Diamond Hill Rd, Chepachet, RI 02814",*Rental Value Coming Soon,,,,
+"$184,579","Pawtucket Ave, Chepachet, RI 02814",$1470/m Estimated Rental Value,2 bed,1 bath,275 sqft.,Single-Family
+"$418,154","Terrace Dr, Chepachet, RI 02814",$1830/m Estimated Rental Value,,,,
+"$346,143","Lake Washington Dr, Chepachet, RI 02814",$1600/m Estimated Rental Value,3 bed,1 bath,960 sqft.,Single-Family
+"$530,410","Lake Washington Dr, Chepachet, RI 02814",*Rental Value Coming Soon,,,,
+"$627,956","Lake View Dr, Chepachet, RI 02814",$1900/m Estimated Rental Value,2 bed,1.5 bath,"1,370 sqft.",Single-Family
+,"Pine Orchard Rd, Glocester, RI 02814",*Rental Value Coming Soon,3 bed,2 bath,"1,560 sqft.",Single-Family
+"$282,635","Plainfield Pike, Coventry, RI 02827",$1470/m Estimated Rental Value,2 bed,1 bath,"1,020 sqft.",Single-Family
+"$322,285","Paulette Dr, Coventry, RI 02816",$1580/m Estimated Rental Value,3 bed,1 bath,"1,200 sqft.",Single-Family
+"$189,000","Tiogue Ave, Coventry, RI 02816",$1670/m Estimated Rental Value,3 bed,1 bath,"1,150 sqft.",Single-Family
+"$196,010","King Philip Rd, Coventry, RI 02816",*Rental Value Coming Soon,3 bed,2.5 bath,"2,016 sqft.",Single-Family
+"$83,045","Park Ln, Coventry, RI 02816",*Rental Value Coming Soon,2 bed,1 bath,744 sqft.,Single-Family
+"$415,464","Mulberry Ct, Coventry, RI 02816",$1610/m Estimated Rental Value,2 bed,1 bath,"1,176 sqft.",Single-Family
+"$372,964","Knotty Oak Rd, Coventry, RI 02816",$1510/m Estimated Rental Value,3 bed,1.5 bath,"1,365 sqft.",Single-Family
+"$583,821","Nicholas Rd, Coventry, RI 02827",$2120/m Estimated Rental Value,3 bed,2.5 bath,"1,976 sqft.",Single-Family
+"$372,967","Salem St, Coventry, RI 02816",$1610/m Estimated Rental Value,3 bed,1.5 bath,"1,560 sqft.",Single-Family
+"$283,682","Knotty Oak Rd, Coventry, RI 02816",$1500/m Estimated Rental Value,2 bed,1 bath,"1,080 sqft.",Single-Family
+,"Read Ave, Coventry, RI 02816",*Rental Value Coming Soon,4 bed,2 bath,"2,176 sqft.",Multi-Family
+"$467,231","Walker Ln, Coventry, RI 02816",$1740/m Estimated Rental Value,3 bed,2 bath,"1,144 sqft.",Single-Family
+"$504,886","Archer Way, Coventry, RI 02816",$1870/m Estimated Rental Value,2 bed,1 bath,"1,680 sqft.",Single-Family
+"$384,545","Longfellow Dr, Coventry, RI 02816",$1550/m Estimated Rental Value,3 bed,1.5 bath,"1,318 sqft.",Single-Family
+"$331,159","Bee St, Coventry, RI 02816",$1480/m Estimated Rental Value,3 bed,1 bath,"1,040 sqft.",Single-Family
+,"Hammet Rd, Coventry, RI 02816",*Rental Value Coming Soon,,,,
+,"Murray St Apt 46, Coventry, RI 02816",*Rental Value Coming Soon,,,,
+"$316,287","Twin Lakes Ave, Coventry, RI 02816",$1281/m Estimated Rental Value,3 bed,1.5 bath,832 sqft.,Single-Family
+,"Anthony St Apt 5, Coventry, RI 02816",*Rental Value Coming Soon,,,,
+"$388,859","Old Carriage Rd, Coventry, RI 02816",$1650/m Estimated Rental Value,2 bed,1 bath,"1,092 sqft.",Single-Family
+"$282,635","Plainfield Pike, Coventry, RI 02827",$1470/m Estimated Rental Value,2 bed,1 bath,"1,020 sqft.",Single-Family
+"$90,695","Torch Ln, Coventry, RI 02816",*Rental Value Coming Soon,2 bed,2 bath,840 sqft.,Single-Family
+"$434,870","Ausdale Rd, Cranston, RI 02910",$1660/m Estimated Rental Value,,,,Single-Family
+"$360,675","Curtis St, Cranston, RI 02920",$1770/m Estimated Rental Value,2 bed,2 bath,878 sqft.,Single-Family
+"$358,697","Woburn St, Cranston, RI 02910",$1520/m Estimated Rental Value,4 bed,1.5 bath,"1,212 sqft.",Single-Family
+"$159,334","Delway Rd, Cranston, RI 02910",$1460/m Estimated Rental Value,,,,
+"$412,094","Capuano Ave, Cranston, RI 02920",$1820/m Estimated Rental Value,3 bed,1 bath,"1,340 sqft.",Single-Family
+"$360,355","Argyle St, Cranston, RI 02920",$1400/m Estimated Rental Value,1 bed,1 bath,"1,152 sqft.",Single-Family
+"$388,097","Ashley St, Cranston, RI 02920",$1770/m Estimated Rental Value,3 bed,2 bath,"1,002 sqft.",Single-Family
+"$451,096","Brettonwoods Dr, Cranston, RI 02920",$1860/m Estimated Rental Value,3 bed,1.5 bath,"1,416 sqft.",Single-Family
+"$241,805","Pippin St, Cranston, RI 02920",$1630/m Estimated Rental Value,3 bed,2 bath,"1,248 sqft.",Single-Family
+"$431,167","Hawthorne Ave, Cranston, RI 02910",$1680/m Estimated Rental Value,4 bed,1.5 bath,"1,853 sqft.",Single-Family
+,"Cranston St # 2, Cranston, RI 02920",*Rental Value Coming Soon,,,,
+,"Meshanticut Valley Pkw..., Cranston, RI 02920",*Rental Value Coming Soon,,,,
+"$396,598","Eliot Rd, Cranston, RI 02910",$1550/m Estimated Rental Value,3 bed,1.5 bath,"1,318 sqft.",Single-Family
+"$414,838","Burdick Dr, Cranston, RI 02920",$1830/m Estimated Rental Value,3 bed,2 bath,"1,296 sqft.",Single-Family
+"$458,244","Quail Hollow Rd, Cranston, RI 02920",$2020/m Estimated Rental Value,3 bed,1 bath,"1,564 sqft.",Single-Family
+"$223,000","Whipple Ave, Cranston, RI 02920",$1610/m Estimated Rental Value,7 bed,3 bath,"3,263 sqft.",Multi-Family
+,"Elena St Apt 324, Cranston, RI 02920",*Rental Value Coming Soon,,,,
+"$430,694","Old Spring Rd, Cranston, RI 02920",$1840/m Estimated Rental Value,3 bed,1 bath,"1,034 sqft.",Single-Family
+"$474,676","Community Dr, Cranston, RI 02905",$1800/m Estimated Rental Value,,,,
+"$601,885","E Pine Rd, Cranston, RI 02921",$1860/m Estimated Rental Value,,,,
+"$306,005","Cannon St Apt 165, Cranston, RI 02920",$1090/m Estimated Rental Value,,,,
+"$610,372","Phenix Ave, Cranston, RI 02921",$2370/m Estimated Rental Value,3 bed,2.5 bath,"2,570 sqft.",Single-Family
+"$286,656","Fletcher Ave, Cranston, RI 02920",$1388/m Estimated Rental Value,3 bed,2 bath,"1,125 sqft.",Single-Family
+"$351,000","Albert Ave, Cranston, RI 02905",$1840/m Estimated Rental Value,6 bed,3 bath,"3,487 sqft.",Multi-Family
+,"Broad St Apt 104, Cranston, RI 02905",*Rental Value Coming Soon,,,,
+,"Westcott Ave, Cranston, RI 02910",*Rental Value Coming Soon,3 bed,1.5 bath,"1,340 sqft.",Single-Family
+"$260,525","N View Ave, Cranston, RI 02920",$1570/m Estimated Rental Value,3 bed,2 bath,"1,160 sqft.",Single-Family
+"$408,252","Auburn St, Cranston, RI 02910",$1640/m Estimated Rental Value,,,,
+"$686,914","Fox Ridge Dr, Cranston, RI 02921",$2650/m Estimated Rental Value,3 bed,2.5 bath,"3,063 sqft.",Single-Family
+"$439,000","Weston Ave, Cranston, RI 02920",$1950/m Estimated Rental Value,4 bed,2 bath,"2,378 sqft.",Multi-Family
+"$326,024","Chestnut Ave, Cranston, RI 02910",$1580/m Estimated Rental Value,3 bed,1.5 bath,"1,326 sqft.",Single-Family
+,"Oaklawn Ave Apt 106, Cranston, RI 02920",*Rental Value Coming Soon,,,,
+,"Scituate Ave # 2, Cranston, RI 02921",*Rental Value Coming Soon,8 bed,2 bath,"2,422 sqft.",Multi-Family
+"$326,607","Chestnut Ave, Cranston, RI 02910",$1490/m Estimated Rental Value,2 bed,1 bath,"1,040 sqft.",Single-Family
+"$394,000","Whipple Ave, Cranston, RI 02920",$1950/m Estimated Rental Value,6 bed,2 bath,"2,233 sqft.",Multi-Family
+,"Plainfield Pike, Cranston, RI 02921",*Rental Value Coming Soon,,,,
+,"Hoffman Ave Apt 2, Cranston, RI 02920",*Rental Value Coming Soon,,,,
+"$440,511","Midland Dr, Cranston, RI 02920",$1930/m Estimated Rental Value,3 bed,2 bath,"1,200 sqft.",Single-Family
+"$526,391","Kimberly Ln N, Cranston, RI 02921",$2150/m Estimated Rental Value,3 bed,2 bath,"1,470 sqft.",Single-Family
+"$279,219","High School Ave, Cranston, RI 02910",$1390/m Estimated Rental Value,,,,
+"$402,259","Roslyn Ave, Cranston, RI 02910",$1590/m Estimated Rental Value,3 bed,1.5 bath,"1,352 sqft.",Single-Family
+"$448,800","Ferncrest Ave, Cranston, RI 02905",$1790/m Estimated Rental Value,4 bed,1.5 bath,"2,048 sqft.",Single-Family
+,"Brady Ave, Cranston, RI 02905",*Rental Value Coming Soon,,,,
+"$374,148","Bracken St, Cranston, RI 02920",$1440/m Estimated Rental Value,4 bed,1 bath,"1,248 sqft.",Single-Family
+"$271,200","Oak St, Cranston, RI 02910",$1430/m Estimated Rental Value,4 bed,2 bath,"1,782 sqft.",Multi-Family
+"$639,534","Lippitt Ave, Cranston, RI 02921",$2080/m Estimated Rental Value,3 bed,2 bath,999 sqft.,Single-Family
+"$395,901","Harwood St, Cranston, RI 02910",$1560/m Estimated Rental Value,3 bed,1 bath,"1,456 sqft.",Single-Family
+,"Hawthorne Ave # 2, Cranston, RI 02910",*Rental Value Coming Soon,4 bed,2 bath,"2,123 sqft.",Multi-Family
+,"Independence Way Apt 3..., Cranston, RI 02921",*Rental Value Coming Soon,,,,
+,"Elena St Apt 209, Cranston, RI 02920",*Rental Value Coming Soon,,,,
+"$323,303","Westwood Ave, Cranston, RI 02905",$1610/m Estimated Rental Value,3 bed,1 bath,"1,751 sqft.",Single-Family
+"$448,005","Eagle Rd, Cranston, RI 02920",$1920/m Estimated Rental Value,3 bed,1 bath,"1,392 sqft.",Single-Family
+"$377,673","Paine Ave, Cranston, RI 02910",$1480/m Estimated Rental Value,3 bed,1.5 bath,"1,440 sqft.",Single-Family
+"$315,775","Belmont Rd, Cranston, RI 02910",$1550/m Estimated Rental Value,,,,
+"$606,800","North St, Cranston, RI 02920",$1950/m Estimated Rental Value,8 bed,3 bath,"3,658 sqft.",Multi-Family
+"$563,418","Baneberry Dr, Cranston, RI 02921",$2180/m Estimated Rental Value,3 bed,2.5 bath,"1,644 sqft.",Single-Family
+"$376,747","Park View Blvd, Cranston, RI 02910",$1580/m Estimated Rental Value,4 bed,2 bath,"1,267 sqft.",Single-Family
+"$475,200","Hillwood St, Cranston, RI 02920",$1620/m Estimated Rental Value,3 bed,2 bath,"1,078 sqft.",Single-Family
+"$475,200","Hillwood St, Cranston, RI 02920",$1620/m Estimated Rental Value,3 bed,2 bath,"1,078 sqft.",Single-Family
+"$358,697","Woburn St, Cranston, RI 02910",$1520/m Estimated Rental Value,4 bed,2 bath,"1,535 sqft.",Single-Family
+"$358,697","Woburn St, Cranston, RI 02910",$1520/m Estimated Rental Value,4 bed,1.5 bath,"1,535 sqft.",Single-Family
+"$475,200","Hillwood St, Cranston, RI 02920",$1620/m Estimated Rental Value,4 bed,2 bath,"1,800 sqft.",Single-Family
+"$475,200","Hillwood St, Cranston, RI 02920",$1620/m Estimated Rental Value,,,,
+"$358,697","Woburn St, Cranston, RI 02910",$1520/m Estimated Rental Value,4 bed,1 bath,"1,212 sqft.",Single-Family
+,"Fenner St Apt 3, Cranston, RI 02910",*Rental Value Coming Soon,,,,
+,"Curry Rd, Cranston, RI 02920",*Rental Value Coming Soon,,,,
+"$345,562","Wheeler Ave, Cranston, RI 02905",$1570/m Estimated Rental Value,3 bed,1 bath,"1,174 sqft.",Single-Family
+,"Pleasant St # 2, Cranston, RI 02910",*Rental Value Coming Soon,,,,
+"$298,000","Scott Rd, Cumberland, RI 02864",$1940/m Estimated Rental Value,1 bed,2 bath,,Single-Family
+"$605,427","Hickory Rd, Cumberland, RI 02864",*Rental Value Coming Soon,,,,
+,"Dexter St # 1, Cumberland, RI 02864",*Rental Value Coming Soon,,,,
+"$293,616","Phillip Ave, Cumberland, RI 02864",$1710/m Estimated Rental Value,3 bed,2 bath,928 sqft.,Single-Family
+"$408,201","Highland Ave, Cumberland, RI 02864",$1830/m Estimated Rental Value,3 bed,1.5 bath,"1,104 sqft.",Single-Family
+"$387,905","Branch Ave, Cumberland, RI 02864",$1770/m Estimated Rental Value,3 bed,2.5 bath,"1,176 sqft.",Single-Family
+"$379,245","Highland Ave, Cumberland, RI 02864",$1890/m Estimated Rental Value,3 bed,1 bath,"1,488 sqft.",Single-Family
+,"Highland Corporate Dr ..., Cumberland, RI 02864",*Rental Value Coming Soon,,,,
+"$595,476","Howard Rd, Cumberland, RI 02864",$2110/m Estimated Rental Value,,,,Land
+"$405,793","Hilary Ave, Cumberland, RI 02864",$1690/m Estimated Rental Value,3 bed,1.5 bath,"1,356 sqft.",Single-Family
+"$724,900","Cook Rd, Cumberland, RI 02864",$2070/m Estimated Rental Value,4 bed,2 bath,"2,050 sqft.",Single-Family
+"$257,509","Phillip Ave, Cumberland, RI 02864",$1640/m Estimated Rental Value,2 bed,1 bath,798 sqft.,Single-Family
+"$332,442","Scott Rd, Cumberland, RI 02864",$1690/m Estimated Rental Value,3 bed,2 bath,"1,020 sqft.",Single-Family
+,"Middle St, Cumberland, RI 02864",*Rental Value Coming Soon,,,,
+,"Broad St Apt 4, Cumberland, RI 02864",*Rental Value Coming Soon,,,,
+"$549,766","Hines Rd, Cumberland, RI 02864",$1970/m Estimated Rental Value,3 bed,2 bath,"1,310 sqft.",Single-Family
+,"Mendon Rd Apt 20, Cumberland, RI 02864",*Rental Value Coming Soon,,,,
+"$679,068","Jencks Rd, Cumberland, RI 02864",$1460/m Estimated Rental Value,3 bed,2.5 bath,"2,112 sqft.",Single-Family
+,"S County Trl, East Greenwich, RI 02818",*Rental Value Coming Soon,2 bed,2 bath,"1,748 sqft.",Single-Family
+"$498,289","Clemente Dr, East Greenwich, RI 02818",$2220/m Estimated Rental Value,3 bed,1 bath,"1,170 sqft.",Single-Family
+"$453,200","Hazelwood Ave, East Providence, RI 02914",$1680/m Estimated Rental Value,7 bed,2 bath,"1,664 sqft.",Multi-Family
+,"Warren Ave, East Providence, RI 02914",*Rental Value Coming Soon,,,,
+,"Office Pkwy Apt 104, East Providence, RI 02914",*Rental Value Coming Soon,,,,
+"$355,312","Arlington St, East Providence, RI 02914",$1530/m Estimated Rental Value,2 bed,2 bath,"1,092 sqft.",Single-Family
+,"Goldsmith Ave Apt 507, East Providence, RI 02914",*Rental Value Coming Soon,,,,
+"$383,809","Belmont Ave, East Providence, RI 02914",$1610/m Estimated Rental Value,2 bed,1.5 bath,"1,344 sqft.",Single-Family
+"$265,800","Follett St, East Providence, RI 02914",$1151/m Estimated Rental Value,4 bed,2 bath,"1,584 sqft.",Multi-Family
+"$421,545","Maxfield Ave, East Providence, RI 02914",$1700/m Estimated Rental Value,2 bed,1 bath,"1,296 sqft.",Single-Family
+"$383,139","Blanding Ave, East Providence, RI 02914",$1590/m Estimated Rental Value,3 bed,2.5 bath,"1,165 sqft.",Single-Family
+"$350,845","Martello St, East Providence, RI 02914",$1540/m Estimated Rental Value,3 bed,2 bath,"1,040 sqft.",Single-Family
+"$642,900","Shannon Rd, Exeter, RI 02822",$2200/m Estimated Rental Value,5 bed,3.5 bath,"3,550 sqft.",Single-Family
+"$69,900","Hallville Rd, Exeter, RI 02822",*Rental Value Coming Soon,2 bed,1 bath,943 sqft.,Single-Family
+"$270,716","South Rd, Exeter, RI 02822",$1370/m Estimated Rental Value,3 bed,1.5 bath,"1,258 sqft.",Single-Family
+"$584,236","Foster Center Rd, Foster, RI 02825",$1980/m Estimated Rental Value,3 bed,2.5 bath,"2,033 sqft.",Single-Family
+"$520,163","Hicks Way, Foster, RI 02825",$2140/m Estimated Rental Value,4 bed,3.5 bath,"2,240 sqft.",Single-Family
+,"W Church St Apt 201, Greenville, RI 02828",*Rental Value Coming Soon,,,,
+"$232,461","Putnam Pike, Greenville, RI 02828",*Rental Value Coming Soon,,,,
+"$391,674","Spencer Rd, Greenville, RI 02828",$1910/m Estimated Rental Value,4 bed,2 bath,"1,825 sqft.",Single-Family
+"$321,210","Greenville Ave, Greenville, RI 02828",$1650/m Estimated Rental Value,1 bed,1 bath,932 sqft.,Single-Family
+"$523,226","Fanning Ln, Greenville, RI 02828",$1930/m Estimated Rental Value,3 bed,2 bath,"1,814 sqft.",Single-Family
+"$399,745","Douglas Cir, Greenville, RI 02828",$1730/m Estimated Rental Value,3 bed,1 bath,960 sqft.,Single-Family
+"$445,387","Elmhurst Dr, Greenville, RI 02828",$1880/m Estimated Rental Value,3 bed,2 bath,"1,808 sqft.",Single-Family
+"$198,630","Fairview Ave, Hope Valley, RI 02832",*Rental Value Coming Soon,,,,
+,"Shady Grove Rd, Hope Valley, RI 02832",*Rental Value Coming Soon,4 bed,3.5 bath,"2,520 sqft.",Single-Family
+"$427,609","Crestwood Dr, Richmond, RI 02832",$1470/m Estimated Rental Value,3 bed,2 bath,"1,320 sqft.",Single-Family
+,"1/2 Pine Hill Avenue, Johnston, RI",*Rental Value Coming Soon,3 bed,1 bath,928 sqft.,Single-Family
+"$229,793","Riverside Ave, Johnston, RI 02919",$1590/m Estimated Rental Value,2 bed,1 bath,726 sqft.,Single-Family
+"$314,551","Paolino St, Johnston, RI 02919",$1860/m Estimated Rental Value,2 bed,1.5 bath,"1,048 sqft.",Single-Family
+"$471,262","Parrillo Cir, Johnston, RI 02919",$1790/m Estimated Rental Value,3 bed,2 bath,"1,215 sqft.",Single-Family
+"$277,375","Dale Dr, Johnston, RI 02919",$1690/m Estimated Rental Value,,,,
+"$303,178","Pine Hill Ave, Johnston, RI 02919",$1900/m Estimated Rental Value,3 bed,1 bath,928 sqft.,Single-Family
+"$447,774","Bishop Hill Rd, Johnston, RI 02919",$1730/m Estimated Rental Value,3 bed,1 bath,"1,248 sqft.",Single-Family
+"$298,960","Pershing Rd, Johnston, RI 02919",$1810/m Estimated Rental Value,3 bed,1 bath,816 sqft.,Single-Family
+"$680,229","Janet Dr, Johnston, RI 02919",$1670/m Estimated Rental Value,3 bed,3.5 bath,"2,274 sqft.",Single-Family
+"$582,261","Bishop Hill Rd, Johnston, RI 02919",$1980/m Estimated Rental Value,3 bed,2 bath,"2,048 sqft.",Single-Family
+"$388,463","Harrison St, Johnston, RI 02919",$1640/m Estimated Rental Value,3 bed,2 bath,"1,374 sqft.",Single-Family
+"$391,400","Elmdale Ave, Johnston, RI 02919",$1870/m Estimated Rental Value,3 bed,2 bath,"1,897 sqft.",Multi-Family
+,"Central Ave, Johnston, RI 02919",*Rental Value Coming Soon,,,,
+"$715,434","Washington Dr, Johnston, RI 02919",$2150/m Estimated Rental Value,4 bed,2.5 bath,"2,947 sqft.",Single-Family
+"$353,341","Susan Ave, Johnston, RI 02919",$1640/m Estimated Rental Value,2 bed,1 bath,"1,352 sqft.",Single-Family
+"$350,800","Pine Hill Ave, Johnston, RI 02919",$1291/m Estimated Rental Value,4 bed,2 bath,"1,904 sqft.",Multi-Family
+"$328,448","Vermont St, Johnston, RI 02919",$1620/m Estimated Rental Value,2 bed,1 bath,"1,092 sqft.",Single-Family
+"$428,315","Atwood Ave, Johnston, RI 02919",$1700/m Estimated Rental Value,4 bed,3.5 bath,"1,541 sqft.",Single-Family
+"$277,729","King St, Johnston, RI 02919",$1600/m Estimated Rental Value,2 bed,1 bath,774 sqft.,Single-Family
+"$371,288","Irons Ave, Johnston, RI 02919",$1650/m Estimated Rental Value,3 bed,2 bath,"1,552 sqft.",Single-Family
+,"Bella Woods Ct, Johnston, RI 02919",*Rental Value Coming Soon,,,,
+"$239,105","King St, Johnston, RI 02919",$1640/m Estimated Rental Value,2 bed,1 bath,"1,277 sqft.",Single-Family
+"$513,236","Hopkins Ave, Johnston, RI 02919",$2020/m Estimated Rental Value,3 bed,2 bath,"1,786 sqft.",Single-Family
+"$579,717","Killian Rd, Johnston, RI 02919",$1970/m Estimated Rental Value,3 bed,2.5 bath,"2,370 sqft.",Single-Family
+"$414,499","Newburg St, Johnston, RI 02919",$1620/m Estimated Rental Value,2 bed,1.5 bath,"1,068 sqft.",Single-Family
+"$360,360","Auburn Ave, Johnston, RI 02919",$1620/m Estimated Rental Value,3 bed,1.5 bath,"1,054 sqft.",Single-Family
+"$301,940","Leading St, Johnston, RI 02919",$1660/m Estimated Rental Value,4 bed,3 bath,"1,762 sqft.",Single-Family
+"$373,128","Atwood Ave, Johnston, RI 02919",$1590/m Estimated Rental Value,4 bed,2 bath,"1,792 sqft.",Single-Family
+"$373,128","Atwood Ave, Johnston, RI 02919",$1590/m Estimated Rental Value,4 bed,1.5 bath,"1,792 sqft.",Single-Family
+"$301,940","Leading St, Johnston, RI 02919",$1660/m Estimated Rental Value,1 bed,1 bath,684 sqft.,Single-Family
+"$373,128","Atwood Ave, Johnston, RI 02919",$1590/m Estimated Rental Value,4 bed,1 bath,"1,792 sqft.",Single-Family
+,"Pocasset St Unit 105, Johnston, RI 02919",*Rental Value Coming Soon,,,,
+"$332,630","S Fairview St, Johnston, RI 02919",$1840/m Estimated Rental Value,2 bed,1 bath,"1,178 sqft.",Single-Family
+"$390,600","Warren Ave, Johnston, RI 02919",$1620/m Estimated Rental Value,3 bed,1 bath,"1,086 sqft.",Single-Family
+,"School St, Lincoln, RI 02865",*Rental Value Coming Soon,,,,
+"$453,821","Kilburn Ave, Lincoln, RI 02865",$1940/m Estimated Rental Value,3 bed,3 bath,"1,896 sqft.",Single-Family
+"$352,226","Boulevard Ave, Lincoln, RI 02865",$1840/m Estimated Rental Value,3 bed,1.5 bath,"1,643 sqft.",Single-Family
+"$538,090","Lakeview Ave, Lincoln, RI 02865",$1930/m Estimated Rental Value,3 bed,2 bath,"1,328 sqft.",Single-Family
+"$465,111","Chestnut Ave, Lincoln, RI 02865",$1630/m Estimated Rental Value,4 bed,1 bath,"1,292 sqft.",Single-Family
+,"Front St Unit 1, Lincoln, RI 02865",*Rental Value Coming Soon,,,,
+"$531,073","Barbaras Way, Lincoln, RI 02865",$1960/m Estimated Rental Value,3 bed,2 bath,"1,242 sqft.",Single-Family
+"$276,000","Grant Ave, Lincoln, RI 02865",$1600/m Estimated Rental Value,,,,
+,"Admiral Kalbfus Rd Apt 9d, Newport, RI 02840",*Rental Value Coming Soon,,,,
+,"Chapel St Apt D, Newport, RI 02840",*Rental Value Coming Soon,,,,
+,"Ranger Rd, Newport, RI 02840",*Rental Value Coming Soon,,,,
+,"Narragansett Ave, Newport, RI 02840",*Rental Value Coming Soon,,,,
+"$523,440","Concord Ave, North Kingstown, RI 02852",$2240/m Estimated Rental Value,3 bed,1.5 bath,"1,843 sqft.",Single-Family
+,"State St Apt A, North Kingstown, RI 02852",*Rental Value Coming Soon,,,,
+"$353,661","Hornet Rd, North Kingstown, RI 02852",$1680/m Estimated Rental Value,3 bed,1 bath,"1,382 sqft.",Single-Family
+,"Union Dr Apt C108, North Kingstown, RI 02852",*Rental Value Coming Soon,,,,
+"$505,433","Cardinal Dr, North Kingstown, RI 02852",$1080/m Estimated Rental Value,2 bed,2 bath,"1,166 sqft.",Condo
+,"Union Dr Apt A-103, North Kingstown, RI 02852",*Rental Value Coming Soon,,,,
+"$420,694","Cole Dr, North Kingstown, RI 02852",$1600/m Estimated Rental Value,3 bed,1.5 bath,"1,483 sqft.",Single-Family
+,"Union Dr Apt A301, North Kingstown, RI 02852",*Rental Value Coming Soon,,,,
+"$653,342","Fletcher Rd, North Kingstown, RI 02852",$2530/m Estimated Rental Value,4 bed,2 bath,"2,226 sqft.",Single-Family
+,"Charles St # 2, North Providence, RI 02904",*Rental Value Coming Soon,4 bed,2.5 bath,"1,642 sqft.",Multi-Family
+,"Tanglewood Ln Apt 116, North Providence, RI 02904",*Rental Value Coming Soon,,,,
+"$435,055","Farnum Ave, North Providence, RI 02911",$1650/m Estimated Rental Value,,,,
+"$405,000","Morgan Ave, North Providence, RI 02911",$1630/m Estimated Rental Value,,,,
+,"Douglas Ave Apt E66, North Providence, RI 02904",*Rental Value Coming Soon,,,,
+"$258,230","Olney Ave, North Providence, RI 02911",$1450/m Estimated Rental Value,2 bed,1 bath,"1,326 sqft.",Single-Family
+"$367,463","Talbot St, North Providence, RI 02904",$1630/m Estimated Rental Value,3 bed,2.5 bath,"1,144 sqft.",Single-Family
+,"Valley Green Court, North Providence, RI 02904",*Rental Value Coming Soon,2 bed,3 bath,"1,440 sqft.",Condo
+,"Charles St Apt 29, North Providence, RI 02904",*Rental Value Coming Soon,,,,
+"$302,544","Adams St, North Providence, RI 02904",$1610/m Estimated Rental Value,3 bed,1 bath,928 sqft.,Single-Family
+"$290,360","Kentland Ave, North Providence, RI 02908",$1660/m Estimated Rental Value,,,,
+,"Smith St # 2, North Providence, RI 02911",*Rental Value Coming Soon,,,,
+"$368,780","Florence St, North Providence, RI 02904",$1630/m Estimated Rental Value,4 bed,1 bath,"1,254 sqft.",Single-Family
+"$1,375,548","Joslin St, North Providence, RI 02911",$1630/m Estimated Rental Value,4 bed,3.5 bath,"2,978 sqft.",Single-Family
+,"Puritan St # 8, North Providence, RI 02904",*Rental Value Coming Soon,,,,
+"$197,101","Wendell St, North Providence, RI 02911",$1620/m Estimated Rental Value,3 bed,1 bath,"1,008 sqft.",Single-Family
+"$411,331","Brown St, North Providence, RI 02904",$1690/m Estimated Rental Value,4 bed,3 bath,"2,714 sqft.",Single-Family
+"$430,167","Rosner Ave, North Providence, RI 02904",$1630/m Estimated Rental Value,3 bed,1 bath,"1,236 sqft.",Single-Family
+"$452,030","Grove Ave, North Providence, RI 02911",$1670/m Estimated Rental Value,2 bed,2.5 bath,"2,231 sqft.",Single-Family
+,"Woonasquatucket Ave Ap..., North Providence, RI 02911",*Rental Value Coming Soon,,,,
+,"Dodge St, North Providence, RI 02904",*Rental Value Coming Soon,3 bed,1 bath,"1,275 sqft.",Single-Family
+"$363,600","Jane St, North Providence, RI 02904",$1640/m Estimated Rental Value,3 bed,1.5 bath,"1,681 sqft.",Single-Family
+"$392,275","Bonaparte St, North Providence, RI 02904",$1630/m Estimated Rental Value,4 bed,2 bath,"1,152 sqft.",Single-Family
+"$346,295","Worcester Ave, North Providence, RI 02911",$1650/m Estimated Rental Value,3 bed,1 bath,"1,680 sqft.",Single-Family
+"$472,009","E Lakeview Dr, North Providence, RI 02904",$1650/m Estimated Rental Value,3 bed,2 bath,"1,584 sqft.",Single-Family
+"$308,814","East Ave, North Providence, RI 02911",$1620/m Estimated Rental Value,2 bed,1 bath,"1,048 sqft.",Single-Family
+"$412,480","Stella Dr, North Providence, RI 02911",$1650/m Estimated Rental Value,3 bed,2 bath,"1,816 sqft.",Single-Family
+"$464,391","Carol Ann Dr, North Providence, RI 02911",$1650/m Estimated Rental Value,3 bed,2 bath,"1,584 sqft.",Single-Family
+"$264,350","Bellevue Ave, North Providence, RI 02911",$1600/m Estimated Rental Value,5 bed,3 bath,"1,980 sqft.",Multi-Family
+"$382,529","Raymond Rd, North Providence, RI 02911",$1620/m Estimated Rental Value,2 bed,1 bath,"1,102 sqft.",Single-Family
+"$272,500","Woonasquatucket Ave, North Providence, RI 02911",$1730/m Estimated Rental Value,4 bed,2 bath,"1,479 sqft.",Multi-Family
+"$463,410","Ward Ave, North Providence, RI 02904",$1378/m Estimated Rental Value,4 bed,3 bath,"1,748 sqft.",Multi-Family
+"$363,314","Joslin St, North Providence, RI 02911",$1630/m Estimated Rental Value,4 bed,2 bath,"1,248 sqft.",Single-Family
+,"Saint Paul St Apt 8b, North Smithfield, RI 02896",*Rental Value Coming Soon,,,,
+"$431,561","Oak Hill Ave, North Smithfield, RI 02896",$1230/m Estimated Rental Value,3 bed,2 bath,"1,991 sqft.",Single-Family
+,"Tupperware Dr Ste 115, North Smithfield, RI 02896",*Rental Value Coming Soon,,,,
+,"Sayles Hill Rd Apt 2, North Smithfield, RI 02896",*Rental Value Coming Soon,,,,
+"$627,409","Deerfield Dr, North Smithfield, RI 02896",$1291/m Estimated Rental Value,3 bed,1.5 bath,"2,454 sqft.",Single-Family
+"$326,900","Hanton Rd, North Smithfield, RI 02896",$1261/m Estimated Rental Value,4 bed,2 bath,"1,753 sqft.",Multi-Family
+,"Pascoag Main St, Pascoag, RI 02859",*Rental Value Coming Soon,,,,
+,"Broad St, Pascoag, RI 02859",*Rental Value Coming Soon,,,,
+"$273,084","Manley Dr, Pascoag, RI 02859",$1570/m Estimated Rental Value,,,,Single-Family
+"$244,313","Pascoag Main St, Pascoag, RI 02859",$1550/m Estimated Rental Value,,,,
+"$100,000","N Main St, Pascoag, RI 02859",*Rental Value Coming Soon,,,,
+"$179,900","Round Lake Dr, Pascoag, RI 02859",$1640/m Estimated Rental Value,2 bed,2 bath,976 sqft.,Single-Family
+"$189,922","Ruth St, Pawtucket, RI 02861",*Rental Value Coming Soon,2 bed,1 bath,"1,176 sqft.",Single-Family
+"$145,520","Bloomingdale Ave, Pawtucket, RI 02860",*Rental Value Coming Soon,2 bed,1 bath,672 sqft.,Single-Family
+"$240,945","Grotto Ave, Pawtucket, RI 02860",*Rental Value Coming Soon,3 bed,1 bath,"1,440 sqft.",Single-Family
+"$237,576","Revere St, Pawtucket, RI 02861",*Rental Value Coming Soon,2 bed,1 bath,"1,072 sqft.",Single-Family
+"$185,956","Lloyd St, Pawtucket, RI 02860",*Rental Value Coming Soon,2 bed,1 bath,840 sqft.,Single-Family
+"$203,674","Diana Dr, Pawtucket, RI 02861",*Rental Value Coming Soon,2 bed,2 bath,958 sqft.,Single-Family
+,"Harrison St Apt 2, Pawtucket, RI 02860",*Rental Value Coming Soon,,,,
+"$225,911","Suffolk Ave, Pawtucket, RI 02861",*Rental Value Coming Soon,,,,
+"$206,097","Atwood Ave, Pawtucket, RI 02860",*Rental Value Coming Soon,3 bed,1 bath,"1,009 sqft.",Single-Family
+"$204,885","Glen Meadows Dr, Pawtucket, RI 02861",*Rental Value Coming Soon,3 bed,1 bath,"1,036 sqft.",Single-Family
+,"Broadway Apt 511, Pawtucket, RI 02860",*Rental Value Coming Soon,,,,
+,"Central Ave, Pawtucket, RI 02861",*Rental Value Coming Soon,,,,
+,"Evergreen St Apt 6, Pawtucket, RI 02861",*Rental Value Coming Soon,,,,
+,"Armistice Blvd # 3, Pawtucket, RI 02860",*Rental Value Coming Soon,,,,
+"$244,205","Garden St, Pawtucket, RI 02860",*Rental Value Coming Soon,6 bed,3 bath,"2,280 sqft.",Multi-Family
+,"Cottage St Apt 7, Pawtucket, RI 02860",*Rental Value Coming Soon,,,,
+,"Grand Ave, Pawtucket, RI 02861",*Rental Value Coming Soon,,,,
+,"Webster St # 1, Pawtucket, RI 02861",*Rental Value Coming Soon,4 bed,2 bath,"2,399 sqft.",Multi-Family
+"$200,601","Carter Ave, Pawtucket, RI 02861",*Rental Value Coming Soon,4 bed,1 bath,"1,008 sqft.",Single-Family
+"$170,765","Grove St, Pawtucket, RI 02860",*Rental Value Coming Soon,2 bed,1.5 bath,964 sqft.,Condo
+"$250,665","Mccabe Ave, Pawtucket, RI 02861",*Rental Value Coming Soon,3 bed,1.5 bath,"1,645 sqft.",Single-Family
+"$242,335","Thomas Ave, Pawtucket, RI 02860",*Rental Value Coming Soon,6 bed,2 bath,"2,340 sqft.",Multi-Family
+"$198,088","Glen Meadows Dr, Pawtucket, RI 02861",*Rental Value Coming Soon,3 bed,1 bath,936 sqft.,Single-Family
+"$283,543","Maynard St, Pawtucket, RI 02860",*Rental Value Coming Soon,4 bed,1.5 bath,"2,464 sqft.",Single-Family
+"$225,845","Hazard St, Pawtucket, RI 02860",*Rental Value Coming Soon,4 bed,1 bath,"1,500 sqft.",Single-Family
+,"Parkview Dr Apt 14, Pawtucket, RI 02861",*Rental Value Coming Soon,,,,
+"$244,545","Chaplin St, Pawtucket, RI 02861",*Rental Value Coming Soon,4 bed,2 bath,"2,122 sqft.",Multi-Family
+"$341,081","Bellmore Dr, Pawtucket, RI 02861",*Rental Value Coming Soon,3 bed,1.5 bath,"1,400 sqft.",Single-Family
+,"Capital St # 1, Pawtucket, RI 02860",*Rental Value Coming Soon,6 bed,5 bath,"4,554 sqft.",Multi-Family
+"$274,720","Avon St, Pawtucket, RI 02860",*Rental Value Coming Soon,4 bed,2 bath,"1,728 sqft.",Single-Family
+"$213,238","Windsor Rd, Pawtucket, RI 02861",*Rental Value Coming Soon,3 bed,1 bath,"1,092 sqft.",Single-Family
+,"Rhode Island Ave, Pawtucket, RI 02860",*Rental Value Coming Soon,,,,
+"$212,926","Oakdale Ave, Pawtucket, RI 02860",*Rental Value Coming Soon,4 bed,1.5 bath,"1,324 sqft.",Single-Family
+,"Madison St # 2, Pawtucket, RI 02861",*Rental Value Coming Soon,,,,Single-Family
+,"Ashton St, Pawtucket, RI 02860",*Rental Value Coming Soon,,,,
+,"Exchange St # 639, Pawtucket, RI 02860",*Rental Value Coming Soon,,,0 sqft.,
+"$189,922","Ruth St, Pawtucket, RI 02861",*Rental Value Coming Soon,2 bed,1 bath,876 sqft.,Single-Family
+"$245,310","Power Rd, Pawtucket, RI 02860",*Rental Value Coming Soon,2 bed,1 bath,"1,612 sqft.",Single-Family
+,"Mineral Spring Ave Apt..., Pawtucket, RI 02860",*Rental Value Coming Soon,,,,
+"$301,740","Boyds Ln, Portsmouth, RI 02871",$1820/m Estimated Rental Value,3 bed,1 bath,"1,144 sqft.",Single-Family
+,"Park Ave, Portsmouth, RI 02871",*Rental Value Coming Soon,,,,Single-Family
+"$324,275","Potomac Rd, Portsmouth, RI 02871",$1900/m Estimated Rental Value,3 bed,2 bath,"1,030 sqft.",Single-Family
+"$301,740","Boyds Ln, Portsmouth, RI 02871",$1820/m Estimated Rental Value,3 bed,1 bath,"1,144 sqft.",Single-Family
+,"W Main Rd, Portsmouth, RI 02871",*Rental Value Coming Soon,,,,Single-Family
+"$218,652","Island Ave, Portsmouth, RI 02871",$1400/m Estimated Rental Value,2 bed,1 bath,612 sqft.,Single-Family
+,"Dubois St, Portsmouth, RI 02871",*Rental Value Coming Soon,,,,
+"$913,665","Hargraves Dr, Portsmouth, RI 02871",$3120/m Estimated Rental Value,4 bed,3.5 bath,"3,405 sqft.",Single-Family
+"$398,363","Chase Rd, Portsmouth, RI 02871",$1860/m Estimated Rental Value,3 bed,1 bath,950 sqft.,Single-Family
+"$564,811","Brownell Ln, Portsmouth, RI 02871",$1940/m Estimated Rental Value,,,,
+"$414,870","Kenneth Ave, Portsmouth, RI 02871",$1750/m Estimated Rental Value,3 bed,1 bath,936 sqft.,Single-Family
+"$301,740","Boyds Ln, Portsmouth, RI 02871",$1820/m Estimated Rental Value,,,,Single-Family
+,"Lehigh Te, Portsmouth, RI 02871",*Rental Value Coming Soon,,,,
+"$194,903","Rodman St, Providence, RI 02907",*Rental Value Coming Soon,3 bed,1.5 bath,"1,254 sqft.",Single-Family
+"$280,000","Orms St, Providence, RI 02908",$1910/m Estimated Rental Value,9 bed,3 bath,"5,078 sqft.",Multi-Family
+"$202,215","California Ave, Providence, RI 02905",*Rental Value Coming Soon,4 bed,1 bath,"1,560 sqft.",Single-Family
+"$260,462","Edgemere Ave, Providence, RI 02909",*Rental Value Coming Soon,4 bed,2.5 bath,"1,328 sqft.",Single-Family
+"$221,935","Bath St, Providence, RI 02908",*Rental Value Coming Soon,6 bed,3 bath,"2,288 sqft.",Multi-Family
+"$309,570","Steele St, Providence, RI 02906",*Rental Value Coming Soon,,,,
+"$256,870","Corinth St, Providence, RI 02907",*Rental Value Coming Soon,6 bed,3 bath,"3,210 sqft.",Multi-Family
+,"Charles St # 2, North Providence, RI 02904",*Rental Value Coming Soon,4 bed,2.5 bath,"1,642 sqft.",Multi-Family
+,"Camden Ave # 3, Providence, RI 02908",*Rental Value Coming Soon,,,,
+,"Public St # 2f, Providence, RI 02905",*Rental Value Coming Soon,,,,
+,"Gray St, Providence, RI 02909",*Rental Value Coming Soon,,,,
+"$178,604","Brighton St, Providence, RI 02909",*Rental Value Coming Soon,,,,
+,"Tanglewood Ln Apt 116, North Providence, RI 02904",*Rental Value Coming Soon,,,,
+,"Jastram St, Providence, RI 02908",*Rental Value Coming Soon,,,,
+"$189,890","Gallatin St, Providence, RI 02907",*Rental Value Coming Soon,3 bed,1 bath,"1,930 sqft.",Single-Family
+"$170,935","Linwood Ave, Providence, RI 02907",*Rental Value Coming Soon,3 bed,1 bath,"1,674 sqft.",Single-Family
+"$244,545","Berkley St, Providence, RI 02908",*Rental Value Coming Soon,6 bed,3 bath,"2,907 sqft.",Multi-Family
+"$185,158","Burleigh St, Providence, RI 02904",*Rental Value Coming Soon,2 bed,1.5 bath,"1,036 sqft.",Condo
+,"Stella St # 1, Providence, RI 02909",*Rental Value Coming Soon,4 bed,2 bath,"1,784 sqft.",Multi-Family
+,"Dartmouth Ave # 1, Providence, RI 02907",*Rental Value Coming Soon,5 bed,3 bath,"2,770 sqft.",Multi-Family
+"$260,065","Gallatin St, Providence, RI 02907",*Rental Value Coming Soon,5 bed,3 bath,"3,329 sqft.",Multi-Family
+"$318,300","Curtis St, Providence, RI 02909",$1570/m Estimated Rental Value,4 bed,3 bath,"2,304 sqft.",Multi-Family
+,"Messer St, Providence, RI 02909",*Rental Value Coming Soon,,,,
+"$474,676","Community Dr, Cranston, RI 02905",$1800/m Estimated Rental Value,,,,
+,"S Water St Apt 317, Providence, RI 02903",*Rental Value Coming Soon,,,,
+,"Mount Pleasant Ave Apt 1, Providence, RI 02908",*Rental Value Coming Soon,,,,
+,"Hartford Ave # 303, Providence, RI 02909",*Rental Value Coming Soon,,,,
+"$22,978,815","Valley St, Providence, RI 02909",$2120/m Estimated Rental Value,,,,Single-Family
+"$165,465","Metropolitan Rd, Providence, RI 02908",*Rental Value Coming Soon,2 bed,1 bath,816 sqft.,Single-Family
+,"Douglas Ave Apt E66, North Providence, RI 02904",*Rental Value Coming Soon,,,,
+"$187,935","Douglas Ave, Providence, RI 02908",*Rental Value Coming Soon,,,,
+"$367,463","Talbot St, North Providence, RI 02904",$1630/m Estimated Rental Value,3 bed,2.5 bath,"1,144 sqft.",Single-Family
+"$244,885","Herschel St, Providence, RI 02909",*Rental Value Coming Soon,3 bed,1 bath,"2,058 sqft.",Single-Family
+"$351,000","Albert Ave, Cranston, RI 02905",$1840/m Estimated Rental Value,6 bed,3 bath,"3,487 sqft.",Multi-Family
+,"Valley Green Court, North Providence, RI 02904",*Rental Value Coming Soon,2 bed,3 bath,"1,440 sqft.",Condo
+,"Charles St Apt 29, North Providence, RI 02904",*Rental Value Coming Soon,,,,
+,"Grape St # 2, Providence, RI 02908",*Rental Value Coming Soon,,,,
+,"Westwood Manor Dr Apt 1r, Providence, RI 02909",*Rental Value Coming Soon,,,,
+"$422,960","Primrose St, Providence, RI 02909",*Rental Value Coming Soon,6 bed,3 bath,"3,644 sqft.",Multi-Family
+"$302,544","Adams St, North Providence, RI 02904",$1610/m Estimated Rental Value,3 bed,1 bath,928 sqft.,Single-Family
+"$290,360","Kentland Ave, North Providence, RI 02908",$1660/m Estimated Rental Value,,,,
+,"Alton St # 1, Providence, RI 02908",*Rental Value Coming Soon,6 bed,3 bath,"2,814 sqft.",Multi-Family
+,"Broad St Apt 104, Cranston, RI 02905",*Rental Value Coming Soon,,,,
+,"Dakota St, Providence, RI 02904",*Rental Value Coming Soon,,,,
+"$271,830","Fairoaks Ave, Providence, RI 02908",*Rental Value Coming Soon,4 bed,2 bath,"1,986 sqft.",Single-Family
+"$189,803","Whittier Ave, Providence, RI 02909",*Rental Value Coming Soon,3 bed,1 bath,"1,120 sqft.",Single-Family
+"$126,905","Ada St, Providence, RI 02909",*Rental Value Coming Soon,1 bed,1 bath,609 sqft.,Single-Family
+"$368,780","Florence St, North Providence, RI 02904",$1630/m Estimated Rental Value,4 bed,1 bath,"1,254 sqft.",Single-Family
+,"Puritan St # 8, North Providence, RI 02904",*Rental Value Coming Soon,,,,
+,"Broad St Apt 1019, Providence, RI 02903",*Rental Value Coming Soon,,,,
+,"Abbott St Apt 12, Providence, RI 02906",*Rental Value Coming Soon,,,,
+"$411,331","Brown St, North Providence, RI 02904",$1690/m Estimated Rental Value,4 bed,3 bath,"2,714 sqft.",Single-Family
+"$227,460","Canton St, Providence, RI 02908",*Rental Value Coming Soon,3 bed,1.5 bath,"1,465 sqft.",Single-Family
+"$430,167","Rosner Ave, North Providence, RI 02904",$1630/m Estimated Rental Value,3 bed,1 bath,"1,236 sqft.",Single-Family
+"$261,000","Douglas Ave, Providence, RI 02908",$1570/m Estimated Rental Value,6 bed,3 bath,"2,745 sqft.",Multi-Family
+"$182,835","Corinth St, Providence, RI 02907",*Rental Value Coming Soon,4 bed,2.5 bath,"1,517 sqft.",Single-Family
+"$168,980","Blackstone St, Providence, RI 02907",*Rental Value Coming Soon,5 bed,1 bath,"1,334 sqft.",Single-Family
+,"Daniel Ave # 2, Providence, RI 02909",*Rental Value Coming Soon,4 bed,2 bath,"2,592 sqft.",Multi-Family
+,"Dodge St, North Providence, RI 02904",*Rental Value Coming Soon,3 bed,1 bath,"1,275 sqft.",Single-Family
+,"Newcomb St, Providence, RI 02908",*Rental Value Coming Soon,4 bed,3 bath,"1,976 sqft.",Multi-Family
+"$149,175","Camden Ave, Providence, RI 02908",*Rental Value Coming Soon,3 bed,1.5 bath,"1,040 sqft.",Single-Family
+,"Raymond St # 1, Providence, RI 02908",*Rental Value Coming Soon,8 bed,4 bath,"4,043 sqft.",Multi-Family
+"$261,348","Isabella Ave, Providence, RI 02908",*Rental Value Coming Soon,3 bed,1 bath,"1,156 sqft.",Single-Family
+"$363,600","Jane St, North Providence, RI 02904",$1640/m Estimated Rental Value,3 bed,1.5 bath,"1,681 sqft.",Single-Family
+"$448,800","Ferncrest Ave, Cranston, RI 02905",$1790/m Estimated Rental Value,4 bed,1.5 bath,"2,048 sqft.",Single-Family
+"$220,235","Miner St, Providence, RI 02905",*Rental Value Coming Soon,8 bed,3 bath,"2,704 sqft.",Multi-Family
+,"Brady Ave, Cranston, RI 02905",*Rental Value Coming Soon,,,,
+"$392,275","Bonaparte St, North Providence, RI 02904",$1630/m Estimated Rental Value,4 bed,2 bath,"1,152 sqft.",Single-Family
+"$208,760","Loveday St, Providence, RI 02908",*Rental Value Coming Soon,6 bed,2 bath,"1,827 sqft.",Multi-Family
+"$242,335","Daboll St, Providence, RI 02907",*Rental Value Coming Soon,,,,
+"$223,975","Tyndall Ave, Providence, RI 02908",*Rental Value Coming Soon,4 bed,1 bath,"1,271 sqft.",Single-Family
+,"Sumter St # 2nd, Providence, RI 02907",*Rental Value Coming Soon,,,,
+,"Wood St, Providence, RI 02909",*Rental Value Coming Soon,,,,
+"$266,310","Charles St, Providence, RI 02904",$1181/m Estimated Rental Value,2 bed,1 bath,"5,724 sqft.",Single-Family
+,"Eddy St, Providence, RI 02905",*Rental Value Coming Soon,,,,
+"$178,755","Hazael St, Providence, RI 02908",*Rental Value Coming Soon,4 bed,2 bath,"2,288 sqft.",Multi-Family
+"$247,095","River Ave, Providence, RI 02908",*Rental Value Coming Soon,8 bed,3 bath,"2,859 sqft.",Multi-Family
+,"New York Ave # 1, Providence, RI 02905",*Rental Value Coming Soon,,,,
+"$323,303","Westwood Ave, Cranston, RI 02905",$1610/m Estimated Rental Value,3 bed,1 bath,"1,751 sqft.",Single-Family
+"$472,009","E Lakeview Dr, North Providence, RI 02904",$1650/m Estimated Rental Value,3 bed,2 bath,"1,584 sqft.",Single-Family
+"$213,010","Mercy St, Providence, RI 02909",*Rental Value Coming Soon,3 bed,1 bath,"1,784 sqft.",Single-Family
+"$419,400","Whitney St, Providence, RI 02907",$1770/m Estimated Rental Value,8 bed,2 bath,"2,990 sqft.",Multi-Family
+"$463,410","Ward Ave, North Providence, RI 02904",$1378/m Estimated Rental Value,4 bed,3 bath,"1,748 sqft.",Multi-Family
+"$216,304","Lucy St, Providence, RI 02909",*Rental Value Coming Soon,4 bed,1.5 bath,"1,109 sqft.",Single-Family
+"$259,675","Mongenais St, Providence, RI 02909",*Rental Value Coming Soon,6 bed,3 bath,"2,684 sqft.",Multi-Family
+"$332,222","Vicksburg St, Providence, RI 02904",*Rental Value Coming Soon,6 bed,4.5 bath,"2,484 sqft.",Multi-Family
+"$202,215","California Ave, Providence, RI 02905",*Rental Value Coming Soon,4 bed,1 bath,"1,560 sqft.",Single-Family
+"$260,462","Edgemere Ave, Providence, RI 02909",*Rental Value Coming Soon,4 bed,3 bath,"1,328 sqft.",Single-Family
+"$348,755","Cypress St, Providence, RI 02906",*Rental Value Coming Soon,,,0 sqft.,
+"$202,215","California Ave, Providence, RI 02905",*Rental Value Coming Soon,4 bed,1 bath,"1,560 sqft.",Single-Family
+"$260,462","Edgemere Ave, Providence, RI 02909",*Rental Value Coming Soon,3 bed,1.5 bath,"2,442 sqft.",Single-Family
+"$139,740","Manton Ave, Providence, RI 02909",*Rental Value Coming Soon,2 bed,1 bath,780 sqft.,Single-Family
+"$348,755","Cypress St, Providence, RI 02906",*Rental Value Coming Soon,6 bed,3 bath,"3,498 sqft.",
+"$139,740","Manton Ave, Providence, RI 02909",*Rental Value Coming Soon,2 bed,1 bath,780 sqft.,Single-Family
+"$202,215","California Ave, Providence, RI 02905",*Rental Value Coming Soon,4 bed,1 bath,"1,560 sqft.",Single-Family
+"$260,462","Edgemere Ave, Providence, RI 02909",*Rental Value Coming Soon,3 bed,1.5 bath,"2,442 sqft.",Single-Family
+"$235,535","What Cheer Ave, Providence, RI 02909",*Rental Value Coming Soon,3 bed,2 bath,"2,280 sqft.",Single-Family
+"$235,535","What Cheer Ave, Providence, RI 02909",*Rental Value Coming Soon,3 bed,2 bath,"1,680 sqft.",Single-Family
+,"9th St, Providence, RI 02906",*Rental Value Coming Soon,4 bed,2 bath,"2,652 sqft.",Multi-Family
+"$345,562","Wheeler Ave, Cranston, RI 02905",$1570/m Estimated Rental Value,3 bed,1 bath,"1,174 sqft.",Single-Family
+,"Eagle St # B109, Providence, RI 02908",*Rental Value Coming Soon,,,,
+,"Carpenter St Apt 106, Providence, RI 02909",*Rental Value Coming Soon,,,,
+"$260,462","Edgemere Ave, Providence, RI 02909",*Rental Value Coming Soon,4 bed,2.5 bath,"1,328 sqft.",Single-Family
+,"Wood St, Providence, RI 02909",*Rental Value Coming Soon,8 bed,3 bath,"2,839 sqft.",Multi-Family
+"$109,900","Whittier Ave, Providence, RI 02909",*Rental Value Coming Soon,6 bed,3 bath,"3,288 sqft.",
+"$881,496","William Reynolds Farm Rd, Richmond, RI 02892",$2420/m Estimated Rental Value,,,,
+"$346,995","Red Oak Dr, Richmond, RI 02898",$1400/m Estimated Rental Value,3 bed,1 bath,"1,132 sqft.",Single-Family
+"$427,609","Crestwood Dr, Richmond, RI 02832",$1470/m Estimated Rental Value,3 bed,2 bath,"1,320 sqft.",Single-Family
+"$428,655","Holland Ave, Riverside, RI 02915",$1690/m Estimated Rental Value,,,,Single-Family
+,"Lilac St, Riverside, RI 02915",*Rental Value Coming Soon,,,,Multi-Family
+"$357,694","Cypress St, Riverside, RI 02915",$1650/m Estimated Rental Value,2 bed,2 bath,829 sqft.,Single-Family
+"$372,388","Heath St, Riverside, RI 02915",$1680/m Estimated Rental Value,3 bed,2 bath,"1,372 sqft.",Single-Family
+"$363,193","Wampanoag Trl, Riverside, RI 02915",$1630/m Estimated Rental Value,3 bed,1 bath,900 sqft.,Single-Family
+"$412,427","Tanglewood Dr, Riverside, RI 02915",$1770/m Estimated Rental Value,3 bed,1.5 bath,"1,360 sqft.",Single-Family
+"$507,005","Beach Point Dr, Riverside, RI 02915",$1830/m Estimated Rental Value,3 bed,2 bath,"1,453 sqft.",Single-Family
+"$447,289","Tanglewood Dr, Riverside, RI 02915",$1820/m Estimated Rental Value,3 bed,1.5 bath,"1,820 sqft.",Single-Family
+"$414,295","Balkcom St, Riverside, RI 02915",$1640/m Estimated Rental Value,,,,
+"$420,152","Elder Ave, Riverside, RI 02915",$1650/m Estimated Rental Value,3 bed,1 bath,"1,248 sqft.",Single-Family
+"$318,121","Red House Rd, South Kingstown, RI 02879",$1201/m Estimated Rental Value,1 bed,1 bath,448 sqft.,Single-Family
+"$442,800","Linda Rd, Tiverton, RI 02878",$1790/m Estimated Rental Value,2 bed,2.5 bath,"1,592 sqft.",Single-Family
+"$340,149","Stafford Rd, Tiverton, RI 02878",$1770/m Estimated Rental Value,3 bed,1 bath,992 sqft.,Single-Family
+"$256,143","Judson St, Tiverton, RI 02878",$1211/m Estimated Rental Value,2 bed,1 bath,916 sqft.,Single-Family
+"$599,683","Bud Way, Tiverton, RI 02878",$1640/m Estimated Rental Value,3 bed,2 bath,"1,322 sqft.",Single-Family
+"$796,952","Hurst Ln, Tiverton, RI 02878",$2340/m Estimated Rental Value,4 bed,3.5 bath,"2,816 sqft.",Single-Family
+"$555,316","Deer Run Rd, Tiverton, RI 02878",$2080/m Estimated Rental Value,3 bed,1 bath,"1,168 sqft.",Single-Family
+"$318,121","Red House Rd, South Kingstown, RI 02879",$1201/m Estimated Rental Value,1 bed,1 bath,448 sqft.,Single-Family
+,"Dinonsie Way, Wakefield, RI 02879",*Rental Value Coming Soon,3 bed,2.5 bath,"2,048 sqft.",Single-Family
+,"Oak Hill Rd, Wakefield, RI 02879",*Rental Value Coming Soon,4 bed,2.5 bath,"2,100 sqft.",Single-Family
+,"High St, Wakefield, RI 02879",*Rental Value Coming Soon,5 bed,3 bath,"2,400 sqft.",Multi-Family
+,"Old Rose Hill Rd, Wakefield, RI 02879",*Rental Value Coming Soon,3 bed,3 bath,"1,132 sqft.",Single-Family
+,"Mulberry Dr, Wakefield, RI 02879",*Rental Value Coming Soon,3 bed,2.5 bath,"2,930 sqft.",Single-Family
+,"Andre Ave, Wakefield, RI 02879",*Rental Value Coming Soon,3 bed,1.5 bath,"1,306 sqft.",Single-Family
+,"Meadow Ave, Wakefield, RI 02879",*Rental Value Coming Soon,,,,
+,"Grandeville Ct Apt 932, Wakefield, RI 02879",*Rental Value Coming Soon,,,,
+,"Sandy Ln Apt C201, Warwick, RI 02889",*Rental Value Coming Soon,,,,
+"$445,751","Honeysuckle Rd, Warwick, RI 02888",$2000/m Estimated Rental Value,3 bed,1 bath,"1,966 sqft.",Single-Family
+,"Great Hill Dr, Warwick, RI 02886",*Rental Value Coming Soon,,,,
+"$385,210","Darrow Dr, Warwick, RI 02886",$1730/m Estimated Rental Value,3 bed,2 bath,"1,666 sqft.",Single-Family
+"$371,818","Cathedral Rd, Warwick, RI 02889",$1630/m Estimated Rental Value,4 bed,1 bath,"1,164 sqft.",Single-Family
+"$376,578","Spooner Ave, Warwick, RI 02886",$1760/m Estimated Rental Value,4 bed,2 bath,"1,777 sqft.",Single-Family
+"$260,232","Crystal Dr, Warwick, RI 02889",$1378/m Estimated Rental Value,,,,
+"$352,737","Douglas Rd, Warwick, RI 02886",$1460/m Estimated Rental Value,3 bed,1.5 bath,"1,100 sqft.",Single-Family
+,"Post Rd Apt 8, Warwick, RI 02886",*Rental Value Coming Soon,,,,
+"$430,216","Marine Ave, Warwick, RI 02888",$1720/m Estimated Rental Value,3 bed,2 bath,"1,080 sqft.",Single-Family
+"$342,147","Troy Ave, Warwick, RI 02889",$1710/m Estimated Rental Value,3 bed,1.5 bath,"1,560 sqft.",Single-Family
+"$290,000","Pequot Ave, Warwick, RI 02889",$1530/m Estimated Rental Value,3 bed,2 bath,"1,858 sqft.",Single-Family
+"$239,473","Van Zandt Ave, Warwick, RI 02889",$1301/m Estimated Rental Value,4 bed,1 bath,800 sqft.,Single-Family
+"$420,633","Walnut Glen Dr, Warwick, RI 02886",$1660/m Estimated Rental Value,3 bed,2 bath,"1,404 sqft.",Single-Family
+"$331,190","Elmbrook Dr, Warwick, RI 02889",$1480/m Estimated Rental Value,3 bed,1 bath,"1,008 sqft.",Single-Family
+"$328,169","Church Ave, Warwick, RI 02889",$1378/m Estimated Rental Value,3 bed,1 bath,"1,008 sqft.",Single-Family
+"$335,728","Walton Ave, Warwick, RI 02886",$1490/m Estimated Rental Value,,,,
+"$371,232","Cooke Pl, Warwick, RI 02888",$1800/m Estimated Rental Value,3 bed,1.5 bath,"1,344 sqft.",Single-Family
+,"Post Rd Apt 6604, Warwick, RI 02886",*Rental Value Coming Soon,,,,
+"$559,737","Cumberland Rd, Warwick, RI 02886",$2340/m Estimated Rental Value,4 bed,2.5 bath,"2,200 sqft.",Single-Family
+"$384,700","Bleachery Ct, Warwick, RI 02886",$1370/m Estimated Rental Value,4 bed,2 bath,"1,872 sqft.",Multi-Family
+"$352,773","Hoxsie Ave, Warwick, RI 02889",$1420/m Estimated Rental Value,3 bed,2 bath,"1,128 sqft.",Single-Family
+"$317,494","Sefton Ave, Warwick, RI 02889",$1430/m Estimated Rental Value,3 bed,1 bath,"1,008 sqft.",Single-Family
+"$451,533","Stillwater Dr, Warwick, RI 02889",$1560/m Estimated Rental Value,,,,Multi-Family
+"$353,502","Cedar Swamp Rd, Warwick, RI 02889",$1490/m Estimated Rental Value,3 bed,2 bath,804 sqft.,Single-Family
+"$317,887","Tanner Ave, Warwick, RI 02886",$1460/m Estimated Rental Value,3 bed,1 bath,"1,032 sqft.",Single-Family
+"$353,268","Cove Ave, Warwick, RI 02889",$1640/m Estimated Rental Value,3 bed,1 bath,"1,314 sqft.",Single-Family
+"$467,600","Hull St, Warwick, RI 02888",$2060/m Estimated Rental Value,6 bed,2 bath,"1,964 sqft.",Multi-Family
+"$295,538","Michigan Ave, Warwick, RI 02888",$1291/m Estimated Rental Value,3 bed,1 bath,960 sqft.,Single-Family
+"$437,150","Seneca St, Warwick, RI 02886",$1700/m Estimated Rental Value,,,,
+"$373,039","Park View Ave, Warwick, RI 02888",$1660/m Estimated Rental Value,,,,
+"$387,441","Cushing Rd, Warwick, RI 02888",$1620/m Estimated Rental Value,3 bed,1.5 bath,"1,476 sqft.",Single-Family
+"$311,431","Mckinley St, Warwick, RI 02886",$1380/m Estimated Rental Value,,,,
+"$289,043","Massachusetts Ave, Warwick, RI 02888",$1261/m Estimated Rental Value,2 bed,2 bath,924 sqft.,Single-Family
+,"New London Ave Unit 505, Warwick, RI 02886",*Rental Value Coming Soon,2 bed,1.5 bath,"1,024 sqft.",Condo
+"$307,224","Madison St, Warwick, RI 02888",$1440/m Estimated Rental Value,2 bed,1 bath,"1,053 sqft.",Single-Family
+"$436,000","W Shore Rd, Warwick, RI 02889",$1750/m Estimated Rental Value,,,,Single-Family
+"$385,664","Archdale Dr, Warwick, RI 02889",$1650/m Estimated Rental Value,3 bed,1 bath,"1,380 sqft.",Single-Family
+"$406,100","Park View Ave, Warwick, RI 02888",$1420/m Estimated Rental Value,4 bed,2 bath,"1,536 sqft.",Multi-Family
+"$385,152","Naushon Ave, Warwick, RI 02888",$1510/m Estimated Rental Value,2 bed,1 bath,940 sqft.,Single-Family
+"$382,299","Glen Farm Ct, Warwick, RI 02889",$1730/m Estimated Rental Value,4 bed,2 bath,"1,068 sqft.",Single-Family
+"$340,096","Archdale Dr, Warwick, RI 02889",$1470/m Estimated Rental Value,3 bed,1 bath,"1,032 sqft.",Single-Family
+"$318,833","Ithica St, Warwick, RI 02889",$1420/m Estimated Rental Value,3 bed,1 bath,"1,056 sqft.",Single-Family
+"$667,406","Shawomet Ave, Warwick, RI 02889",$2210/m Estimated Rental Value,5 bed,2.5 bath,"2,315 sqft.",Single-Family
+"$334,642","Easton Ave, Warwick, RI 02888",$1420/m Estimated Rental Value,3 bed,1 bath,"1,066 sqft.",Single-Family
+"$347,411","Grand Ave, Warwick, RI 02889",$1650/m Estimated Rental Value,3 bed,1 bath,"1,120 sqft.",Single-Family
+,"Post Rd Apt 22304, Warwick, RI 02886",*Rental Value Coming Soon,,,,
+"$284,525","Stanmore Rd, Warwick, RI 02889",$1201/m Estimated Rental Value,2 bed,1 bath,720 sqft.,Single-Family
+"$276,418","Arnolds Neck Dr, Warwick, RI 02886",$1241/m Estimated Rental Value,,,,
+"$407,686","Plantation St, Warwick, RI 02886",$1600/m Estimated Rental Value,3 bed,1.5 bath,"1,296 sqft.",Single-Family
+"$347,437","Haswill St, Warwick, RI 02889",$1408/m Estimated Rental Value,3 bed,1 bath,988 sqft.,Single-Family
+"$349,235","Hardwick St, Warwick, RI 02889",$1570/m Estimated Rental Value,3 bed,1 bath,"1,044 sqft.",Single-Family
+"$314,078","N Country Club Dr, Warwick, RI 02888",$1450/m Estimated Rental Value,3 bed,1 bath,"1,000 sqft.",Single-Family
+,"Quaker Ln Unit 5, Warwick, RI 02886",*Rental Value Coming Soon,,,,
+"$233,733","Post Rd Apt 122, Warwick, RI 02888",$940/m Estimated Rental Value,,,,
+"$410,496","Fern St, Warwick, RI 02889",$1630/m Estimated Rental Value,4 bed,2 bath,"1,645 sqft.",Single-Family
+"$321,831","Ridgeway Ave, Warwick, RI 02889",$1408/m Estimated Rental Value,3 bed,1 bath,"1,134 sqft.",Single-Family
+"$894,371","Post Rd, Warwick, RI 02888",$3110/m Estimated Rental Value,7 bed,3.5 bath,"6,746 sqft.",Single-Family
+,"Warwick Ave # 9, Warwick, RI 02888",*Rental Value Coming Soon,,,,
+"$305,404","Winter Ave, Warwick, RI 02889",$1490/m Estimated Rental Value,3 bed,2 bath,748 sqft.,Single-Family
+"$324,561","Killey Ave, Warwick, RI 02889",$1540/m Estimated Rental Value,3 bed,1 bath,"1,209 sqft.",Single-Family
+"$367,308","Hazard Ave, Warwick, RI 02889",$1450/m Estimated Rental Value,3 bed,1.5 bath,"1,317 sqft.",Single-Family
+"$276,062","Oniska St, Warwick, RI 02889",$1100/m Estimated Rental Value,2 bed,1 bath,780 sqft.,Single-Family
+"$389,107","Scranton Ave, Warwick, RI 02888",$1600/m Estimated Rental Value,3 bed,2 bath,872 sqft.,Single-Family
+,"Suburban Pkwy, Warwick, RI 02889",*Rental Value Coming Soon,5 bed,3 bath,"1,872 sqft.",Single-Family
+"$389,107","Scranton Ave, Warwick, RI 02888",$1600/m Estimated Rental Value,3 bed,2 bath,"1,524 sqft.",Single-Family
+"$355,748","Baldwin Rd, Warwick, RI 02886",$1580/m Estimated Rental Value,3 bed,1 bath,"1,408 sqft.",Single-Family
+"$280,295","Verndale St, Warwick, RI 02889",$1370/m Estimated Rental Value,2 bed,1 bath,"1,206 sqft.",Single-Family
+"$376,087","Anton Ct, Warwick, RI 02889",$1570/m Estimated Rental Value,3 bed,1.5 bath,"1,104 sqft.",Single-Family
+"$338,430","Pinnery Ave, Warwick, RI 02886",$1470/m Estimated Rental Value,3 bed,1 bath,"1,299 sqft.",Single-Family
+"$309,104","Nipmuc Trl, West Greenwich, RI 02817",$1810/m Estimated Rental Value,2 bed,2 bath,"1,228 sqft.",Single-Family
+,"Patriot Way, West Greenwich, RI 02817",*Rental Value Coming Soon,,,,
+,"Shippee Ave, West Warwick, RI 02893",*Rental Value Coming Soon,,,,
+"$312,800","Lafayette St, West Warwick, RI 02893",$1398/m Estimated Rental Value,3 bed,2 bath,"1,674 sqft.",Multi-Family
+"$324,311","Ridge St, West Warwick, RI 02893",$1311/m Estimated Rental Value,,,,Land
+"$390,331","Shane Dr, West Warwick, RI 02893",$1500/m Estimated Rental Value,3 bed,1.5 bath,"1,591 sqft.",Single-Family
+"$352,829","Tiffany Ave, West Warwick, RI 02893",$1420/m Estimated Rental Value,2 bed,1.5 bath,774 sqft.,Single-Family
+"$423,804","Juniper Dr, West Warwick, RI 02893",$1960/m Estimated Rental Value,3 bed,1.5 bath,"1,956 sqft.",Single-Family
+,"Earl St, West Warwick, RI 02893",*Rental Value Coming Soon,,,,
+,"Rita St # 1, West Warwick, RI 02893",*Rental Value Coming Soon,,,,
+,"Washington St, West Warwick, RI 02893",*Rental Value Coming Soon,,,,
+"$374,529","Kulas Rd, West Warwick, RI 02893",$1730/m Estimated Rental Value,3 bed,1 bath,960 sqft.,Single-Family
+,"Tanglewood Ct Apt 18, West Warwick, RI 02893",*Rental Value Coming Soon,,,,
+"$423,083","E Greenwich Ave, West Warwick, RI 02893",$1880/m Estimated Rental Value,3 bed,2 bath,"1,998 sqft.",Single-Family
+,"E Greenwich Ave, Bldg 2, West Warwick, RI 02893",*Rental Value Coming Soon,2 bed,2 bath,"1,264 sqft.",Condo
+"$271,393","Fiume St, West Warwick, RI 02893",$1570/m Estimated Rental Value,3 bed,1 bath,"1,342 sqft.",Single-Family
+"$321,816","Guertin St, West Warwick, RI 02893",*Rental Value Coming Soon,4 bed,2 bath,"1,338 sqft.",Single-Family
+"$261,545","Lockwood St, West Warwick, RI 02893",$1540/m Estimated Rental Value,3 bed,1 bath,"1,390 sqft.",Single-Family
+"$318,700","Ivy St, West Warwick, RI 02893",$1520/m Estimated Rental Value,5 bed,2 bath,"1,945 sqft.",Multi-Family
+"$285,647","Summit Ave, West Warwick, RI 02893",$1480/m Estimated Rental Value,3 bed,1.5 bath,"1,008 sqft.",Single-Family
+"$448,450","Barnold St, West Warwick, RI 02893",$1480/m Estimated Rental Value,3 bed,1.5 bath,"1,530 sqft.",Single-Family
+"$243,000","Andrews Ave, West Warwick, RI 02893",$1540/m Estimated Rental Value,5 bed,3 bath,"2,688 sqft.",Multi-Family
+,"Main St # 1, West Warwick, RI 02893",*Rental Value Coming Soon,,,,
+"$277,200","Quaker Ln Apt 42, West Warwick, RI 02893",$1191/m Estimated Rental Value,2 bed,1.5 bath,"1,140 sqft.",Condo
+"$244,080","Brayton St, West Warwick, RI 02893",$930/m Estimated Rental Value,,,,
+"$472,566","Whisper Ct, West Warwick, RI 02893",$1730/m Estimated Rental Value,,,,
+"$390,441","Setian Ln, West Warwick, RI 02893",$1780/m Estimated Rental Value,3 bed,1 bath,"1,648 sqft.",Single-Family
+"$299,000","Quaker Ln Apt 31, West Warwick, RI 02893",$1230/m Estimated Rental Value,2 bed,1.5 bath,"1,288 sqft.",Condo
+"$594,303","E Greenwich Ave, West Warwick, RI 02893",$2120/m Estimated Rental Value,4 bed,2.5 bath,"2,496 sqft.",Single-Family
+"$413,454","Exchange Rd, West Warwick, RI 02893",$1970/m Estimated Rental Value,3 bed,1.5 bath,"1,976 sqft.",Single-Family
+,"Main St # A, West Warwick, RI 02893",*Rental Value Coming Soon,,,,
+"$587,626","Lonsdale St, West Warwick, RI 02893",$1820/m Estimated Rental Value,3 bed,2.5 bath,"1,560 sqft.",Single-Family
+"$218,089","Hope Ct, West Warwick, RI 02893",$1010/m Estimated Rental Value,2 bed,1 bath,783 sqft.,Single-Family
+"$223,000","Arthur St, West Warwick, RI 02893",$1141/m Estimated Rental Value,2 bed,1 bath,707 sqft.,Single-Family
+"$218,089","Hope Ct, West Warwick, RI 02893",$1010/m Estimated Rental Value,2 bed,1 bath,918 sqft.,Single-Family
+"$407,609","Timber Walk, West Warwick, RI 02893",$1960/m Estimated Rental Value,3 bed,2.5 bath,"2,038 sqft.",Single-Family
+,"Turano Ave # B, Westerly, RI 02891",*Rental Value Coming Soon,,,,
+"$629,595","Shore Rd, Westerly, RI 02891",*Rental Value Coming Soon,,,,
+"$866,132","E Woody Hill Rd, Westerly, RI 02891",*Rental Value Coming Soon,,,,
+"$377,485","Chickadee Ln, Westerly, RI 02891",*Rental Value Coming Soon,3 bed,2 bath,"1,915 sqft.",Single-Family
+"$620,059","Shore Rd, Westerly, RI 02891",*Rental Value Coming Soon,3 bed,2 bath,"1,418 sqft.",Single-Family
+"$207,230","Cross St, Westerly, RI 02891",*Rental Value Coming Soon,2 bed,1 bath,944 sqft.,Single-Family
+"$240,241","Arlington St, Westerly, RI 02891",*Rental Value Coming Soon,2 bed,1.5 bath,"1,056 sqft.",Single-Family
+"$203,320","Canal St, Westerly, RI 02891",*Rental Value Coming Soon,2 bed,1.5 bath,878 sqft.,Single-Family
+"$292,267","Top St, Westerly, RI 02891",*Rental Value Coming Soon,3 bed,1.5 bath,"1,118 sqft.",Single-Family
+"$235,093","Privilege St Apt 6, Woonsocket, RI 02895",$1010/m Estimated Rental Value,2 bed,1 bath,"1,005 sqft.",Condo
+"$297,777","Bailey St, Woonsocket, RI 02895",$1301/m Estimated Rental Value,3 bed,2 bath,"1,521 sqft.",Single-Family
+,"Mason St # 1, Woonsocket, RI 02895",*Rental Value Coming Soon,4 bed,2 bath,"1,654 sqft.",Multi-Family
+"$348,442","Oregon Ave, Woonsocket, RI 02895",$1230/m Estimated Rental Value,2 bed,1 bath,981 sqft.,Single-Family
+"$395,900","Winter St, Woonsocket, RI 02895",$1640/m Estimated Rental Value,6 bed,2 bath,"2,904 sqft.",Multi-Family
+"$329,200","Mendon Rd, Woonsocket, RI 02895",$1640/m Estimated Rental Value,6 bed,2 bath,"2,450 sqft.",Multi-Family
+"$282,400","Jeffers St, Woonsocket, RI 02895",$1388/m Estimated Rental Value,5 bed,2 bath,"1,794 sqft.",Multi-Family
+"$258,600","Pleasant St, Woonsocket, RI 02895",$930/m Estimated Rental Value,,,,
+"$147,487","Rathbun St Apt 2, Woonsocket, RI 02895",$1010/m Estimated Rental Value,2 bed,1 bath,780 sqft.,Condo
+"$324,653","Bertenshaw Rd, Woonsocket, RI 02895",$1160/m Estimated Rental Value,4 bed,2 bath,"1,512 sqft.",Single-Family
+"$368,031","Logee St, Woonsocket, RI 02895",$1160/m Estimated Rental Value,4 bed,1 bath,"1,270 sqft.",Single-Family
+"$316,500","Rhode Island Ave, Woonsocket, RI 02895",$1640/m Estimated Rental Value,6 bed,2 bath,"2,080 sqft.",Multi-Family
+"$431,100","Chalapa Ave, Woonsocket, RI 02895",$1420/m Estimated Rental Value,,,,Multi-Family
+,"John A Cummings Way Ste 2, Woonsocket, RI 02895",*Rental Value Coming Soon,,,,
+"$302,967","Carnation St, Woonsocket, RI 02895",$1160/m Estimated Rental Value,3 bed,1 bath,"1,143 sqft.",Single-Family
+"$429,240","Chestnut St, Woonsocket, RI 02895",$1121/m Estimated Rental Value,,,,
+"$376,500","Mendon Rd, Woonsocket, RI 02895",$1131/m Estimated Rental Value,3 bed,3 bath,"2,357 sqft.",Multi-Family
+,"Vose St # 2, Woonsocket, RI 02895",*Rental Value Coming Soon,5 bed,2 bath,"2,576 sqft.",Multi-Family
+"$348,215","Nursery Ave, Woonsocket, RI 02895",$1230/m Estimated Rental Value,3 bed,1 bath,"1,152 sqft.",Single-Family
+,"Grand St # 3, Woonsocket, RI 02895",*Rental Value Coming Soon,,,,
+"$297,777","Bailey St, Woonsocket, RI 02895",$1301/m Estimated Rental Value,3 bed,2 bath,"1,333 sqft.",Single-Family
+"$332,542","Ruskin Ave, Woonsocket, RI 02895",$1230/m Estimated Rental Value,2 bed,1 bath,"1,344 sqft.",Single-Family
+,"Summit St Apt 3, Woonsocket, RI 02895",*Rental Value Coming Soon,,,,
+"$386,676","Winter St, Woonsocket, RI 02895",$1160/m Estimated Rental Value,4 bed,1.5 bath,0 sqft.,Single-Family
+"$326,835","Roberts St, Woonsocket, RI 02895",$1230/m Estimated Rental Value,2 bed,1.5 bath,988 sqft.,Single-Family
+"$244,000","Grove St, Woonsocket, RI 02895",$1400/m Estimated Rental Value,6 bed,3 bath,"2,534 sqft.",Multi-Family
