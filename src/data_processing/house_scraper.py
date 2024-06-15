@@ -151,13 +151,14 @@ class HouseScraper:
 
 # to run the file using "python3 <relative-path-of-file>"
 if __name__ == "__main__":
-    h = HouseScraper(config_path='config/config.json')
-    # regulate number of states to output
-    states = h.states[h.states.index('District-of-Columbia'): h.states.index('Florida')]
-    for state in states:
-        h.scrape_state(state)
-        # convert pandas -> pandas-on-spark -> spark dataframe
-        h.df = ps.from_pandas(h.df)
-        print(h.df)
-        # coalesce into 1 csv file
-        h.df.to_spark().coalesce(1).write.csv(f"data/{state}_hd.csv", header=True)
+    hs = HouseScraper(config_path='config/config.json')
+    # TODO: change to run for all states
+    # If file already exists, create new version of file by incrementing file_handle (all_states_1.csv, all_states_2.csv)
+    for state in hs.states:
+        if state == 'Rhode-Island':
+            hs.scrape_state(state)
+            # convert pandas -> pandas-on-spark -> spark dataframe
+            hs.df = ps.from_pandas(hs.df)
+            print(hs.df)
+            # coalesce into 1 csv file
+            hs.df.to_spark().coalesce(1).write.csv(f"data/raw/{state}_hd.csv", header=True)
