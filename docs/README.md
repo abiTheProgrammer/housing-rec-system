@@ -21,7 +21,7 @@ The Housing Recommendation System is a Model designed to recommend Houses to a U
     1. Extract Links for Each State:
             For each of the 50 states, extract the URLs that link to the state's
             housing information. This includes categories like cities, rural
-            areas, and foreclosures. **
+            areas, and foreclosures.
 
     2. Extract Links for Each Category within Each State:
             For each state, navigate to the categories: cities, rural areas
