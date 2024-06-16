@@ -80,7 +80,7 @@ pip install -r requirements.txt
 
 **Data Pipeline**
 
-- Populate raw csv file with updated data from website:
+- Populate raw csv file with data from website:
 
 ```sh
 python3 src/data_processing/house_scraper.py
