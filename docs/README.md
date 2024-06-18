@@ -48,6 +48,8 @@ The Housing Recommendation System is a Model designed to recommend Houses to a U
 
 **2. Clean and Preprocess Data**
 
+    1. Steps to be updated
+
 **3. Exploratory Data Analysis (EDA) and Feature Engineering**
 
 **4. Build Recommendation System**
