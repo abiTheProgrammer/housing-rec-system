@@ -1,0 +1,108 @@
+<mxfile host="app.diagrams.net" modified="2024-06-19T22:20:05.604Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="Hj4D1Cg7cTzo7TH22Q3y" version="24.5.5" type="google">
+  <diagram name="Page-1" id="cKjVq4eJRBWKapkbD6x5">
+    <mxGraphModel dx="954" dy="559" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="1jPYzUcfwXt_jr36FwYp-4" value="&lt;font color=&quot;#ff8000&quot;&gt;Submitting triggers calculation&lt;/font&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;" edge="1" parent="1" source="1jPYzUcfwXt_jr36FwYp-1" target="1jPYzUcfwXt_jr36FwYp-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="260" y="70" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1jPYzUcfwXt_jr36FwYp-1" value="&lt;font color=&quot;#ff00ff&quot;&gt;User Financial Data Input&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#ff00ff;" vertex="1" parent="1">
+          <mxGeometry x="40" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1jPYzUcfwXt_jr36FwYp-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1jPYzUcfwXt_jr36FwYp-2" target="1jPYzUcfwXt_jr36FwYp-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1jPYzUcfwXt_jr36FwYp-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1jPYzUcfwXt_jr36FwYp-2" target="1jPYzUcfwXt_jr36FwYp-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1jPYzUcfwXt_jr36FwYp-9" value="&lt;font color=&quot;#ff8000&quot;&gt;House Price Data sent to Model&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1jPYzUcfwXt_jr36FwYp-8">
+          <mxGeometry x="-0.06" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1jPYzUcfwXt_jr36FwYp-2" value="&lt;font color=&quot;#ff0000&quot;&gt;Financial Calculator&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="400" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1jPYzUcfwXt_jr36FwYp-5" value="&lt;font color=&quot;#ff8000&quot;&gt;Calculates the Price of a House a User can successfully pay&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#ff8000;" vertex="1" parent="1">
+          <mxGeometry x="570" y="30" width="150" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="1jPYzUcfwXt_jr36FwYp-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0.75;exitDx=0;exitDy=0;" edge="1" parent="1" source="1jPYzUcfwXt_jr36FwYp-7" target="1jPYzUcfwXt_jr36FwYp-10">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="580" y="230" as="sourcePoint" />
+            <mxPoint x="620" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1jPYzUcfwXt_jr36FwYp-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;" edge="1" parent="1" source="1jPYzUcfwXt_jr36FwYp-7" target="1jPYzUcfwXt_jr36FwYp-17">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="300" y="230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1jPYzUcfwXt_jr36FwYp-26" value="&lt;font color=&quot;#ff8000&quot;&gt;Send Response with House Data&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1jPYzUcfwXt_jr36FwYp-21">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint y="12" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1jPYzUcfwXt_jr36FwYp-7" value="&lt;font color=&quot;#ff0000&quot;&gt;House Recommendation Model&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="400" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1jPYzUcfwXt_jr36FwYp-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="1jPYzUcfwXt_jr36FwYp-10" target="1jPYzUcfwXt_jr36FwYp-28">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="800" y="350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1jPYzUcfwXt_jr36FwYp-10" value="&lt;font color=&quot;#0000ff&quot;&gt;Data Layer&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#0000ff;" vertex="1" parent="1">
+          <mxGeometry x="490" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1jPYzUcfwXt_jr36FwYp-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0;exitY=0.75;exitDx=0;exitDy=0;" edge="1" parent="1" source="1jPYzUcfwXt_jr36FwYp-7" target="1jPYzUcfwXt_jr36FwYp-14">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="200" y="230" as="sourcePoint" />
+            <mxPoint x="300" y="280" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="370" y="245" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1jPYzUcfwXt_jr36FwYp-14" value="&lt;font color=&quot;#0000ff&quot;&gt;Recommendation Engine&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#0000ff;" vertex="1" parent="1">
+          <mxGeometry x="310" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1jPYzUcfwXt_jr36FwYp-18" value="&lt;font color=&quot;#ff8000&quot;&gt;Option to go back&lt;/font&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1jPYzUcfwXt_jr36FwYp-17" target="1jPYzUcfwXt_jr36FwYp-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1jPYzUcfwXt_jr36FwYp-17" value="&lt;font color=&quot;#ff00ff&quot;&gt;Recommendation Page&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#ff00ff;" vertex="1" parent="1">
+          <mxGeometry x="40" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1jPYzUcfwXt_jr36FwYp-23" value="&lt;font color=&quot;#ff8000&quot;&gt;Request House Data w/ filter options&lt;/font&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;" edge="1" parent="1" source="1jPYzUcfwXt_jr36FwYp-17" target="1jPYzUcfwXt_jr36FwYp-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="260" y="210" as="sourcePoint" />
+            <mxPoint x="380" y="210" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1jPYzUcfwXt_jr36FwYp-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1jPYzUcfwXt_jr36FwYp-28" target="1jPYzUcfwXt_jr36FwYp-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1jPYzUcfwXt_jr36FwYp-28" value="&lt;font color=&quot;#00ff00&quot;&gt;Web Scrape Data from MLS.com&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#00ff00;" vertex="1" parent="1">
+          <mxGeometry x="720" y="400" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="1jPYzUcfwXt_jr36FwYp-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="1jPYzUcfwXt_jr36FwYp-34" target="1jPYzUcfwXt_jr36FwYp-37">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="645" y="570" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="580" y="560" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1jPYzUcfwXt_jr36FwYp-34" value="&lt;font color=&quot;#00ff00&quot;&gt;Clean, Preprocess, and Feature Extract Data&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#00ff00;" vertex="1" parent="1">
+          <mxGeometry x="520" y="400" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="1jPYzUcfwXt_jr36FwYp-37" value="&lt;font color=&quot;#00ffff&quot;&gt;Data Storage&lt;/font&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;strokeColor=#00ffff;" vertex="1" parent="1">
+          <mxGeometry x="440" y="520" width="60" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
