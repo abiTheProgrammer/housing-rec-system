@@ -1,4 +1,5 @@
 import os
+import sys
 from pyspark.sql import SparkSession
 
 class HouseDataConverter:
@@ -17,3 +18,8 @@ class HouseDataConverter:
 
     def __del__(self):
         self.spark.stop()
+
+# to run the file using "python3 <relative-path-of-file> <relative-path-to-data-file>"
+if __name__ == "__main__":
+    hdc = HouseDataConverter(sys.argv[len(sys.argv) - 1])
+    del hdc
