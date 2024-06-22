@@ -44,15 +44,36 @@ The Housing Recommendation System is a Model designed to recommend Houses to a U
 
     5. Store Data:
             Convert each listing into a dataframe row. Append row to final dataframe.
-            Export final dataframe as csv file to further preprocess data and conduct EDA.
+            Export dataframe with raw scraped data as csv file to further preprocess data
+            and conduct EDA. (Update with cloud storage solution)
 
-**2. Clean and Preprocess Data**
+**2. Exploratory Data Analysis (EDA)**
 
-    Steps to be updated
+Conduct preliminary analysis on data points in jupyter notebooks before deciding on
+what criteria to filter on. Rigorously test on inputs and datafiles and check if
+outputs match. Examine features like SqFt, Address, Rent Estimate, and more.
+Identify patterns in data, new features to be engineered and define criteria to
+filter.
 
-**3. Exploratory Data Analysis (EDA) and Feature Engineering**
+**3. Clean, Preprocess Data, and Feature Engineering**
+
+    1. Clean and Preprocess Data:
+            Remove Duplicates, NULL values. Convert Price to INT and Rent Estimate to INT.
+            If no Rental Value hasn't been updated, store as NULL. Convert Beds, Baths to FLOAT
+            and SqFt to INT. Convert Home Type values to encoded values in config file.
+
+    2. Feature Extract Data:
+            Extract Street, City, State Label, Zip Code from Address.
+
+    3. Final Cleanup:
+            Remove any final outliers.
+
+    4. Export Data:
+            Export final cleaned dataframe as csv file. (Update with cloud storage solution)
 
 **4. Build Recommendation System**
+
+        To be updated
 
 ## Setup
 
@@ -79,6 +100,8 @@ pip install -r requirements.txt
 - If JRE (Java Runtime Environment) not present, download from https://www.oracle.com/java/technologies/downloads/ (Required for PySpark)
 
 **4. Run Program**:
+
+(Update with script that runs the Data Pipeline)
 
 **Data Pipeline**
 
