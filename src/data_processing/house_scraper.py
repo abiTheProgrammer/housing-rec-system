@@ -163,5 +163,5 @@ if __name__ == "__main__":
             # convert pandas -> pandas-on-spark -> spark dataframe
             hs.df = ps.from_pandas(hs.df)
             print(hs.df)
-            # coalesce into 1 csv file
+            # coalesce into 1 csv file (change mode based on how data to be stored)
             hs.df.to_spark().coalesce(1).write.csv(f"data/raw/data_all_states.csv", header=True, mode="overwrite")
