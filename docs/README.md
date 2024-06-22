@@ -44,22 +44,23 @@ The Housing Recommendation System is a Model designed to recommend Houses to a U
 
     5. Store Data:
             Convert each listing into a dataframe row. Append row to final dataframe.
-            Export dataframe with raw scraped data as csv file to further preprocess data and conduct EDA.
-            (Update with cloud storage solution)
+            Export dataframe with raw scraped data as csv file to further preprocess data
+            and conduct EDA. (Update with cloud storage solution)
 
 **2. Exploratory Data Analysis (EDA)**
 
-        Conduct preliminary analysis on data points in jupyter notebooks before deciding on what criteria
-        to filter on. Rigorously test on inputs and datafiles and check if outputs match. Examine features
-        like SqFt, Address, Rent Estimate, and more. Identify patterns in data, new features to
-        be engineered and define criteria to filter.
+Conduct preliminary analysis on data points in jupyter notebooks before deciding on
+what criteria to filter on. Rigorously test on inputs and datafiles and check if
+outputs match. Examine features like SqFt, Address, Rent Estimate, and more.
+Identify patterns in data, new features to be engineered and define criteria to
+filter.
 
 **3. Clean, Preprocess Data, and Feature Engineering**
 
     1. Clean and Preprocess Data:
             Remove Duplicates, NULL values. Convert Price to INT and Rent Estimate to INT.
-            If no Rental Value hasn't been updated, store as NULL. Convert Beds, Baths to FLOAT and
-            SqFt to INT. Convert Home Type values to encoded values in config file.
+            If no Rental Value hasn't been updated, store as NULL. Convert Beds, Baths to FLOAT
+            and SqFt to INT. Convert Home Type values to encoded values in config file.
 
     2. Feature Extract Data:
             Extract Street, City, State Label, Zip Code from Address.
