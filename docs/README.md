@@ -121,4 +121,4 @@ python3 src/data_processing/house_data_converter.py data/raw/data_all_states.csv
 
 ## High Level Workflow Diagram
 
-![Flowchart](docs/Workflow Diagram.png)
+![Flowchart](Workflow%20Diagram.png)
