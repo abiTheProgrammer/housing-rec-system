@@ -48,7 +48,7 @@ The Housing Recommendation System is a Model designed to recommend Houses to a U
 
 **2. Clean and Preprocess Data**
 
-    1. Steps to be updated
+    Steps to be updated
 
 **3. Exploratory Data Analysis (EDA) and Feature Engineering**
 
@@ -121,4 +121,4 @@ python3 src/data_processing/house_data_converter.py data/raw/data_all_states.csv
 
 ## High Level Workflow Diagram
 
-Link: https://app.diagrams.net/#G10CCtsgk4EVexbYAfQpcGR_MufryN2-fN#%7B%22pageId%22%3A%22cKjVq4eJRBWKapkbD6x5%22%7D
+![Flowchart](docs/Workflow Diagram.png)
