@@ -73,7 +73,25 @@ filter.
 
 **4. Build Recommendation System**
 
-        To be updated
+    1. Add Rating column to dataset:
+        Rating of House Listing determines strength of recommendation.
+        Quantifiable column to recommend houses to users after filtering for prices, and more.
+
+    2. Recommendation Apprach:
+        a. Collaborative-based Filtering:
+                User 1 likes Houses A, B, C.
+                User 2 likes Houses A, B, D.
+                User 1 may like D and User 2 may like C.
+        b. Content-based Filtering:
+                User X likes House A.
+                House E has similar content as A.
+                User X may like House E as well.
+        c. Hybrid (a + b)
+
+    3. User Generated Feedback:
+        Liking/Disliking a house listing changes its rating.
+        This enhances the recommendation algorithm by re-training on updated ratings,
+        improving its accuracy.
 
 ## Setup
 
@@ -114,7 +132,7 @@ python3 src/data_processing/house_scraper.py
 - Clean and convert raw scraped csv file to exportable dataset:
 
 ```sh
-python3 src/data_processing/house_data_converter.py data/raw/data_all_states.csv
+python3 src/data_processing/house_data_converter.py data/uncleaned/data_all_states.csv
 ```
 
 ## EC2 Setup
@@ -145,3 +163,9 @@ python3 src/data_processing/house_data_converter.py data/raw/data_all_states.csv
 ## High Level Workflow Diagram
 
 ![Flowchart](Workflow%20Diagram.png)
+
+## Other Qustions/Comments/Ideas:
+
+    Q1. When do we add the rating column and with what initial values?
+    Q2. How do we store the data and what cloud service to use? Where are venv dependencies stored?
+    Q3. Create a script to run the Data Pipeline?
