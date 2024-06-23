@@ -12,6 +12,7 @@ Price,Address,Rent Estimate Per Month,Beds,Baths,SqFt,Home Type,Street,City,Stat
 653342,"Fletcher Rd, North Kingstown, RI 02852",2530,4,2,2226,SF,Fletcher Rd,North Kingstown,RI,2852
 225845,"Hazard St, Pawtucket, RI 02860",,4,1,1500,SF,Hazard St,Pawtucket,RI,2860
 388859,"Old Carriage Rd, Coventry, RI 02816",1650,2,1,1092,SF,Old Carriage Rd,Coventry,RI,2816
+451600,"Elmdale Ave, Johnston, RI 02919",1870,3,2,1897,MF,Elmdale Ave,Johnston,RI,2919
 321746,"Westwood Ave, Cranston, RI 02905",1610,3,1,1751,SF,Westwood Ave,Cranston,RI,2905
 328029,"Bee St, Coventry, RI 02816",1480,3,1,1040,SF,Bee St,Coventry,RI,2816
 488882,"Parrillo Cir, Johnston, RI 02919",1790,3,2,1215,SF,Parrillo Cir,Johnston,RI,2919
@@ -29,14 +30,11 @@ Price,Address,Rent Estimate Per Month,Beds,Baths,SqFt,Home Type,Street,City,Stat
 203320,"Canal St, Westerly, RI 02891",,2,1.5,878,SF,Canal St,Westerly,RI,2891
 194903,"Rodman St, Providence, RI 02907",,3,1.5,1254,SF,Rodman St,Providence,RI,2907
 216304,"Lucy St, Providence, RI 02909",,4,1.5,1109,SF,Lucy St,Providence,RI,2909
-353661,"Hornet Rd, North Kingstown, RI 02852",1680,3,1,1382,SF,Hornet Rd,North Kingstown,RI,2852
 353502,"Cedar Swamp Rd, Warwick, RI 02889",1490,3,2,804,SF,Cedar Swamp Rd,Warwick,RI,2889
 287158,"Massachusetts Ave, Warwick, RI 02888",1261,2,2,924,SF,Massachusetts Ave,Warwick,RI,2888
 302867,"Madison St, Warwick, RI 02888",1440,2,1,1053,SF,Madison St,Warwick,RI,2888
 439247,"Tanglewood Dr, Riverside, RI 02915",1820,3,1.5,1820,SF,Tanglewood Dr,Riverside,RI,2915
 358697,"Woburn St, Cranston, RI 02910",1520,4,1.5,1535,SF,Woburn St,Cranston,RI,2910
-345562,"Wheeler Ave, Cranston, RI 02905",1570,3,1,1174,SF,Wheeler Ave,Cranston,RI,2905
-223975,"Tyndall Ave, Providence, RI 02908",,4,1,1271,SF,Tyndall Ave,Providence,RI,2908
 981100,"New Meadow Rd, Barrington, RI 02806",2170,4,2,2762,MF,New Meadow Rd,Barrington,RI,2806
 261348,"Isabella Ave, Providence, RI 02908",,3,1,1156,SF,Isabella Ave,Providence,RI,2908
 251433,"Plainfield Pike, Coventry, RI 02827",1470,2,1,1020,SF,Plainfield Pike,Coventry,RI,2827
@@ -45,7 +43,9 @@ Price,Address,Rent Estimate Per Month,Beds,Baths,SqFt,Home Type,Street,City,Stat
 260462,"Edgemere Ave, Providence, RI 02909",,4,3,1328,SF,Edgemere Ave,Providence,RI,2909
 699900,"Cook Rd, Cumberland, RI 02864",2070,4,2,2050,SF,Cook Rd,Cumberland,RI,2864
 679068,"Jencks Rd, Cumberland, RI 02864",1460,3,2.5,2112,SF,Jencks Rd,Cumberland,RI,2864
+676902,"Michael Dr, Bristol, RI 02809",2040,4,2.5,1892,SF,Michael Dr,Bristol,RI,2809
 197101,"Wendell St, North Providence, RI 02911",1620,3,1,1008,SF,Wendell St,North Providence,RI,2911
+295183,"Bailey St, Woonsocket, RI 02895",1301,3,2,1521,SF,Bailey St,Woonsocket,RI,2895
 363193,"Wampanoag Trl, Riverside, RI 02915",1630,3,1,900,SF,Wampanoag Trl,Riverside,RI,2915
 507005,"Beach Point Dr, Riverside, RI 02915",1830,3,2,1453,SF,Beach Point Dr,Riverside,RI,2915
 341081,"Bellmore Dr, Pawtucket, RI 02861",,3,1.5,1400,SF,Bellmore Dr,Pawtucket,RI,2861
@@ -57,9 +57,8 @@ Price,Address,Rent Estimate Per Month,Beds,Baths,SqFt,Home Type,Street,City,Stat
 326835,"Roberts St, Woonsocket, RI 02895",1230,2,1.5,988,SF,Roberts St,Woonsocket,RI,2895
 485548,"Clemente Dr, East Greenwich, RI 02818",2220,3,1,1170,SF,Clemente Dr,East Greenwich,RI,2818
 390925,"Ferncrest Ave, Cranston, RI 02905",1700,6,2.5,1552,SF,Ferncrest Ave,Cranston,RI,2905
-391440,"Jane St, North Providence, RI 02904",1640,3,1.5,1681,SF,Jane St,North Providence,RI,2904
 606800,"North St, Cranston, RI 02920",1950,8,3,3658,MF,North St,Cranston,RI,2920
-270716,"South Rd, Exeter, RI 02822",1370,3,1.5,1258,SF,South Rd,Exeter,RI,2822
+391440,"Jane St, North Providence, RI 02904",1640,3,1.5,1681,SF,Jane St,North Providence,RI,2904
 360360,"Auburn Ave, Johnston, RI 02919",1620,3,1.5,1054,SF,Auburn Ave,Johnston,RI,2919
 352226,"Boulevard Ave, Lincoln, RI 02865",1840,3,1.5,1643,SF,Boulevard Ave,Lincoln,RI,2865
 418750,"Juniper Dr, West Warwick, RI 02893",1960,3,1.5,1956,SF,Juniper Dr,West Warwick,RI,2893
@@ -79,12 +78,10 @@ Price,Address,Rent Estimate Per Month,Beds,Baths,SqFt,Home Type,Street,City,Stat
 366670,"Knotty Oak Rd, Coventry, RI 02816",1510,3,1.5,1365,SF,Knotty Oak Rd,Coventry,RI,2816
 391807,"Hilary Ave, Cumberland, RI 02864",1690,3,1.5,1356,SF,Hilary Ave,Cumberland,RI,2864
 347411,"Grand Ave, Warwick, RI 02889",1650,3,1,1120,SF,Grand Ave,Warwick,RI,2889
-384545,"Longfellow Dr, Coventry, RI 02816",1550,3,1.5,1318,SF,Longfellow Dr,Coventry,RI,2816
 334968,"Chestnut Ave, Cranston, RI 02910",1490,2,1,1040,SF,Chestnut Ave,Cranston,RI,2910
 431579,"Old Spring Rd, Cranston, RI 02920",1840,3,1,1034,SF,Old Spring Rd,Cranston,RI,2920
 588176,"E Greenwich Ave, West Warwick, RI 02893",2120,4,2.5,2496,SF,E Greenwich Ave,West Warwick,RI,2893
 147487,"Rathbun St Apt 2, Woonsocket, RI 02895",1010,2,1,780,CONDO,Rathbun St Apt 2,Woonsocket,RI,2895
-90695,"Torch Ln, Coventry, RI 02816",,2,2,840,SF,Torch Ln,Coventry,RI,2816
 203798,"Diana Dr, Pawtucket, RI 02861",,2,2,958,SF,Diana Dr,Pawtucket,RI,2861
 254500,"Putnam Pike, Chepachet, RI 02814",1680,7,3,3218,MF,Putnam Pike,Chepachet,RI,2814
 373128,"Atwood Ave, Johnston, RI 02919",1590,4,1.5,1792,SF,Atwood Ave,Johnston,RI,2919
@@ -94,7 +91,6 @@ Price,Address,Rent Estimate Per Month,Beds,Baths,SqFt,Home Type,Street,City,Stat
 415400,"Baker St, Bristol, RI 02809",1430,4,2,1416,MF,Baker St,Bristol,RI,2809
 564931,"Nicholas Rd, Coventry, RI 02827",2120,3,2.5,1976,SF,Nicholas Rd,Coventry,RI,2827
 350152,"Archdale Dr, Warwick, RI 02889",1470,3,1,1032,SF,Archdale Dr,Warwick,RI,2889
-297777,"Bailey St, Woonsocket, RI 02895",1301,3,2,1521,SF,Bailey St,Woonsocket,RI,2895
 427609,"Crestwood Dr, Richmond, RI 02832",1470,3,2,1320,SF,Crestwood Dr,Richmond,RI,2832
 513236,"Hopkins Ave, Johnston, RI 02919",2020,3,2,1786,SF,Hopkins Ave,Johnston,RI,2919
 348542,"Church Ave, Warwick, RI 02889",1378,3,1,1008,SF,Church Ave,Warwick,RI,2889
@@ -103,30 +99,30 @@ Price,Address,Rent Estimate Per Month,Beds,Baths,SqFt,Home Type,Street,City,Stat
 334000,"Elm St, North Providence, RI 02911",1640,4,2,1404,SF,Elm St,North Providence,RI,2911
 389107,"Scranton Ave, Warwick, RI 02888",1600,3,2,1524,SF,Scranton Ave,Warwick,RI,2888
 321816,"Guertin St, West Warwick, RI 02893",,4,2,1338,SF,Guertin St,West Warwick,RI,2893
-482646,"E Lakeview Dr, North Providence, RI 02904",1650,3,2,1584,SF,E Lakeview Dr,North Providence,RI,2904
 394000,"Whipple Ave, Cranston, RI 02920",1950,6,2,2233,MF,Whipple Ave,Cranston,RI,2920
+482646,"E Lakeview Dr, North Providence, RI 02904",1650,3,2,1584,SF,E Lakeview Dr,North Providence,RI,2904
 377257,"Setian Ln, West Warwick, RI 02893",1780,3,1,1648,SF,Setian Ln,West Warwick,RI,2893
-409543,"Mulberry Ct, Coventry, RI 02816",1610,2,1,1176,SF,Mulberry Ct,Coventry,RI,2816
 385979,"Capuano Ave, Cranston, RI 02920",1820,3,1,1340,SF,Capuano Ave,Cranston,RI,2920
 704730,"Fox Ridge Dr, Cranston, RI 02921",2650,3,2.5,3063,SF,Fox Ridge Dr,Cranston,RI,2921
+409543,"Mulberry Ct, Coventry, RI 02816",1610,2,1,1176,SF,Mulberry Ct,Coventry,RI,2816
 348755,"Cypress St, Providence, RI 02906",,6,3,3498,MF,Cypress St,Providence,RI,2906
 432547,"Atwood Ave, Johnston, RI 02919",1700,4,3.5,1541,SF,Atwood Ave,Johnston,RI,2919
-221935,"Bath St, Providence, RI 02908",,6,3,2288,MF,Bath St,Providence,RI,2908
 326024,"Chestnut Ave, Cranston, RI 02910",1580,3,1.5,1326,SF,Chestnut Ave,Cranston,RI,2910
 383809,"Belmont Ave, East Providence, RI 02914",1610,2,1.5,1344,SF,Belmont Ave,East Providence,RI,2914
+221935,"Bath St, Providence, RI 02908",,6,3,2288,MF,Bath St,Providence,RI,2908
 620059,"Shore Rd, Westerly, RI 02891",,3,2,1418,SF,Shore Rd,Westerly,RI,2891
+229409,"Privilege St Apt 6, Woonsocket, RI 02895",1010,2,1,1005,CONDO,Privilege St Apt 6,Woonsocket,RI,2895
 244205,"Garden St, Pawtucket, RI 02860",,6,3,2280,MF,Garden St,Pawtucket,RI,2860
 421545,"Maxfield Ave, East Providence, RI 02914",1700,2,1,1296,SF,Maxfield Ave,East Providence,RI,2914
-504886,"Archer Way, Coventry, RI 02816",1870,2,1,1680,SF,Archer Way,Coventry,RI,2816
 388003,"Clemence St, Cranston, RI 02920",1740,3,2,1326,SF,Clemence St,Cranston,RI,2920
+504886,"Archer Way, Coventry, RI 02816",1870,2,1,1680,SF,Archer Way,Coventry,RI,2816
 500112,"Killian Rd, Johnston, RI 02919",1970,3,2.5,2370,SF,Killian Rd,Johnston,RI,2919
 223000,"Arthur St, West Warwick, RI 02893",1141,2,1,707,SF,Arthur St,West Warwick,RI,2893
 303284,"Nipmuc Trl, West Greenwich, RI 02817",1810,2,2,1228,SF,Nipmuc Trl,West Greenwich,RI,2817
 165465,"Metropolitan Rd, Providence, RI 02908",,2,1,816,SF,Metropolitan Rd,Providence,RI,2908
 227460,"Canton St, Providence, RI 02908",,3,1.5,1465,SF,Canton St,Providence,RI,2908
-642616,"Michael Dr, Bristol, RI 02809",2040,4,2.5,1892,SF,Michael Dr,Bristol,RI,2809
+384405,"Judson St, Tiverton, RI 02878",1211,2,1,916,SF,Judson St,Tiverton,RI,2878
 372605,"Lake Washington Dr, Chepachet, RI 02814",1600,3,1,960,SF,Lake Washington Dr,Chepachet,RI,2814
-179900,"Round Lake Dr, Pascoag, RI 02859",1640,2,2,976,SF,Round Lake Dr,Pascoag,RI,2859
 329200,"Mendon Rd, Woonsocket, RI 02895",1640,6,2,2450,MF,Mendon Rd,Woonsocket,RI,2895
 260462,"Edgemere Ave, Providence, RI 02909",,4,2.5,1328,SF,Edgemere Ave,Providence,RI,2909
 343000,"Grosvenor Ave, Pawtucket, RI 02860",,3,2,1967,SF,Grosvenor Ave,Pawtucket,RI,2860
@@ -136,6 +132,7 @@ Price,Address,Rent Estimate Per Month,Beds,Baths,SqFt,Home Type,Street,City,Stat
 175394,"Lisas Way, Coventry, RI 02816",,3,2,1620,SF,Lisas Way,Coventry,RI,2816
 416380,"Cole Dr, North Kingstown, RI 02852",1600,3,1.5,1483,SF,Cole Dr,North Kingstown,RI,2852
 382529,"Raymond Rd, North Providence, RI 02911",1620,2,1,1102,SF,Raymond Rd,North Providence,RI,2911
+348237,"Woburn St, Cranston, RI 02910",1520,4,1.5,1212,SF,Woburn St,Cranston,RI,2910
 189922,"Ruth St, Pawtucket, RI 02861",,2,1,1176,SF,Ruth St,Pawtucket,RI,2861
 535857,"Hines Rd, Cumberland, RI 02864",1970,3,2,1310,SF,Hines Rd,Cumberland,RI,2864
 360355,"Argyle St, Cranston, RI 02920",1400,1,1,1152,SF,Argyle St,Cranston,RI,2920
@@ -144,8 +141,9 @@ Price,Address,Rent Estimate Per Month,Beds,Baths,SqFt,Home Type,Street,City,Stat
 195483,"Pawtucket Ave, Chepachet, RI 02814",1470,2,1,275,SF,Pawtucket Ave,Chepachet,RI,2814
 196010,"King Philip Rd, Coventry, RI 02816",,3,2.5,2016,SF,King Philip Rd,Coventry,RI,2816
 322303,"Elmbrook Dr, Warwick, RI 02889",1480,3,1,1008,SF,Elmbrook Dr,Warwick,RI,2889
-250665,"Mccabe Ave, Pawtucket, RI 02861",,3,1.5,1645,SF,Mccabe Ave,Pawtucket,RI,2861
 394939,"Ashley St, Cranston, RI 02920",1770,3,2,1002,SF,Ashley St,Cranston,RI,2920
+250665,"Mccabe Ave, Pawtucket, RI 02861",,3,1.5,1645,SF,Mccabe Ave,Pawtucket,RI,2861
+400953,"Spencer Rd, Greenville, RI 02828",1910,4,2,1825,SF,Spencer Rd,Greenville,RI,2828
 355800,"Heath St, Riverside, RI 02915",1680,3,2,1372,SF,Heath St,Riverside,RI,2915
 324561,"Killey Ave, Warwick, RI 02889",1540,3,1,1209,SF,Killey Ave,Warwick,RI,2889
 383139,"Blanding Ave, East Providence, RI 02914",1590,3,2.5,1165,SF,Blanding Ave,East Providence,RI,2914
@@ -154,8 +152,8 @@ Price,Address,Rent Estimate Per Month,Beds,Baths,SqFt,Home Type,Street,City,Stat
 272500,"Woonasquatucket Ave, North Providence, RI 02911",1730,4,2,1479,MF,Woonasquatucket Ave,North Providence,RI,2911
 330232,"Oregon Ave, Woonsocket, RI 02895",1230,2,1,981,SF,Oregon Ave,Woonsocket,RI,2895
 247860,"Hartford Ave, Providence, RI 02909",,6,2,2496,MF,Hartford Ave,Providence,RI,2909
-283543,"Maynard St, Pawtucket, RI 02860",,4,1.5,2464,SF,Maynard St,Pawtucket,RI,2860
 613266,"Phenix Ave, Cranston, RI 02921",2370,3,2.5,2570,SF,Phenix Ave,Cranston,RI,2921
+283543,"Maynard St, Pawtucket, RI 02860",,4,1.5,2464,SF,Maynard St,Pawtucket,RI,2860
 270114,"Verndale St, Warwick, RI 02889",1370,2,1,1206,SF,Verndale St,Warwick,RI,2889
 277729,"King St, Johnston, RI 02919",1600,2,1,774,SF,King St,Johnston,RI,2919
 225000,"Bowdoin St, Providence, RI 02909",1530,8,4,3570,MF,Bowdoin St,Providence,RI,2909
@@ -163,20 +161,21 @@ Price,Address,Rent Estimate Per Month,Beds,Baths,SqFt,Home Type,Street,City,Stat
 283682,"Knotty Oak Rd, Coventry, RI 02816",1500,2,1,1080,SF,Knotty Oak Rd,Coventry,RI,2816
 377485,"Chickadee Ln, Westerly, RI 02891",,3,2,1915,SF,Chickadee Ln,Westerly,RI,2891
 370119,"Harwood St, Cranston, RI 02910",1560,3,1,1456,SF,Harwood St,Cranston,RI,2910
+378497,"Highland Ave, Cumberland, RI 02864",1830,3,1.5,1104,SF,Highland Ave,Cumberland,RI,2864
 300961,"East Ave, North Providence, RI 02911",1620,2,1,1048,SF,East Ave,North Providence,RI,2911
+376147,"Longfellow Dr, Coventry, RI 02816",1550,3,1.5,1318,SF,Longfellow Dr,Coventry,RI,2816
 213238,"Windsor Rd, Pawtucket, RI 02861",,3,1,1092,SF,Windsor Rd,Pawtucket,RI,2861
 261545,"Lockwood St, West Warwick, RI 02893",1540,3,1,1390,SF,Lockwood St,West Warwick,RI,2893
 207230,"Cross St, Westerly, RI 02891",,2,1,944,SF,Cross St,Westerly,RI,2891
+432773,"Midland Dr, Cranston, RI 02920",1930,3,2,1200,SF,Midland Dr,Cranston,RI,2920
 145520,"Bloomingdale Ave, Pawtucket, RI 02860",,2,1,672,SF,Bloomingdale Ave,Pawtucket,RI,2860
 271830,"Fairoaks Ave, Providence, RI 02908",,4,2,1986,SF,Fairoaks Ave,Providence,RI,2908
-432773,"Midland Dr, Cranston, RI 02920",1930,3,2,1200,SF,Midland Dr,Cranston,RI,2920
 218652,"Island Ave, Portsmouth, RI 02871",1400,2,1,612,SF,Island Ave,Portsmouth,RI,2871
 284525,"Stanmore Rd, Warwick, RI 02889",1201,2,1,720,SF,Stanmore Rd,Warwick,RI,2889
 408959,"Fern St, Warwick, RI 02889",1630,4,2,1645,SF,Fern St,Warwick,RI,2889
 244545,"Chaplin St, Pawtucket, RI 02861",,4,2,2122,MF,Chaplin St,Pawtucket,RI,2861
 555316,"Deer Run Rd, Tiverton, RI 02878",2080,3,1,1168,SF,Deer Run Rd,Tiverton,RI,2878
 223000,"Whipple Ave, Cranston, RI 02920",1610,7,3,3263,MF,Whipple Ave,Cranston,RI,2920
-391674,"Spencer Rd, Greenville, RI 02828",1910,4,2,1825,SF,Spencer Rd,Greenville,RI,2828
 267053,"N Country Club Dr, Warwick, RI 02888",1450,3,1,1000,SF,N Country Club Dr,Warwick,RI,2888
 420633,"Walnut Glen Dr, Warwick, RI 02886",1660,3,2,1404,SF,Walnut Glen Dr,Warwick,RI,2886
 559737,"Cumberland Rd, Warwick, RI 02886",2340,4,2.5,2200,SF,Cumberland Rd,Warwick,RI,2886
@@ -209,13 +208,13 @@ Price,Address,Rent Estimate Per Month,Beds,Baths,SqFt,Home Type,Street,City,Stat
 447774,"Bishop Hill Rd, Johnston, RI 02919",1730,3,1,1248,SF,Bishop Hill Rd,Johnston,RI,2919
 327700,"Lafayette St, West Warwick, RI 02893",1398,3,2,1674,MF,Lafayette St,West Warwick,RI,2893
 260065,"Gallatin St, Providence, RI 02907",,5,3,3329,MF,Gallatin St,Providence,RI,2907
+223975,"Tyndall Ave, Providence, RI 02908",,4,1,1523,SF,Tyndall Ave,Providence,RI,2908
 395300,"Park View Ave, Warwick, RI 02888",1420,4,2,1536,MF,Park View Ave,Warwick,RI,2888
-407609,"Timber Walk, West Warwick, RI 02893",1960,3,2.5,2038,SF,Timber Walk,West Warwick,RI,2893
 185158,"Burleigh St, Providence, RI 02904",,2,1.5,1036,CONDO,Burleigh St,Providence,RI,2904
 333943,"Worcester Ave, North Providence, RI 02911",1650,3,1,1680,SF,Worcester Ave,North Providence,RI,2911
+450630,"Quail Hollow Rd, Cranston, RI 02920",2020,3,1,1564,SF,Quail Hollow Rd,Cranston,RI,2920
 266310,"Charles St, Providence, RI 02904",1181,2,1,5724,SF,Charles St,Providence,RI,2904
 603617,"Lake View Dr, Chepachet, RI 02814",1900,2,1.5,1370,SF,Lake View Dr,Chepachet,RI,2814
-450630,"Quail Hollow Rd, Cranston, RI 02920",2020,3,1,1564,SF,Quail Hollow Rd,Cranston,RI,2920
 353268,"Cove Ave, Warwick, RI 02889",1640,3,1,1314,SF,Cove Ave,Warwick,RI,2889
 582051,"Lippitt Ave, Cranston, RI 02921",2080,3,2,999,SF,Lippitt Ave,Cranston,RI,2921
 631428,"Deerfield Dr, North Smithfield, RI 02896",1291,3,1.5,2454,SF,Deerfield Dr,North Smithfield,RI,2896
@@ -223,14 +222,13 @@ Price,Address,Rent Estimate Per Month,Beds,Baths,SqFt,Home Type,Street,City,Stat
 274928,"Bartlett Dr, Warwick, RI 02886",1301,2,1,768,SF,Bartlett Dr,Warwick,RI,2886
 465111,"Chestnut Ave, Lincoln, RI 02865",1630,4,1,1292,SF,Chestnut Ave,Lincoln,RI,2865
 885666,"Post Rd, Warwick, RI 02888",3110,7,4,6746,SF,Post Rd,Warwick,RI,2888
-358697,"Woburn St, Cranston, RI 02910",1520,4,1.5,1212,SF,Woburn St,Cranston,RI,2910
 378337,"New Meadow Rd, Barrington, RI 02806",2000,2,1,883,SF,New Meadow Rd,Barrington,RI,2806
 318700,"Ivy St, West Warwick, RI 02893",1520,5,2,1945,MF,Ivy St,West Warwick,RI,2893
-237576,"Revere St, Pawtucket, RI 02861",,2,1,1072,SF,Revere St,Pawtucket,RI,2861
 445387,"Elmhurst Dr, Greenville, RI 02828",1880,3,2,1808,SF,Elmhurst Dr,Greenville,RI,2828
 395976,"Shane Dr, West Warwick, RI 02893",1500,3,1.5,1591,SF,Shane Dr,West Warwick,RI,2893
 168980,"Blackstone St, Providence, RI 02907",,5,1,1334,SF,Blackstone St,Providence,RI,2907
 287754,"Vermont St, Johnston, RI 02919",1620,2,1,1092,SF,Vermont St,Johnston,RI,2919
+237576,"Revere St, Pawtucket, RI 02861",,3,2,1072,SF,Revere St,Pawtucket,RI,2861
 274720,"Avon St, Pawtucket, RI 02860",,4,2,1728,SF,Avon St,Pawtucket,RI,2860
 1429999,"Joslin St, North Providence, RI 02911",1630,4,3.5,2978,SF,Joslin St,North Providence,RI,2911
 261000,"Douglas Ave, Providence, RI 02908",1570,6,3,2745,MF,Douglas Ave,Providence,RI,2908
@@ -241,19 +239,19 @@ Price,Address,Rent Estimate Per Month,Beds,Baths,SqFt,Home Type,Street,City,Stat
 235535,"What Cheer Ave, Providence, RI 02909",,3,2,2280,SF,What Cheer Ave,Providence,RI,2909
 504782,"Harkness Rd, North Smithfield, RI 02896",1380,3,1.5,1486,SF,Harkness Rd,North Smithfield,RI,2896
 352737,"Douglas Rd, Warwick, RI 02886",1460,3,1.5,1100,SF,Douglas Rd,Warwick,RI,2886
+475794,"Glen Ter, Portsmouth, RI 02871",2100,3,1.5,1304,SF,Glen Ter,Portsmouth,RI,2871
 235535,"What Cheer Ave, Providence, RI 02909",,3,2,1680,SF,What Cheer Ave,Providence,RI,2909
 620833,"Brown Ave, Barrington, RI 02806",2180,4,2,1488,SF,Brown Ave,Barrington,RI,2806
 348867,"Stafford Rd, Tiverton, RI 02878",1770,3,1,992,SF,Stafford Rd,Tiverton,RI,2878
-83045,"Park Ln, Coventry, RI 02816",,2,1,744,SF,Park Ln,Coventry,RI,2816
 321600,"Oak St, Cranston, RI 02910",1430,4,2,1782,MF,Oak St,Cranston,RI,2910
-391400,"Elmdale Ave, Johnston, RI 02919",1870,3,2,1897,MF,Elmdale Ave,Johnston,RI,2919
+83045,"Park Ln, Coventry, RI 02816",,2,1,744,SF,Park Ln,Coventry,RI,2816
 185956,"Lloyd St, Pawtucket, RI 02860",,2,1,840,SF,Lloyd St,Pawtucket,RI,2860
 220235,"Miner St, Providence, RI 02905",,8,3,2704,MF,Miner St,Providence,RI,2905
 252144,"Phillip Ave, Cumberland, RI 02864",1640,2,1,798,SF,Phillip Ave,Cumberland,RI,2864
 481412,"Fanning Ln, Greenville, RI 02828",1930,3,2,1814,SF,Fanning Ln,Greenville,RI,2828
 295538,"Michigan Ave, Warwick, RI 02888",1291,3,1,960,SF,Michigan Ave,Warwick,RI,2888
-372967,"Salem St, Coventry, RI 02816",1610,3,1.5,1560,SF,Salem St,Coventry,RI,2816
 421956,"Hawthorne Ave, Cranston, RI 02910",1680,4,1.5,1853,SF,Hawthorne Ave,Cranston,RI,2910
+372967,"Salem St, Coventry, RI 02816",1610,3,1.5,1560,SF,Salem St,Coventry,RI,2816
 442800,"Linda Rd, Tiverton, RI 02878",1790,2,2.5,1592,SF,Linda Rd,Tiverton,RI,2878
 305404,"Winter Ave, Warwick, RI 02889",1490,3,2,748,SF,Winter Ave,Warwick,RI,2889
 794229,"Hurst Ln, Tiverton, RI 02878",2340,4,3.5,2816,SF,Hurst Ln,Tiverton,RI,2878
@@ -263,9 +261,11 @@ Price,Address,Rent Estimate Per Month,Beds,Baths,SqFt,Home Type,Street,City,Stat
 913665,"Hargraves Dr, Portsmouth, RI 02871",3120,4,3.5,3405,SF,Hargraves Dr,Portsmouth,RI,2871
 366339,"Paulette Dr, Coventry, RI 02816",1580,3,1,1200,SF,Paulette Dr,Coventry,RI,2816
 406393,"Barnold St, West Warwick, RI 02893",1480,3,1.5,1530,SF,Barnold St,West Warwick,RI,2893
-380416,"Bonaparte St, North Providence, RI 02904",1630,4,2,1152,SF,Bonaparte St,North Providence,RI,2904
 394710,"Eliot Rd, Cranston, RI 02910",1550,3,1.5,1318,SF,Eliot Rd,Cranston,RI,2910
+380416,"Bonaparte St, North Providence, RI 02904",1630,4,2,1152,SF,Bonaparte St,North Providence,RI,2904
+498613,"Spruce St, Barrington, RI 02806",2040,3,1.5,1064,SF,Spruce St,Barrington,RI,2806
 284922,"Pershing Rd, Johnston, RI 02919",1810,3,1,816,SF,Pershing Rd,Johnston,RI,2919
+396679,"Hornet Rd, North Kingstown, RI 02852",1680,3,1,1382,SF,Hornet Rd,North Kingstown,RI,2852
 425394,"Chase Rd, Portsmouth, RI 02871",1860,3,1,950,SF,Chase Rd,Portsmouth,RI,2871
 244545,"Berkley St, Providence, RI 02908",,6,3,2907,MF,Berkley St,Providence,RI,2908
 324762,"Darrow Dr, Warwick, RI 02886",1730,3,2,1666,SF,Darrow Dr,Warwick,RI,2886
@@ -275,14 +275,13 @@ Price,Address,Rent Estimate Per Month,Beds,Baths,SqFt,Home Type,Street,City,Stat
 293616,"Phillip Ave, Cumberland, RI 02864",1710,3,2,928,SF,Phillip Ave,Cumberland,RI,2864
 256870,"Corinth St, Providence, RI 02907",,6,3,3210,MF,Corinth St,Providence,RI,2907
 292887,"Sefton Ave, Warwick, RI 02889",1430,3,1,1008,SF,Sefton Ave,Warwick,RI,2889
-464532,"Walker Ln, Coventry, RI 02816",1740,3,2,1144,SF,Walker Ln,Coventry,RI,2816
 260525,"N View Ave, Cranston, RI 02920",1570,3,2,1160,SF,N View Ave,Cranston,RI,2920
+464532,"Walker Ln, Coventry, RI 02816",1740,3,2,1144,SF,Walker Ln,Coventry,RI,2816
 374148,"Bracken St, Cranston, RI 02920",1440,4,1,1248,SF,Bracken St,Cranston,RI,2920
 507889,"Lakeview Ave, Lincoln, RI 02865",1930,3,2,1328,SF,Lakeview Ave,Lincoln,RI,2865
 348215,"Nursery Ave, Woonsocket, RI 02895",1230,3,1,1152,SF,Nursery Ave,Woonsocket,RI,2895
 260620,"Edgemere Ave, Providence, RI 02909",,4,2.5,1328,SF,Edgemere Ave,Providence,RI,2909
 324275,"Potomac Rd, Portsmouth, RI 02871",1900,3,2,1030,SF,Potomac Rd,Portsmouth,RI,2871
-256143,"Judson St, Tiverton, RI 02878",1211,2,1,916,SF,Judson St,Tiverton,RI,2878
 308345,"Bertenshaw Rd, Woonsocket, RI 02895",1160,4,2,1512,SF,Bertenshaw Rd,Woonsocket,RI,2895
 301940,"Leading St, Johnston, RI 02919",1660,1,1,684,SF,Leading St,Johnston,RI,2919
 326900,"Hanton Rd, North Smithfield, RI 02896",1261,4,2,1753,MF,Hanton Rd,North Smithfield,RI,2896
@@ -300,6 +299,7 @@ Price,Address,Rent Estimate Per Month,Beds,Baths,SqFt,Home Type,Street,City,Stat
 492607,"New Hampshire Ave, Barrington, RI 02806",2220,3,2,1488,SF,New Hampshire Ave,Barrington,RI,2806
 362791,"Susan Ave, Johnston, RI 02919",1640,2,1,1352,SF,Susan Ave,Johnston,RI,2919
 206097,"Atwood Ave, Pawtucket, RI 02860",,3,1,1009,SF,Atwood Ave,Pawtucket,RI,2860
+254739,"Crystal Dr, Warwick, RI 02889",1378,3,1,888,SF,Crystal Dr,Warwick,RI,2889
 885666,"Post Rd, Warwick, RI 02888",3110,7,3.5,6746,SF,Post Rd,Warwick,RI,2888
 244885,"Herschel St, Providence, RI 02909",,3,1,2058,SF,Herschel St,Providence,RI,2909
 323001,"Twin Lakes Ave, Coventry, RI 02816",1281,3,1.5,832,SF,Twin Lakes Ave,Coventry,RI,2816
@@ -310,15 +310,12 @@ Price,Address,Rent Estimate Per Month,Beds,Baths,SqFt,Home Type,Street,City,Stat
 383870,"Branch Ave, Cumberland, RI 02864",1770,3,2.5,1176,SF,Branch Ave,Cumberland,RI,2864
 282400,"Jeffers St, Woonsocket, RI 02895",1388,5,2,1794,MF,Jeffers St,Woonsocket,RI,2895
 280000,"Orms St, Providence, RI 02908",1910,9,3,5078,MF,Orms St,Providence,RI,2908
-189922,"Ruth St, Pawtucket, RI 02861",,2,1,876,SF,Ruth St,Pawtucket,RI,2861
-485475,"Spruce St, Barrington, RI 02806",2040,3,1.5,1064,SF,Spruce St,Barrington,RI,2806
 334642,"Easton Ave, Warwick, RI 02888",1420,3,1,1066,SF,Easton Ave,Warwick,RI,2888
-369350,"Talbot St, North Providence, RI 02904",1630,3,2.5,1144,SF,Talbot St,North Providence,RI,2904
 263600,"Follett St, East Providence, RI 02914",1151,4,2,1584,MF,Follett St,East Providence,RI,2914
+369350,"Talbot St, North Providence, RI 02904",1630,3,2.5,1144,SF,Talbot St,North Providence,RI,2904
 326141,"King St, Johnston, RI 02919",1640,2,1,1277,SF,King St,Johnston,RI,2919
 264350,"Bellevue Ave, North Providence, RI 02911",1600,5,3,1980,MF,Bellevue Ave,North Providence,RI,2911
 388837,"Burdick Dr, Cranston, RI 02920",1830,3,2,1296,SF,Burdick Dr,Cranston,RI,2920
-408201,"Highland Ave, Cumberland, RI 02864",1830,3,1.5,1104,SF,Highland Ave,Cumberland,RI,2864
 686830,"Roosevelt Dr, Bristol, RI 02809",1980,4,2,1848,SF,Roosevelt Dr,Bristol,RI,2809
 493468,"Barbaras Way, Lincoln, RI 02865",1960,3,2,1242,SF,Barbaras Way,Lincoln,RI,2865
 321831,"Ridgeway Ave, Warwick, RI 02889",1408,3,1,1134,SF,Ridgeway Ave,Warwick,RI,2889
@@ -329,8 +326,8 @@ Price,Address,Rent Estimate Per Month,Beds,Baths,SqFt,Home Type,Street,City,Stat
 384386,"Archdale Dr, Warwick, RI 02889",1650,3,1,1380,SF,Archdale Dr,Warwick,RI,2889
 306130,"Greenville Ave, Greenville, RI 02828",1650,1,1,932,SF,Greenville Ave,Greenville,RI,2828
 290000,"Pequot Ave, Warwick, RI 02889",1530,3,2,1858,SF,Pequot Ave,Warwick,RI,2889
-198088,"Glen Meadows Dr, Pawtucket, RI 02861",,3,1,936,SF,Glen Meadows Dr,Pawtucket,RI,2861
 415254,"Eagle Rd, Cranston, RI 02920",1920,3,1,1392,SF,Eagle Rd,Cranston,RI,2920
+198088,"Glen Meadows Dr, Pawtucket, RI 02861",,3,1,936,SF,Glen Meadows Dr,Pawtucket,RI,2861
 349235,"Hardwick St, Warwick, RI 02889",1570,3,1,1044,SF,Hardwick St,Warwick,RI,2889
 327511,"Gerald St, Riverside, RI 02915",1690,4,1.5,1266,SF,Gerald St,Riverside,RI,2915
 318121,"Red House Rd, South Kingstown, RI 02879",1201,1,1,448,SF,Red House Rd,South Kingstown,RI,2879
