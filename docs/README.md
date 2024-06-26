@@ -159,6 +159,8 @@ python3 src/data_processing/house_data_converter.py data/uncleaned/data_all_stat
 ```sh
    git clone <URL>
 ```
+## Running tests
+python -m unittest discover -s tests -p "*.py"
 
 ## High Level Workflow Diagram
 
