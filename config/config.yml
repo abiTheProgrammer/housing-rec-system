@@ -1,0 +1,23 @@
+---
+base_url: "https://www.mls.com"
+search_state: "/Search/{state}.mvc"
+base_listing_url: "https://mls.foreclosure.com"
+listing_search_path: "/listing/search.html?ci={city}&st={state}&utm_source=internal&utm_medium=link&utm_campaign=MLS_top_links"
+init_page_count: "&ps=100"
+init_page_number: "&pg=1"
+browser_header: 
+  User-Agent: "Mozilla/5.0 (Linux; Android 13; SM-G981B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Mobile Safari/537.36"
+df_columns: 
+- "Price"
+- "Address"
+- "Rent Estimate Per Month"
+- "Beds"
+- "Baths"
+- "SqFt"
+- "Home Type"
+home_type_mapping: 
+  Single-Family: "SF"
+  Multi-Family: "MF"
+  Condo: "CONDO"
+  Mobile Home: "MH"
+  Commercial: "COMM"
