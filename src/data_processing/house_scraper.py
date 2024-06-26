@@ -155,13 +155,17 @@ class HouseScraper:
 # to run the file using "python3 <relative-path-of-file>"
 if __name__ == "__main__":
     hs = HouseScraper(config_path='config/config.json')
-    # TODO: change to run for all states
+    scripted_df = None
     # If file already exists, create new version of file by incrementing file_handle (all_states_1.csv, all_states_2.csv)
     for state in hs.states:
-        if state == 'Rhode-Island':
+        # change this line depending on what states to scrape for
+        if state == 'District-of-Columbia' or state == 'Wyoming':
             hs.scrape_state(state)
             # convert pandas -> pandas-on-spark -> spark dataframe
-            hs.df = ps.from_pandas(hs.df)
             print(hs.df)
-            # coalesce into 1 csv file (change mode based on how data to be stored)
-            hs.df.to_spark().coalesce(1).write.csv(f"data/uncleaned/data_all_states.csv", header=True, mode="overwrite")
+            if scripted_df is None:
+                scripted_df = ps.from_pandas(hs.df)
+            else:
+                scripted_df = ps.concat([scripted_df, ps.from_pandas(hs.df)])
+    # coalesce into 1 csv file (change mode based on how data to be stored)
+    scripted_df.to_spark().coalesce(1).write.csv(f"data/uncleaned/data_all_states.csv", header=True, mode="overwrite")
