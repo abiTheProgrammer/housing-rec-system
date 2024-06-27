@@ -15,5 +15,8 @@
         "Condo": "CONDO",
         "Mobile Home": "MH",
         "Commercial": "COMM"
+    },
+    "constants": {
+        "RENTAL_VALUE_COMING_SOON": "*Rental Value Coming Soon"
     }
 }
