@@ -168,7 +168,7 @@ python -m unittest discover -s tests -p "*.py"
 
 ## High Level Workflow Diagram
 
-![Flowchart](Workflow%20Diagram.png)
+![Flowchart](docs/Workflow%20Diagram.png)
 
 ## Other Qustions/Comments/Ideas:
 
