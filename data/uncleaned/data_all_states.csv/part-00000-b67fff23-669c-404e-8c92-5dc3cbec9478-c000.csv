@@ -1,4 +1,23 @@
 Price,Address,Rent Estimate Per Month,Beds,Baths,SqFt,Home Type
+,"Atlantic Street Se, Washington, DC 20032",*Rental Value Coming Soon,,,,Multi-Family
+"$462,870","Carpenter St Se, Washington, DC 20020",$2130/m Estimated Rental Value,2 bed,2.5 bath,"1,391 sqft.",Single-Family
+"$544,500","Massachusetts Ave Se, Washington, DC 20019",$2040/m Estimated Rental Value,4 bed,2.5 bath,"1,823 sqft.",Single-Family
+,"Street Ne, Washington, DC 20018",*Rental Value Coming Soon,,,,
+"$702,900","Pleasant St Se, Washington, DC 20020",$1670/m Estimated Rental Value,3 bed,1 bath,"2,016 sqft.",Single-Family
+,"Dubois Place Se, Washington, DC 20019",*Rental Value Coming Soon,4 bed,4 bath,"2,584 sqft.",Multi-Family
+,"Brentwood Road Ne, Washington, DC 20018",*Rental Value Coming Soon,,,,
+,"Kennedy Street, Nw, Washington, DC 20011",*Rental Value Coming Soon,,,,Commercial
+,"Parkland Place Se, Washington, DC 20032",*Rental Value Coming Soon,,,,
+"$738,400","Rock Creek Church Rd Nw, Washington, DC 20010",$3020/m Estimated Rental Value,6 bed,4 bath,,Single-Family
+"$540,800","Fort Lincoln Dr Ne, Washington, DC 20018",$2380/m Estimated Rental Value,4 bed,3 bath,,Condo
+,"25th St 1a, Washington, DC 20037",*Rental Value Coming Soon,,,,
+"$1,945,455","Pennsylvania Ave Nw Ap..., Washington, DC 20037",$3600/m Estimated Rental Value,,,,Condo
+"$273,000","Astor Pl Se, Washington, DC 20019",$1408/m Estimated Rental Value,4 bed,4 bath,"2,516 sqft.",Multi-Family
+"$873,333","Dubois Pl Se, Washington, DC 20019",$1660/m Estimated Rental Value,4 bed,4 bath,"2,584 sqft.",Multi-Family
+"$676,833","Atlantic St Se, Washington, DC 20032",$1720/m Estimated Rental Value,,,,Multi-Family
+,"Kennedy St Nw, Washington, DC 20011",*Rental Value Coming Soon,,,,Commercial
+"$589,500","Parkland Pl Se, Washington, DC 20032",$1770/m Estimated Rental Value,,,,
+,"Brentwood Rd Ne, Washington, DC 20018",*Rental Value Coming Soon,,,,Single-Family
 "$886,051","4th St Nw, Washington, DC 20011",$2440/m Estimated Rental Value,4 bed,2 bath,"1,660 sqft.",Single-Family
 "$471,437","T St Se, Washington, DC 20020",$1580/m Estimated Rental Value,3 bed,1.5 bath,"1,080 sqft.",Single-Family
 "$427,770","Calvert St Nw Apt 402, Washington, DC 20009",$2240/m Estimated Rental Value,1 bed,1 bath,747 sqft.,Condo
@@ -16,8 +35,8 @@ Price,Address,Rent Estimate Per Month,Beds,Baths,SqFt,Home Type
 "$972,000","Corcoran St Nw, Washington, DC 20009",$3700/m Estimated Rental Value,6 bed,5 bath,"2,445 sqft.",Multi-Family
 ,"Park Rd Nw Apt 319, Washington, DC 20010",*Rental Value Coming Soon,,,,
 "$273,000","Congress St Se, Washington, DC 20032",$1398/m Estimated Rental Value,,,,
-"$435,924","Jay St Ne, Washington, DC 20019",$1790/m Estimated Rental Value,3 bed,1.5 bath,"1,632 sqft.",Single-Family
 "$308,160","Lenfant Sq Se, Washington, DC 20020",$1590/m Estimated Rental Value,3 bed,1.5 bath,"1,360 sqft.",Single-Family
+"$435,924","Jay St Ne, Washington, DC 20019",$1790/m Estimated Rental Value,3 bed,1.5 bath,"1,632 sqft.",Single-Family
 "$633,600","9th St Nw, Washington, DC 20011",$2280/m Estimated Rental Value,,,,Townhome
 "$1,089,920","Holly St Nw, Washington, DC 20012",$3140/m Estimated Rental Value,3 bed,1 bath,"1,704 sqft.",Single-Family
 "$794,268","3rd St Nw, Washington, DC 20011",$2710/m Estimated Rental Value,,,,Single-Family
@@ -42,12 +61,15 @@ Price,Address,Rent Estimate Per Month,Beds,Baths,SqFt,Home Type
 ,"Georgia Ave Nw # C1, Washington, DC 20011",*Rental Value Coming Soon,,,,
 "$411,840","Blakney Ln Se, Washington, DC 20032",$1398/m Estimated Rental Value,3 bed,2.5 bath,"1,080 sqft.",Townhome
 "$575,403","Channing St Ne, Washington, DC 20018",$2570/m Estimated Rental Value,3 bed,1.5 bath,"1,159 sqft.",Single-Family
+"$579,439","4th St Ne Apt 2, Washington, DC 20002",$1920/m Estimated Rental Value,2 bed,2 bath,"1,061 sqft.",
 ,"Trenton Pl Se, Washington, DC 20032",*Rental Value Coming Soon,3 bed,3.5 bath,"1,664 sqft.",Single-Family
 ,"Marietta Pl Nw, Washington, DC 20011",*Rental Value Coming Soon,1 bed,1 bath,,Condo
 "$631,803","C St Ne, Washington, DC 20002",$2400/m Estimated Rental Value,3 bed,1 bath,"1,224 sqft.",Single-Family
 "$623,818","Hamlin St Ne, Washington, DC 20017",$1870/m Estimated Rental Value,3 bed,1.5 bath,"1,284 sqft.",Townhome
 ,"South St Nw, Washington, DC 20009",*Rental Value Coming Soon,,,,Townhome
 ,"Georgia Ave Nw # P1, Washington, DC 20010",*Rental Value Coming Soon,,,,Multi-Family
+"$287,001","Cathedral Ave Nw Apt 503w, Washington, DC 20016",$2060/m Estimated Rental Value,1 bed,1 bath,,Condo
+,"Summit Ct Ne, Washington, DC 20018",*Rental Value Coming Soon,2 bed,2 bath,,Condo
 "$414,000","Newcomb St Se, Washington, DC 20032",$1780/m Estimated Rental Value,8 bed,4 bath,"2,880 sqft.",Multi-Family
 "$387,087","13th St Nw Apt 414, Washington, DC 20005",$2080/m Estimated Rental Value,1 bed,1 bath,637 sqft.,Condo
 "$328,900","Lamont St Nw Apt 3a, Washington, DC 20010",$1920/m Estimated Rental Value,1 bed,1 bath,525 sqft.,Condo
@@ -77,8 +99,8 @@ Price,Address,Rent Estimate Per Month,Beds,Baths,SqFt,Home Type
 "$499,259","9th St Nw, Washington, DC 20011",$2300/m Estimated Rental Value,4 bed,2 bath,"1,116 sqft.",Townhome
 "$441,176","Olive St Ne, Washington, DC 20019",$1920/m Estimated Rental Value,3 bed,3 bath,"1,716 sqft.",Single-Family
 "$394,708","20th St Se, Washington, DC 20020",$2030/m Estimated Rental Value,3 bed,2 bath,"1,090 sqft.",Single-Family
-"$254,580","Eastern Ave Ne, Washington, DC 20019",$1398/m Estimated Rental Value,2 bed,1.5 bath,832 sqft.,Single-Family
 ,"Georgia Ave Nw, Washington, DC 20010",*Rental Value Coming Soon,,,,
+"$254,580","Eastern Ave Ne, Washington, DC 20019",$1398/m Estimated Rental Value,2 bed,1.5 bath,832 sqft.,Single-Family
 "$719,475","Park Rd Nw, Washington, DC 20010",$2630/m Estimated Rental Value,3 bed,2.5 bath,"1,336 sqft.",Single-Family
 "$875,835","Duncan St Ne, Washington, DC 20002",$2670/m Estimated Rental Value,3 bed,1 bath,"1,472 sqft.",Single-Family
 "$327,500","56th St Ne, Washington, DC 20019",$1790/m Estimated Rental Value,3 bed,2.5 bath,800 sqft.,Single-Family
@@ -88,8 +110,8 @@ Price,Address,Rent Estimate Per Month,Beds,Baths,SqFt,Home Type
 "$412,879","Baker St Ne, Washington, DC 20019",$1420/m Estimated Rental Value,2 bed,1 bath,884 sqft.,Single-Family
 ,"1st St Nw # 472, Washington, DC 20001",*Rental Value Coming Soon,,,,
 "$521,000","5th St Nw, Washington, DC 20011",$2140/m Estimated Rental Value,3 bed,1 bath,800 sqft.,Single-Family
-,"1st St Se, Apt 1209, Washington, DC 20003",*Rental Value Coming Soon,,,,
 ,"Connecticut Ave Nw Apt..., Washington, DC 20008",*Rental Value Coming Soon,,,,
+,"1st St Se, Apt 1209, Washington, DC 20003",*Rental Value Coming Soon,,,,
 "$821,797","Champlain St Nw, Washington, DC 20009",$2850/m Estimated Rental Value,3 bed,2 bath,"1,624 sqft.",Townhome
 "$408,717","Eads St Ne, Washington, DC 20019",$1420/m Estimated Rental Value,3 bed,1 bath,"1,040 sqft.",Townhome
 "$438,000","Marion St Nw, Washington, DC 20001",$2680/m Estimated Rental Value,,,"128,015 sqft.",Commercial
@@ -101,8 +123,8 @@ Price,Address,Rent Estimate Per Month,Beds,Baths,SqFt,Home Type
 ,"51st St Ne Apt 102b, Washington, DC 20019",*Rental Value Coming Soon,,,,
 ,"Connecticut Ave Nw, Washington, DC 20009",*Rental Value Coming Soon,,,,
 "$206,640","14th St Nw Unit 106, Washington, DC 20012",$1520/m Estimated Rental Value,1 bed,1 bath,,Condo
-"$477,991","15th St Ne, Washington, DC 20018",$2150/m Estimated Rental Value,3 bed,1 bath,"1,160 sqft.",Single-Family
 "$890,010","Owen Pl Ne, Washington, DC 20002",$1890/m Estimated Rental Value,3 bed,1 bath,"1,310 sqft.",Single-Family
+"$477,991","15th St Ne, Washington, DC 20018",$2150/m Estimated Rental Value,3 bed,1 bath,"1,160 sqft.",Single-Family
 ,"25th St Se, # B290, Washington, DC 20020",*Rental Value Coming Soon,,,,
 ,"K St Nw Ste 300, Washington, DC 20006",*Rental Value Coming Soon,,,,
 "$1,024,092","18th St Se, Washington, DC 20003",$2760/m Estimated Rental Value,3 bed,2 bath,960 sqft.,Single-Family
@@ -110,14 +132,12 @@ Price,Address,Rent Estimate Per Month,Beds,Baths,SqFt,Home Type
 ,"Longfellow St Nw Apt 103, Washington, DC 20011",*Rental Value Coming Soon,,,,
 ,"Wheeler Rd Se Apt 103, Washington, DC 20032",*Rental Value Coming Soon,,,,
 ,"6th St Se, # 103, Washington, DC 20032",*Rental Value Coming Soon,,,,
-,"9th St Se, # B3, Washington, DC 20032",*Rental Value Coming Soon,,,,Multi-Family
-,"Nannie Helen Burroughs..., Washington, DC 20019",*Rental Value Coming Soon,,,,
-,"17th Pl Se Apt 103, Washington, DC 20020",*Rental Value Coming Soon,,,,
 ,"S St Se, # B1, Washington, DC 20020",*Rental Value Coming Soon,,,,
 ,"Hunt Pl Ne, # B1, Washington, DC 20019",*Rental Value Coming Soon,,,,
+,"17th Pl Se Apt 103, Washington, DC 20020",*Rental Value Coming Soon,,,,
+,"9th St Se, # B3, Washington, DC 20032",*Rental Value Coming Soon,,,,Multi-Family
+,"Nannie Helen Burroughs..., Washington, DC 20019",*Rental Value Coming Soon,,,,
 ,"R St Nw Apt 102, Washington, DC 20001",*Rental Value Coming Soon,,,,
-"$545,000","C St Ne, Washington, DC 20002",$2400/m Estimated Rental Value,3 bed,1 bath,"1,224 sqft.",Single-Family
-"$688,685","Half St Sw, Washington, DC 20024",$2560/m Estimated Rental Value,2 bed,2 bath,"1,280 sqft.",Single-Family
 ,"Saratoga Ave Ne Apt 1, Washington, DC 20018",*Rental Value Coming Soon,,,,
 "$419,637","Southern Ave Se, Washington, DC 20019",$1880/m Estimated Rental Value,3 bed,1 bath,"1,492 sqft.",Single-Family
 ,"Sheridan Rd Se, Washington, DC 20020",*Rental Value Coming Soon,,,,
@@ -134,15 +154,14 @@ Price,Address,Rent Estimate Per Month,Beds,Baths,SqFt,Home Type
 ,"14th St Nw # 39, Washington, DC 20005",*Rental Value Coming Soon,,,,Commercial
 ,"Massachusetts Ave Nw A..., Washington, DC 20005",*Rental Value Coming Soon,,,,
 "$1,273,091","Kalmia Rd Nw, Washington, DC 20012",$3960/m Estimated Rental Value,4 bed,3.5 bath,"1,920 sqft.",Single-Family
-"$347,000","42nd St Ne, Washington, DC 20019",$1301/m Estimated Rental Value,2 bed,2 bath,"1,120 sqft.",Multi-Family
 "$1,376,000","Maryland Ave Ne, Washington, DC 20002",$3350/m Estimated Rental Value,5 bed,4.5 bath,"2,921 sqft.",Multi-Family
-"$470,259","46th St Se, Washington, DC 20019",$1880/m Estimated Rental Value,3 bed,2 bath,"1,232 sqft.",Single-Family
+"$347,000","42nd St Ne, Washington, DC 20019",$1301/m Estimated Rental Value,2 bed,2 bath,"1,120 sqft.",Multi-Family
 "$343,821","28th St Se, Washington, DC 20020",$2080/m Estimated Rental Value,3 bed,3 bath,"1,200 sqft.",Townhome
+"$470,259","46th St Se, Washington, DC 20019",$1880/m Estimated Rental Value,3 bed,2 bath,"1,232 sqft.",Single-Family
 "$890,644","Webster St Nw, Washington, DC 20011",$2670/m Estimated Rental Value,4 bed,3.5 bath,"2,142 sqft.",Single-Family
 ,"Edgewood St Ne Apt 309, Washington, DC 20017",*Rental Value Coming Soon,,,,
-"$820,856","Rock Creek Church Rd Nw, Washington, DC 20010",$3020/m Estimated Rental Value,,,,Townhome
 ,"G St Sw Apt B402, Washington, DC 20024",*Rental Value Coming Soon,,,,
-"$881,837","New Hampshire Ave Nw, Washington, DC 20011",$3010/m Estimated Rental Value,4 bed,4 bath,"2,287 sqft.",Single-Family
+"$884,627","New Hampshire Ave Nw, Washington, DC 20011",$3010/m Estimated Rental Value,4 bed,4 bath,"2,287 sqft.",Single-Family
 ,"Franklin St Ne, Washington, DC 20018",*Rental Value Coming Soon,,,,Land
 ,"31st Pl Ne, Washington, DC 20018",*Rental Value Coming Soon,3 bed,2.5 bath,,Condo
 "$284,392","Malcolm X Ave Se, Washington, DC 20032",$1790/m Estimated Rental Value,4 bed,2 bath,"1,254 sqft.",Single-Family
@@ -157,11 +176,11 @@ Price,Address,Rent Estimate Per Month,Beds,Baths,SqFt,Home Type
 "$391,448","27th St Ne, Washington, DC 20018",$1760/m Estimated Rental Value,2 bed,1 bath,918 sqft.,Single-Family
 "$1,206,464","Butterworth Pl Nw, Washington, DC 20016",$3160/m Estimated Rental Value,3 bed,2 bath,"1,080 sqft.",Single-Family
 "$504,218","44th Pl Se, Washington, DC 20019",$1880/m Estimated Rental Value,3 bed,2 bath,"1,276 sqft.",Single-Family
-"$593,528","16th St Nw Apt 305, Washington, DC 20009",$2610/m Estimated Rental Value,2 bed,1.5 bath,"1,158 sqft.",Condo
 "$337,877","49th St Ne, Washington, DC 20019",$1790/m Estimated Rental Value,2 bed,1 bath,962 sqft.,Single-Family
 "$1,183,992","Connecticut Ave Nw, Washington, DC 20008",$5220/m Estimated Rental Value,,,,Multi-Family
 "$1,369,346","Verbena St Nw, Washington, DC 20012",$3640/m Estimated Rental Value,4 bed,2.5 bath,"1,706 sqft.",Single-Family
 ,"Maine Ave Sw, Apt E-506, Washington, DC 20024",*Rental Value Coming Soon,,,,
+,"Fort Lincoln Dr Ne, Washington, DC 20018",*Rental Value Coming Soon,,,,
 "$448,637","14th St Nw Apt B2, Washington, DC 20011",$1780/m Estimated Rental Value,,,,Condo
 "$470,400","Ayers Pl Se, Washington, DC 20019",$1760/m Estimated Rental Value,3 bed,2 bath,"1,344 sqft.",Single-Family
 "$476,308","M St Sw # N801, Washington, DC 20024",$2200/m Estimated Rental Value,2 bed,2 bath,"1,140 sqft.",Condo
@@ -178,7 +197,6 @@ Price,Address,Rent Estimate Per Month,Beds,Baths,SqFt,Home Type
 "$426,241","Hayes St Ne, Washington, DC 20019",$1301/m Estimated Rental Value,2 bed,1 bath,990 sqft.,Single-Family
 "$542,622","P St Se, Washington, DC 20020",$2100/m Estimated Rental Value,4 bed,2 bath,891 sqft.,Single-Family
 ,"Davenport St Nw Apt 308, Washington, DC 20008",*Rental Value Coming Soon,,,,
-,"Fort Lincoln Dr Ne, Washington, DC 20018",*Rental Value Coming Soon,,,,
 ,"Galveston St Sw Apt T1, Washington, DC 20032",*Rental Value Coming Soon,,,,
 "$542,317","33rd St Se, Washington, DC 20020",$2120/m Estimated Rental Value,3 bed,2 bath,"1,284 sqft.",Single-Family
 ,"R St Nw Apt 202, Washington, DC 20001",*Rental Value Coming Soon,,,,
@@ -212,11 +230,11 @@ Price,Address,Rent Estimate Per Month,Beds,Baths,SqFt,Home Type
 "$1,097,272","12th St Nw, Washington, DC 20012",$3560/m Estimated Rental Value,5 bed,2.5 bath,"2,163 sqft.",Single-Family
 "$755,134","Allison St Ne, Washington, DC 20017",$2320/m Estimated Rental Value,4 bed,3.5 bath,"1,706 sqft.",Single-Family
 "$528,771","14th St Ne, Washington, DC 20018",$2130/m Estimated Rental Value,3 bed,1.5 bath,"1,056 sqft.",Single-Family
-,"22nd St Se, Washington, DC 20020",*Rental Value Coming Soon,,,,
 "$429,531","Anacostia Ave Ne, Washington, DC 20019",$1920/m Estimated Rental Value,3 bed,2 bath,"1,060 sqft.",Single-Family
-"$968,403","Rock Creek Church Rd Nw, Washington, DC 20010",$3030/m Estimated Rental Value,6 bed,3 bath,"2,463 sqft.",Single-Family
-,"Prospect St Nw, Washington, DC 20007",*Rental Value Coming Soon,,,,
 "$667,728","N Capitol St Ne, Washington, DC 20002",$1930/m Estimated Rental Value,3 bed,1 bath,"1,860 sqft.",Single-Family
+"$968,403","Rock Creek Church Rd Nw, Washington, DC 20010",$3030/m Estimated Rental Value,6 bed,3 bath,"2,463 sqft.",Single-Family
+,"22nd St Se, Washington, DC 20020",*Rental Value Coming Soon,,,,
+,"Prospect St Nw, Washington, DC 20007",*Rental Value Coming Soon,,,,
 "$536,268","Oates St Ne, Washington, DC 20002",$2040/m Estimated Rental Value,6 bed,1 bath,"1,294 sqft.",Townhome
 "$708,000","Adams St Nw, Washington, DC 20001",$2670/m Estimated Rental Value,4 bed,2 bath,"1,470 sqft.",Multi-Family
 "$748,433","Kansas Ave Nw, Washington, DC 20011",$2670/m Estimated Rental Value,3 bed,3 bath,"1,400 sqft.",Townhome
@@ -251,6 +269,7 @@ Price,Address,Rent Estimate Per Month,Beds,Baths,SqFt,Home Type
 ,"Georgia Ave Nw, Washington, DC 20011",*Rental Value Coming Soon,,,,
 ,"Georgia Ave Nw, Washington, DC 20001",*Rental Value Coming Soon,,,,
 ,"Q Nw Nw, # 3522, Washington, DC 20002",*Rental Value Coming Soon,,,,
+"$326,700","Cathedral Ave Nw Apt 404w, Washington, DC 20016",$1970/m Estimated Rental Value,1 bed,1 bath,803 sqft.,Condo
 "$357,786","Cathedral Ave Nw Apt 506e, Washington, DC 20016",$2080/m Estimated Rental Value,,,,Condo
 "$85,637","49th St Se Apt 302, Washington, DC 20019",$1388/m Estimated Rental Value,2 bed,1 bath,,Condo
 ,"Cathedral Ave Nw # 135, Washington, DC 20016",*Rental Value Coming Soon,,,,Condo
@@ -280,9 +299,9 @@ Price,Address,Rent Estimate Per Month,Beds,Baths,SqFt,Home Type
 ,"13th St Nw Apt 413, Washington, DC 20009",*Rental Value Coming Soon,,,,
 "$296,973","57th St Ne, Washington, DC 20019",$1398/m Estimated Rental Value,2 bed,1 bath,768 sqft.,Single-Family
 "$591,934","Jefferson St Ne, Washington, DC 20011",$2250/m Estimated Rental Value,3 bed,1.5 bath,"1,156 sqft.",Single-Family
+,"Wisconsin Ave Nw Apt 206, Washington, DC 20016",*Rental Value Coming Soon,,,,
 "$407,561","54th St Se, Washington, DC 20019",$1880/m Estimated Rental Value,3 bed,1 bath,"1,292 sqft.",Single-Family
 ,"Q St Nw Apt 207, Washington, DC 20009",*Rental Value Coming Soon,,,,
-,"Wisconsin Ave Nw Apt 206, Washington, DC 20016",*Rental Value Coming Soon,,,,
 "$556,938","Sargent Rd Ne, Washington, DC 20017",$2620/m Estimated Rental Value,3 bed,2.5 bath,"1,360 sqft.",Single-Family
 "$485,912","18th St Ne, Washington, DC 20002",$1620/m Estimated Rental Value,4 bed,2 bath,"1,152 sqft.",Single-Family
 "$399,360","Valley Ave Se, Washington, DC 20032",$1880/m Estimated Rental Value,3 bed,2 bath,"1,296 sqft.",Single-Family
@@ -297,7 +316,7 @@ Price,Address,Rent Estimate Per Month,Beds,Baths,SqFt,Home Type
 ,"7th St Se, Washington, DC 20003",*Rental Value Coming Soon,,,,
 "$526,670","Texas Ave Se, Washington, DC 20020",$2160/m Estimated Rental Value,3 bed,2.5 bath,"1,664 sqft.",Single-Family
 "$139,900","Delaware Ave Sw Apt N720, Washington, DC 20024",*Rental Value Coming Soon,1 bed,1 bath,,Co-Op
-"$110,579","9th St Se Apt 202, Washington, DC 20032",$1141/m Estimated Rental Value,1 bed,1 bath,,Condo
+"$121,522","9th St Se Apt 202, Washington, DC 20032",$1141/m Estimated Rental Value,1 bed,1 bath,,Condo
 "$3,424,576","37th St Nw, Washington, DC 20007",$4600/m Estimated Rental Value,4 bed,3 bath,"1,360 sqft.",Townhome
 ,"Galveston St Sw Apt 102, Washington, DC 20032",*Rental Value Coming Soon,,,,
 "$189,000","Forrester St Sw, Washington, DC 20032",$1620/m Estimated Rental Value,4 bed,4 bath,"2,556 sqft.",Multi-Family
@@ -369,9 +388,9 @@ Price,Address,Rent Estimate Per Month,Beds,Baths,SqFt,Home Type
 "$346,500","Talbert Ter Se, Washington, DC 20020",$1580/m Estimated Rental Value,4 bed,1 bath,"1,560 sqft.",Townhome
 "$235,732","Belmont Rd Nw Apt 501, Washington, DC 20009",$1880/m Estimated Rental Value,,1 bath,321 sqft.,Condo
 "$376,967","Douglas St Ne, Washington, DC 20019",$1920/m Estimated Rental Value,2 bed,2 bath,"1,307 sqft.",Single-Family
-"$311,391","Nash St Ne, Washington, DC 20019",$1620/m Estimated Rental Value,,,,
+"$308,188","Nash St Ne, Washington, DC 20019",$1620/m Estimated Rental Value,,,,
 ,"Stanton Rd Se Apt 201, Washington, DC 20020",*Rental Value Coming Soon,,,,
-"$672,432","Newton Pl Nw, Washington, DC 20010",$2500/m Estimated Rental Value,2 bed,1 bath,"1,320 sqft.",Single-Family
+"$751,275","Newton Pl Nw, Washington, DC 20010",$2500/m Estimated Rental Value,2 bed,1 bath,"1,320 sqft.",Single-Family
 "$514,651","9th St Nw, Washington, DC 20012",$2570/m Estimated Rental Value,3 bed,1.5 bath,"1,088 sqft.",Single-Family
 ,"1st Pl Ne, Apt 6, Washington, DC 20011",*Rental Value Coming Soon,,,,
 "$627,000","Harvard St Nw, Washington, DC 20001",$2760/m Estimated Rental Value,4 bed,2 bath,"1,634 sqft.",Multi-Family
@@ -412,8 +431,8 @@ Price,Address,Rent Estimate Per Month,Beds,Baths,SqFt,Home Type
 ,"Taylor St Ne Apt 44g, Washington, DC 20017",*Rental Value Coming Soon,,,,
 ,"M St Ne Apt 323, Washington, DC 20002",*Rental Value Coming Soon,,,,
 ,"Savannah Ter Se Apt D, Washington, DC 20020",*Rental Value Coming Soon,,,,
-"$377,214","52nd St Ne, Washington, DC 20019",$1790/m Estimated Rental Value,2 bed,1 bath,810 sqft.,Single-Family
 "$413,313","E Capitol St Se, Washington, DC 20019",$1880/m Estimated Rental Value,3 bed,1.5 bath,"1,273 sqft.",Single-Family
+"$377,214","52nd St Ne, Washington, DC 20019",$1790/m Estimated Rental Value,2 bed,1 bath,810 sqft.,Single-Family
 ,"Talbert St Se # 17a, Washington, DC 20020",*Rental Value Coming Soon,3 bed,3 bath,"1,530 sqft.",Condo
 "$395,359","Central Ave Se, Washington, DC 20019",$1760/m Estimated Rental Value,2 bed,1 bath,800 sqft.,Single-Family
 "$236,012","56th Pl Ne, Washington, DC 20019",$1790/m Estimated Rental Value,3 bed,2 bath,634 sqft.,Single-Family
@@ -423,24 +442,18 @@ Price,Address,Rent Estimate Per Month,Beds,Baths,SqFt,Home Type
 "$502,660","17th St Nw Apt 72, Washington, DC 20009",$2340/m Estimated Rental Value,1 bed,1 bath,694 sqft.,Condo
 "$1,930,500","52nd St Nw, Washington, DC 20016",$6360/m Estimated Rental Value,4 bed,4 bath,"4,076 sqft.",Single-Family
 "$318,125","Darrington St Sw, Washington, DC 20032",$2000/m Estimated Rental Value,3 bed,2 bath,"1,136 sqft.",Single-Family
-,"New Hampshire Ave Nw, Washington, DC 20036",*Rental Value Coming Soon,8 bed,3 bath,"3,412 sqft.",Townhome
-"$470,487","Savannah St Se, Washington, DC 20032",$1940/m Estimated Rental Value,4 bed,2 bath,"1,476 sqft.",Single-Family
-"$642,000","Warner St Nw, Washington, DC 20001",$2910/m Estimated Rental Value,3 bed,2 bath,"1,279 sqft.",Multi-Family
-"$402,325","54th St Ne, Washington, DC 20019",$1790/m Estimated Rental Value,3 bed,1 bath,"1,476 sqft.",Single-Family
-"$539,893","57th St Ne, Washington, DC 20019",$1850/m Estimated Rental Value,6 bed,4.5 bath,0 sqft.,Single-Family
-"$410,875","55th St Ne, Washington, DC 20019",$1790/m Estimated Rental Value,3 bed,1 bath,"1,476 sqft.",Single-Family
 ,"17th Pl Se, Washington, DC 20020",*Rental Value Coming Soon,,,,Multi-Family
 ,"Gainesville St Se, # 395, Washington, DC 20020",*Rental Value Coming Soon,,,,
-"$479,180","D St Se, Washington, DC 20019",$1388/m Estimated Rental Value,3 bed,2.5 bath,"2,310 sqft.",Single-Family
-"$1,264,086","16th St Nw, Washington, DC 20011",$3740/m Estimated Rental Value,4 bed,3.5 bath,"3,078 sqft.",Single-Family
+"$480,150","D St Se, Washington, DC 20019",$1388/m Estimated Rental Value,3 bed,2.5 bath,"2,310 sqft.",Single-Family
+"$1,699,115","16th St Nw, Washington, DC 20011",$3740/m Estimated Rental Value,4 bed,3.5 bath,"3,078 sqft.",Single-Family
 ,"V4th St Nw, Washington, DC 20011",*Rental Value Coming Soon,,,,
 ,"Maryland Ave Sw, Washington, DC 20024",*Rental Value Coming Soon,,,,Multi-Family
 "$416,100","Blaine St Ne, Washington, DC 20019",$1510/m Estimated Rental Value,3 bed,1.5 bath,"1,056 sqft.",Single-Family
 "$228,732","G St Se, Washington, DC 20019",$1880/m Estimated Rental Value,2 bed,1 bath,832 sqft.,Single-Family
 ,"Maryland Avenue Sw, Washington, DC 20024",*Rental Value Coming Soon,,,,
 "$594,000","Suitland Rd Se, Washington, DC 20020",$2190/m Estimated Rental Value,3 bed,2.5 bath,"2,192 sqft.",Single-Family
-"$681,614","17th Pl Ne, Washington, DC 20018",$2680/m Estimated Rental Value,3 bed,1.5 bath,"1,200 sqft.",Single-Family
 "$613,994","Kennedy St Ne, Washington, DC 20011",$2290/m Estimated Rental Value,3 bed,1.5 bath,"1,088 sqft.",Single-Family
+"$681,614","17th Pl Ne, Washington, DC 20018",$2680/m Estimated Rental Value,3 bed,1.5 bath,"1,200 sqft.",Single-Family
 "$285,779","Elmira St Sw, Washington, DC 20032",$2040/m Estimated Rental Value,2 bed,1.5 bath,928 sqft.,Single-Family
 ,"28th St Se Apt 4, Washington, DC 20020",*Rental Value Coming Soon,,,,
 ,"21st Pl Se # 1, Washington, DC 20020",*Rental Value Coming Soon,2 bed,2.5 bath,"2,100 sqft.",Multi-Family
@@ -449,9 +462,9 @@ Price,Address,Rent Estimate Per Month,Beds,Baths,SqFt,Home Type
 "$1,012,795","G St Ne, Washington, DC 20002",$2740/m Estimated Rental Value,3 bed,2 bath,"1,802 sqft.",Single-Family
 "$175,499","50th St Se Apt 404, Washington, DC 20019",$1388/m Estimated Rental Value,2 bed,1 bath,,Condo
 "$548,867","2nd St Ne, Washington, DC 20011",$2060/m Estimated Rental Value,2 bed,1.5 bath,"1,088 sqft.",Single-Family
+,"16th St Nw Apt Bg54, Washington, DC 20010",*Rental Value Coming Soon,,,,
 "$660,921","7th St Nw, Washington, DC 20011",$2200/m Estimated Rental Value,4 bed,1 bath,832 sqft.,Single-Family
 "$232,525","37th St Se Unit B, Washington, DC 20020",$1500/m Estimated Rental Value,,,,
-,"16th St Nw Apt Bg54, Washington, DC 20010",*Rental Value Coming Soon,,,,
 "$760,027","17th St Ne, Washington, DC 20018",$2680/m Estimated Rental Value,3 bed,2.5 bath,"1,440 sqft.",Single-Family
 ,"Oakwood St Se # S-75, Washington, DC 20032",*Rental Value Coming Soon,,,,Condo
 ,"Oakwood St Se # S-77, Washington, DC 20032",*Rental Value Coming Soon,,,,Condo
@@ -486,14 +499,14 @@ Price,Address,Rent Estimate Per Month,Beds,Baths,SqFt,Home Type
 ,"Oakwood St Se # S-49, Washington, DC 20032",*Rental Value Coming Soon,,,,Condo
 ,"Oakwood St Se # S-60, Washington, DC 20032",*Rental Value Coming Soon,,,,Condo
 "$726,841","Pennsylvania Ave Se, Washington, DC 20003",$2520/m Estimated Rental Value,3 bed,1 bath,"1,192 sqft.",Townhome
-"$756,661","Randolph St Nw, Washington, DC 20011",$2750/m Estimated Rental Value,,,,
+"$930,551","Randolph St Nw, Washington, DC 20011",$2750/m Estimated Rental Value,,,,
 "$440,253","Girard St Ne, Washington, DC 20017",$2390/m Estimated Rental Value,3 bed,1 bath,"1,270 sqft.",Single-Family
 "$226,182","50th Pl Ne, Washington, DC 20019",$1790/m Estimated Rental Value,,,,Single-Family
 "$937,530","12th St Nw, Washington, DC 20012",$3140/m Estimated Rental Value,3 bed,2.5 bath,"1,638 sqft.",Single-Family
 "$810,530","Shepherd St Nw, Washington, DC 20011",$2790/m Estimated Rental Value,5 bed,2.5 bath,"2,112 sqft.",Townhome
 "$774,376","A St Ne, Washington, DC 20002",$2400/m Estimated Rental Value,3 bed,2.5 bath,"1,512 sqft.",Single-Family
 ,"Quarles St Ne, Washington, DC 20019",*Rental Value Coming Soon,,,,
-"$663,289","Emerson St Nw, Washington, DC 20011",$2480/m Estimated Rental Value,3 bed,1 bath,"1,280 sqft.",Single-Family
+"$696,950","Emerson St Nw, Washington, DC 20011",$2480/m Estimated Rental Value,3 bed,1 bath,"1,280 sqft.",Single-Family
 "$395,000","17th St Nw Apt 504, Washington, DC 20009",*Rental Value Coming Soon,1 bed,1 bath,800 sqft.,Co-Op
 "$448,649","B St Se, Washington, DC 20019",$1760/m Estimated Rental Value,,,,Single-Family
 "$785,390","13th St Ne, Washington, DC 20017",$2330/m Estimated Rental Value,3 bed,2 bath,"1,435 sqft.",Single-Family
@@ -508,53 +521,53 @@ Price,Address,Rent Estimate Per Month,Beds,Baths,SqFt,Home Type
 "$653,973","New York Ave Nw Unit 6, Washington, DC 20001",$2240/m Estimated Rental Value,2 bed,2.5 bath,,Condo
 "$873,626","9th St Nw, Washington, DC 20012",$3140/m Estimated Rental Value,3 bed,1.5 bath,"1,576 sqft.",Single-Family
 "$271,000","Parkland Pl Se, Washington, DC 20032",$1770/m Estimated Rental Value,,,,Multi-Family
-"$506,949","Irving St Nw, Washington, DC 20010",$2510/m Estimated Rental Value,3 bed,1 bath,"1,088 sqft.",Single-Family
+"$572,654","Irving St Nw, Washington, DC 20010",$2510/m Estimated Rental Value,3 bed,1 bath,"1,088 sqft.",Single-Family
 "$1,158,000","Chapin St Nw, Washington, DC 20009",$3230/m Estimated Rental Value,6 bed,3.5 bath,"2,706 sqft.",Multi-Family
 ,"Bruce Pl Se Apt 201, Washington, DC 20020",*Rental Value Coming Soon,,,,
 "$573,728","2nd St Ne, Washington, DC 20002",$1890/m Estimated Rental Value,2 bed,2 bath,"1,202 sqft.",Single-Family
-"$489,143","Barnaby St Se, Washington, DC 20032",$1430/m Estimated Rental Value,3 bed,2.5 bath,"1,646 sqft.",Single-Family
+"$488,979","Barnaby St Se, Washington, DC 20032",$1430/m Estimated Rental Value,3 bed,2.5 bath,"1,646 sqft.",Single-Family
 ,"Willow St Nw # 314, Washington, DC 20012",*Rental Value Coming Soon,,,,
 ,"Rhode Island Ave Ne # 513, Washington, DC 20002",*Rental Value Coming Soon,,,,
 "$412,007","Central Ave Se, Washington, DC 20019",$1388/m Estimated Rental Value,2 bed,1.5 bath,996 sqft.,Single-Family
 ,"Morse St Ne # No621, Washington, DC 20002",*Rental Value Coming Soon,,,,
 "$450,382","Danbury St Sw, Washington, DC 20032",$1500/m Estimated Rental Value,,,,
 ,"7th St Nw Apt 5, Washington, DC 20001",*Rental Value Coming Soon,,,,
-"$764,699","Illinois Ave Nw, Washington, DC 20011",$2760/m Estimated Rental Value,4 bed,2 bath,"1,680 sqft.",Single-Family
+"$865,212","Illinois Ave Nw, Washington, DC 20011",$2760/m Estimated Rental Value,4 bed,2 bath,"1,680 sqft.",Single-Family
 ,"Kennedy St Nw, Washington, DC 20011",*Rental Value Coming Soon,,1.5 bath,,Commercial
-"$2,054,400","Mckinley St Nw, Washington, DC 20015",$43914/m Estimated Rental Value,3 bed,2.5 bath,"1,894 sqft.",Single-Family
+"$1,710,950","Mckinley St Nw, Washington, DC 20015",$43914/m Estimated Rental Value,3 bed,2.5 bath,"1,894 sqft.",Single-Family
 ,"Ridge Rd Se, Washington, DC 20019",*Rental Value Coming Soon,2 bed,1 bath,720 sqft.,Condo
 "$379,674","33rd St Ne, Washington, DC 20019",$1420/m Estimated Rental Value,2 bed,1 bath,832 sqft.,Single-Family
 ,"Adams St Ne # 102, Washington, DC 20002",*Rental Value Coming Soon,,,,
 "$874,259","Eastern Ave Ne, Washington, DC 20011",$3260/m Estimated Rental Value,3 bed,2.5 bath,"1,682 sqft.",Single-Family
-"$4,314,366","Wyoming Ave Nw, Washington, DC 20008",$7761/m Estimated Rental Value,,,,Commercial
-"$1,210,377","29th St Nw, Washington, DC 20015",$4140/m Estimated Rental Value,4 bed,3.5 bath,"1,508 sqft.",Single-Family
+"$4,051,695","Wyoming Ave Nw, Washington, DC 20008",$7761/m Estimated Rental Value,,,,Commercial
+"$1,148,598","29th St Nw, Washington, DC 20015",$4140/m Estimated Rental Value,4 bed,3.5 bath,"1,508 sqft.",Single-Family
 "$523,913","Fort Lincoln Dr Ne, Washington, DC 20018",*Rental Value Coming Soon,,,,
 "$264,386","Connecticut Ave Nw Apt..., Washington, DC 20008",$1680/m Estimated Rental Value,1 bed,1 bath,160 sqft.,Condo
 "$701,824","I St Ne, Washington, DC 20002",$2320/m Estimated Rental Value,3 bed,1.5 bath,"1,310 sqft.",Single-Family
 ,"H St Ne # 849, Washington, DC 20002",*Rental Value Coming Soon,,,,
 "$589,343","Highwood Dr Se, Washington, DC 20020",$2140/m Estimated Rental Value,3 bed,1.5 bath,"1,600 sqft.",Single-Family
-"$394,293","41st St Se, Washington, DC 20020",$2060/m Estimated Rental Value,3 bed,1.5 bath,"1,160 sqft.",Single-Family
-"$3,669,493","Western Ave Nw, Washington, DC 20015",$6880/m Estimated Rental Value,,,,
-"$455,994","Oglethorpe St Ne, Washington, DC 20011",$2250/m Estimated Rental Value,3 bed,1.5 bath,"1,123 sqft.",Single-Family
+"$389,849","41st St Se, Washington, DC 20020",$2060/m Estimated Rental Value,3 bed,1.5 bath,"1,160 sqft.",Single-Family
+"$3,634,096","Western Ave Nw, Washington, DC 20015",$6880/m Estimated Rental Value,,,,
+"$507,656","Oglethorpe St Ne, Washington, DC 20011",$2250/m Estimated Rental Value,3 bed,1.5 bath,"1,123 sqft.",Single-Family
 "$698,758","Longfellow St Nw, Washington, DC 20011",$2600/m Estimated Rental Value,,,,
 "$335,636","Branch Ave Se, Washington, DC 20019",$2040/m Estimated Rental Value,3 bed,1 bath,992 sqft.,Single-Family
 ,"16th St Nw, Unit T02, Washington, DC 20036",*Rental Value Coming Soon,,,,
 ,"4th St Se, #e 302, Washington, DC 20024",*Rental Value Coming Soon,,,,
 ,"Rhode Island Ave Ne, U..., Washington, DC 20002",*Rental Value Coming Soon,,,,
-"$82,080","Good Hope Rd Se Apt 207, Washington, DC 20020",$1450/m Estimated Rental Value,1 bed,1 bath,,Condo
 ,"Savannah St Se Apt 304, Washington, DC 20020",*Rental Value Coming Soon,,,,
-"$556,937","Ord St Ne, Washington, DC 20019",$1920/m Estimated Rental Value,4 bed,2.5 bath,"2,888 sqft.",Single-Family
-"$491,217","Highwood Pl Se, Washington, DC 20020",$2140/m Estimated Rental Value,3 bed,3.5 bath,"1,576 sqft.",Single-Family
+"$445,401","Barnaby St Se, Washington, DC 20032",$1400/m Estimated Rental Value,4 bed,2.5 bath,"2,092 sqft.",Single-Family
+"$583,300","Ord St Ne, Washington, DC 20019",$1920/m Estimated Rental Value,4 bed,2.5 bath,"2,888 sqft.",Single-Family
+"$592,251","Highwood Pl Se, Washington, DC 20020",$2140/m Estimated Rental Value,3 bed,3.5 bath,"1,576 sqft.",Single-Family
 ,"Pennsylvania Ave Nw St..., Washington, DC 20004",*Rental Value Coming Soon,,,,
 "$1,979,010","Sudbury Ln Nw, Washington, DC 20012",$11554/m Estimated Rental Value,5 bed,4 bath,"3,520 sqft.",Single-Family
 ,"12th St Nw Ste 700, Washington, DC 20005",*Rental Value Coming Soon,,,,
 ,"G St Ne, Washington, DC 20002",*Rental Value Coming Soon,,,,
-"$286,140","Edson Pl Ne, Washington, DC 20019",$1720/m Estimated Rental Value,4 bed,1.5 bath,"1,315 sqft.",Single-Family
+"$303,528","Edson Pl Ne, Washington, DC 20019",$1720/m Estimated Rental Value,4 bed,1.5 bath,"1,315 sqft.",Single-Family
 "$197,601","Bowen Rd Se Apt 403, Washington, DC 20020",$1490/m Estimated Rental Value,2 bed,1 bath,930 sqft.,Condo
 ,"New Jersey Ave Nw Apt 809, Washington, DC 20001",*Rental Value Coming Soon,,,,
 "$492,825","4th St Sw Apt S120, Washington, DC 20024",$2200/m Estimated Rental Value,,,,
 ,"15th St Nw Apt 610, Washington, DC 20009",*Rental Value Coming Soon,,,,
-"$766,994","Alaska Ave Nw, Washington, DC 20012",$3140/m Estimated Rental Value,3 bed,2.5 bath,"1,768 sqft.",Single-Family
+"$758,272","Alaska Ave Nw, Washington, DC 20012",$3140/m Estimated Rental Value,3 bed,2.5 bath,"1,768 sqft.",Single-Family
 ,"Livingston Rd Se Apt 202, Washington, DC 20032",*Rental Value Coming Soon,,,,
 ,"Southern Ave Se Apt 801, Washington, DC 20032",*Rental Value Coming Soon,,,,
 ,"Galloway St Ne # 549s, Washington, DC 20011",*Rental Value Coming Soon,,,,
@@ -562,7 +575,6 @@ Price,Address,Rent Estimate Per Month,Beds,Baths,SqFt,Home Type
 "$646,000","N Capitol St Ne, Washington, DC 20011",$2420/m Estimated Rental Value,3 bed,2 bath,"1,240 sqft.",Single-Family
 ,"23rd St Se Apt 252b, Washington, DC 20020",*Rental Value Coming Soon,,,,
 ,"Terrace Rd Se Apt B610, Washington, DC 20020",*Rental Value Coming Soon,,,,
-,"7th St Ne, Washington, DC 20002",*Rental Value Coming Soon,,,,
 ,"Maine Ave Sw, # E701, Washington, DC 20024",*Rental Value Coming Soon,,,,
 "$814,227","16th St Se, Washington, DC 20003",$2720/m Estimated Rental Value,3 bed,1 bath,960 sqft.,Single-Family
 "$1,212,241","Corcoran St Nw, Washington, DC 20009",$3130/m Estimated Rental Value,3 bed,1 bath,"1,708 sqft.",Single-Family
@@ -573,7 +585,7 @@ Price,Address,Rent Estimate Per Month,Beds,Baths,SqFt,Home Type
 "$746,907","Kansas Ave Nw, Washington, DC 20011",$2640/m Estimated Rental Value,3 bed,1.5 bath,"1,484 sqft.",Single-Family
 ,"E St Se # 321, Washington, DC 20003",*Rental Value Coming Soon,,,,
 "$610,981","Montana Ave Ne, Washington, DC 20018",$2680/m Estimated Rental Value,3 bed,1.5 bath,"1,375 sqft.",Single-Family
-"$544,500","9th St Nw, Washington, DC 20011",$2380/m Estimated Rental Value,4 bed,2.5 bath,"1,836 sqft.",Single-Family
+"$762,971","9th St Nw, Washington, DC 20011",$2380/m Estimated Rental Value,4 bed,2.5 bath,"1,836 sqft.",Single-Family
 ,"New York Ave Ne # 609, Washington, DC 20002",*Rental Value Coming Soon,,,,
 "$637,899","Sherman Ave Nw, Washington, DC 20001",$2620/m Estimated Rental Value,3 bed,2 bath,"1,080 sqft.",Single-Family
 "$290,880","4th St Ne Apt 106, Washington, DC 20002",$1570/m Estimated Rental Value,1 bed,1 bath,,Condo
@@ -586,20 +598,19 @@ Price,Address,Rent Estimate Per Month,Beds,Baths,SqFt,Home Type
 ,"Livingston Rd Se, Apt 13, Washington, DC 20032",*Rental Value Coming Soon,,,,
 ,"17th St Nw, Washington, DC 20036",*Rental Value Coming Soon,,2.5 bath,,Commercial
 "$732,432","P St Nw, Washington, DC 20001",$2510/m Estimated Rental Value,4 bed,1 bath,"1,416 sqft.",Single-Family
-"$987,017","Pennsylvania Ave Se, Washington, DC 20003",*Rental Value Coming Soon,,1.5 bath,,Commercial
 "$605,855","5th St Nw, Washington, DC 20011",$2270/m Estimated Rental Value,3 bed,1 bath,"1,054 sqft.",Single-Family
 "$948,000","R St Ne, Washington, DC 20002",$1980/m Estimated Rental Value,4 bed,2 bath,"1,836 sqft.",Multi-Family
 "$551,000","Emerson St Nw, Washington, DC 20011",$3370/m Estimated Rental Value,,,,
 "$378,000","R St Se, Washington, DC 20020",$1740/m Estimated Rental Value,,,,
+"$267,000","17th Pl Se, Washington, DC 20020",$1740/m Estimated Rental Value,4 bed,4 bath,"2,720 sqft.",Multi-Family
 "$489,000","17th Pl Se, Washington, DC 20020",$1740/m Estimated Rental Value,4 bed,4 bath,"2,720 sqft.",Multi-Family
 "$354,000","17th St Se, Washington, DC 20020",$1740/m Estimated Rental Value,,,,
-"$267,000","17th Pl Se, Washington, DC 20020",$1740/m Estimated Rental Value,4 bed,4 bath,"2,720 sqft.",Multi-Family
 "$296,000","28th St Se, Washington, DC 20020",$1780/m Estimated Rental Value,,,,Multi-Family
-"$408,000","Raum St Ne, Washington, DC 20002",$1740/m Estimated Rental Value,,,,
-"$380,000","9th St Se, Washington, DC 20032",$2220/m Estimated Rental Value,,,,
 "$543,000","3rd St Se, Washington, DC 20003",$5580/m Estimated Rental Value,,,,Multi-Family
+"$408,000","Raum St Ne, Washington, DC 20002",$1740/m Estimated Rental Value,,,,
 "$527,000","Peabody St Nw, Washington, DC 20011",$3260/m Estimated Rental Value,8 bed,4 bath,"3,180 sqft.",Multi-Family
 "$785,913","Hillside Rd Se, Washington, DC 20019",$1660/m Estimated Rental Value,,,,
+"$380,000","9th St Se, Washington, DC 20032",$2220/m Estimated Rental Value,,,,
 "$636,000","T St Nw, Washington, DC 20001",$2860/m Estimated Rental Value,4 bed,2 bath,"1,985 sqft.",Multi-Family
 "$264,238","New Hampshire Ave Nw A..., Washington, DC 20009",$1910/m Estimated Rental Value,,,,
 ,"New Jersey Ave Se # 1120, Washington, DC 20003",*Rental Value Coming Soon,,,,
@@ -618,9 +629,9 @@ Price,Address,Rent Estimate Per Month,Beds,Baths,SqFt,Home Type
 ,"Mississippi Ave Se # 207, Washington, DC 20032",*Rental Value Coming Soon,,,,
 ,"Kenyon St Nw Apt 401, Washington, DC 20010",*Rental Value Coming Soon,,,,
 "$349,491","Good Hope Rd Se, Washington, DC 20020",$1580/m Estimated Rental Value,3 bed,1 bath,"1,080 sqft.",Single-Family
-,"Connecticut Ave Nw Ste..., Washington, DC 20015",*Rental Value Coming Soon,,,,
 ,"17th St Nw Apt B1, Washington, DC 20036",*Rental Value Coming Soon,,,,
 ,"E St Se Apt 2, Washington, DC 20019",*Rental Value Coming Soon,,,,
+,"Connecticut Ave Nw Ste..., Washington, DC 20015",*Rental Value Coming Soon,,,,
 ,"Savannah St Se, Apt 4, Washington, DC 20020",*Rental Value Coming Soon,,,,
 "$887,440","S Dakota Ave Ne, Washington, DC 20018",$3770/m Estimated Rental Value,6 bed,2.5 bath,"3,280 sqft.",Single-Family
 ,"Chillum Pl Ne Apt G1, Washington, DC 20011",*Rental Value Coming Soon,,,,
@@ -631,15 +642,12 @@ Price,Address,Rent Estimate Per Month,Beds,Baths,SqFt,Home Type
 "$122,400","8th St Se 8, Washington, DC 20032",*Rental Value Coming Soon,2 bed,2 bath,,
 ,"Pennsylvania Ave Nw, Washington, DC 20006",*Rental Value Coming Soon,,,,
 ,"Pennsylvania Ave. Nw, Washington, DC 20006",*Rental Value Coming Soon,,,,
-"$527,947","4th St Ne Apt 2, Washington, DC 20002",$1920/m Estimated Rental Value,2 bed,2 bath,"1,061 sqft.",
 "$1,375,500","9th St Nw, Washington, DC 20012",$3140/m Estimated Rental Value,3 bed,3 bath,"1,518 sqft.",Single-Family
 "$347,391","L St Nw Apt 520, Washington, DC 20037",$1980/m Estimated Rental Value,1 bed,1 bath,505 sqft.,Condo
 "$283,000","27th St Se, Washington, DC 20020",$2180/m Estimated Rental Value,,,"5,238 sqft.",Commercial
 ,"N St Ne, Washington, DC 20002",*Rental Value Coming Soon,,,0 sqft.,
 ,"Pennsylvania Ave Nw, Washington, DC 20004",*Rental Value Coming Soon,,,0 sqft.,
 ,"New Jersey Ave Se, Washington, DC 20003",*Rental Value Coming Soon,,,0 sqft.,Condo
-"$287,001","Cathedral Ave Nw Apt 503w, Washington, DC 20016",$2060/m Estimated Rental Value,1 bed,1 bath,,Condo
-,"Summit Ct Ne, Washington, DC 20018",*Rental Value Coming Soon,2 bed,2 bath,,Condo
 "$1,375,500","9th St Nw, Washington, DC 20012",$3140/m Estimated Rental Value,3 bed,2 bath,"1,518 sqft.",Single-Family
 "$1,375,962","9th St Nw, Washington, DC 20012",$3140/m Estimated Rental Value,3 bed,2 bath,"1,518 sqft.",Single-Family
 ,"H St Nw, Washington, DC 20006",*Rental Value Coming Soon,,,,Commercial
@@ -657,6 +665,8 @@ Price,Address,Rent Estimate Per Month,Beds,Baths,SqFt,Home Type
 "$369,487","Howard Rd Se, Washington, DC 20020",$1520/m Estimated Rental Value,2 bed,1 bath,768 sqft.,Townhome
 "$693,020","D St Ne, Washington, DC 20002",$1750/m Estimated Rental Value,4 bed,3 bath,"1,156 sqft.",Townhome
 ,"New York Ave Nw, Washington, DC 20001",*Rental Value Coming Soon,,,0 sqft.,
+"$545,000","C St Ne, Washington, DC 20002",$2400/m Estimated Rental Value,3 bed,1 bath,"1,224 sqft.",Single-Family
+"$694,289","Half St Sw, Washington, DC 20024",$2560/m Estimated Rental Value,2 bed,2 bath,"1,280 sqft.",Single-Family
 "$258,152","Cathedral Ave Nw # 26, Washington, DC 20016",$1650/m Estimated Rental Value,1 bed,1 bath,,Condo
 ,"New York Ave Nw, Washington, DC 20001",*Rental Value Coming Soon,,,,
 "$693,020","D St Ne, Washington, DC 20002",$1750/m Estimated Rental Value,4 bed,2.5 bath,"1,156 sqft.",Single-Family
@@ -668,7 +678,6 @@ Price,Address,Rent Estimate Per Month,Beds,Baths,SqFt,Home Type
 "$693,020","D St Ne, Washington, DC 20002",$1750/m Estimated Rental Value,4 bed,2.5 bath,"1,156 sqft.",Single-Family
 ,"New York Ave Nw, Washington, DC 20001",*Rental Value Coming Soon,,,,
 ,"New York Ave Nw, Washington, DC 20001",*Rental Value Coming Soon,,,,
-"$364,228","P St Se, Washington, DC 20020",$1580/m Estimated Rental Value,2 bed,1 bath,"1,216 sqft.",Single-Family
 "$307,384","Eads St Ne, Washington, DC 20019",$1720/m Estimated Rental Value,3 bed,1.5 bath,787 sqft.,Single-Family
 "$179,585","Oakwood St Se Apt B5, Washington, DC 20032",$1230/m Estimated Rental Value,,,,Condo
 "$442,208","Blaine St Ne, Washington, DC 20019",$1420/m Estimated Rental Value,3 bed,1 bath,960 sqft.,Condo
@@ -678,18 +687,15 @@ Price,Address,Rent Estimate Per Month,Beds,Baths,SqFt,Home Type
 ,"New Jersey Ave Se Apt 107, Washington, DC 20003",*Rental Value Coming Soon,,,,
 "$179,585","Oakwood St Se Apt B5, Washington, DC 20032",$1230/m Estimated Rental Value,1 bed,1 bath,628 sqft.,
 "$442,208","Blaine St Ne, Washington, DC 20019",$1420/m Estimated Rental Value,3 bed,1.5 bath,960 sqft.,Single-Family
-,"14th St Nw, Washington, DC 20011",*Rental Value Coming Soon,,,0 sqft.,Condo
 "$780,865","Morse St Ne, Washington, DC 20002",$1880/m Estimated Rental Value,3 bed,2 bath,"1,836 sqft.",Townhome
-,"14th Street Nw, Washington, DC 20011",*Rental Value Coming Soon,,,,Condo
-,"14th St Nw, Washington, DC 20011",*Rental Value Coming Soon,1 bed,1 bath,,Condo
 "$665,000","Monroe St Nw, Washington, DC 20010",*Rental Value Coming Soon,2 bed,2 bath,,
-,"Fort Lincoln Dr Ne, Washington, DC 20018",*Rental Value Coming Soon,,,,
-"$1,183,992","Connecticut Ave Nw, Washington, DC 20008",$5220/m Estimated Rental Value,,,,Multi-Family
+"$593,528","16th St Nw Apt 305, Washington, DC 20009",$2610/m Estimated Rental Value,2 bed,1.5 bath,"1,158 sqft.",Condo
 "$395,760","New York Ave Nw Apt 304, Washington, DC 20001",$1880/m Estimated Rental Value,1 bed,1 bath,,Condo
+"$1,183,992","Connecticut Ave Nw, Washington, DC 20008",$5220/m Estimated Rental Value,,,,Multi-Family
 "$265,000","Cathedral Ave Nw #e506, Washington, DC 20016",*Rental Value Coming Soon,1 bed,1 bath,,
+,"Fort Lincoln Dr Ne, Washington, DC 20018",*Rental Value Coming Soon,,,,
 "$498,612","47th St Ne, Washington, DC 20019",$2040/m Estimated Rental Value,5 bed,2 bath,"2,363 sqft.",Single-Family
 ,"14th St Sw # 118, Washington, DC 20227",*Rental Value Coming Soon,,,,
-"$326,700","Cathedral Ave Nw Apt 404w, Washington, DC 20016",$1970/m Estimated Rental Value,1 bed,1 bath,803 sqft.,Condo
 ,"Georgia Ave Nw, Washington, DC 20010",*Rental Value Coming Soon,,,0 sqft.,
 ,"Georgia Ave Nw, Washington, DC 20010",*Rental Value Coming Soon,,,,
 "$1,574,900","19th St Nw, Washington, DC 20036",$4960/m Estimated Rental Value,8 bed,6 bath,"2,515 sqft.",Single-Family
@@ -697,6 +703,12 @@ Price,Address,Rent Estimate Per Month,Beds,Baths,SqFt,Home Type
 "$270,001","Cathedral Ave Nw # 23, Washington, DC 20016",$1670/m Estimated Rental Value,1 bed,1 bath,753 sqft.,Condo
 "$683,263","8th St Nw, Washington, DC 20011",$2440/m Estimated Rental Value,3 bed,3 bath,"1,054 sqft.",Single-Family
 "$1,007,781","28th St Nw, Washington, DC 20007",$3120/m Estimated Rental Value,2 bed,1 bath,844 sqft.,Townhome
+,"New Hampshire Ave Nw, Washington, DC 20036",*Rental Value Coming Soon,8 bed,3 bath,"3,412 sqft.",Townhome
+"$482,880","Savannah St Se, Washington, DC 20032",$1940/m Estimated Rental Value,4 bed,2 bath,"1,476 sqft.",Single-Family
+"$408,262","55th St Ne, Washington, DC 20019",$1790/m Estimated Rental Value,3 bed,1 bath,"1,476 sqft.",Single-Family
+"$642,000","Warner St Nw, Washington, DC 20001",$2910/m Estimated Rental Value,3 bed,2 bath,"1,279 sqft.",Multi-Family
+"$384,987","54th St Ne, Washington, DC 20019",$1790/m Estimated Rental Value,3 bed,1 bath,"1,476 sqft.",Single-Family
+"$550,588","57th St Ne, Washington, DC 20019",$1850/m Estimated Rental Value,6 bed,4.5 bath,0 sqft.,Single-Family
 "$554,385","Pope St Se, Washington, DC 20020",$2140/m Estimated Rental Value,3 bed,1 bath,"1,653 sqft.",Single-Family
 ,"Macarthur Blvd Nw, Washington, DC 20016",*Rental Value Coming Soon,,,,Commercial
 "$321,750","Jay St Ne, Washington, DC 20019",$1640/m Estimated Rental Value,4 bed,1 bath,948 sqft.,Single-Family
@@ -738,33 +750,32 @@ Price,Address,Rent Estimate Per Month,Beds,Baths,SqFt,Home Type
 "$1,138,500","Kenyon St Nw, Washington, DC 20010",$3360/m Estimated Rental Value,6 bed,3 bath,"3,456 sqft.",Single-Family
 ,"H St Ne # 849, Washington, DC 20002",*Rental Value Coming Soon,,,,
 "$309,771","49th St Ne, Washington, DC 20019",$1790/m Estimated Rental Value,3 bed,1 bath,"1,355 sqft.",Single-Family
-"$445,401","Barnaby St Se, Washington, DC 20032",$1400/m Estimated Rental Value,4 bed,2.5 bath,"2,092 sqft.",Single-Family
+"$82,080","Good Hope Rd Se Apt 207, Washington, DC 20020",$1450/m Estimated Rental Value,1 bed,1 bath,,Condo
 ,"7th St Ne, Washington, DC 20002",*Rental Value Coming Soon,,,,
-"$486,212","Anacostia Rd Se, Washington, DC 20019",$1850/m Estimated Rental Value,4 bed,2 bath,"1,008 sqft.",Single-Family
 ,"7th St Ne, Washington, DC 20002",*Rental Value Coming Soon,,,,
 ,"7th St Ne, Washington, DC 20002",*Rental Value Coming Soon,,,,
 "$987,017","Pennsylvania Ave Se, Washington, DC 20003",*Rental Value Coming Soon,,1.5 bath,,Commercial
 "$283,000","27th St Se, Washington, DC 20020",$2180/m Estimated Rental Value,,,,
 ,"Connecticut Ave Nw Ste..., Washington, DC 20015",*Rental Value Coming Soon,,,,
-"$202,288","Jasmine St, Casper, WY 82604",$1201/m Estimated Rental Value,3 bed,1 bath,"1,108 sqft.",Single-Family
+,"Overlook Way, Mills, WY 82604",*Rental Value Coming Soon,,,,
+"$236,675","Salt Creek Hwy, Casper, WY 82601",$1010/m Estimated Rental Value,,,,
 ,"N Conwell St, Casper, WY 82601",*Rental Value Coming Soon,,,,
-"$168,191","Frances St, Casper, WY 82601",$750/m Estimated Rental Value,3 bed,2 bath,"1,272 sqft.",Single-Family
 ,"Bishop Rd, Casper, WY 82604",*Rental Value Coming Soon,,,,
+"$202,288","Jasmine St, Casper, WY 82604",$1201/m Estimated Rental Value,3 bed,1 bath,"1,108 sqft.",Single-Family
+"$168,191","Frances St, Casper, WY 82601",$750/m Estimated Rental Value,3 bed,2 bath,"1,272 sqft.",Single-Family
 ,"Overlook Way, Mills, WY 82604",*Rental Value Coming Soon,,,,Single-Family
-"$189,525","S Boxelder St, Casper, WY 82604",$1251/m Estimated Rental Value,,2 bath,"1,008 sqft.",Mobile Home
 "$174,973","S Jackson St, Casper, WY 82601",$1010/m Estimated Rental Value,,2 bath,"2,633 sqft.",Single-Family
+"$189,525","S Boxelder St, Casper, WY 82604",$1251/m Estimated Rental Value,,2 bath,"1,008 sqft.",Mobile Home
 "$197,548","Sagewood Ave, Casper, WY 82601",$860/m Estimated Rental Value,2 bed,2 bath,"1,064 sqft.",Single-Family
 "$392,219","Kingsbury Dr, Casper, WY 82609",$1490/m Estimated Rental Value,4 bed,2 bath,"2,563 sqft.",Single-Family
 "$165,666","Fremont Ave, Casper, WY 82604",$1201/m Estimated Rental Value,,1 bath,904 sqft.,Single-Family
-"$181,000","N Lowell St, Casper, WY 82601",$1010/m Estimated Rental Value,3 bed,1 bath,"1,135 sqft.",Single-Family
 "$201,559","W Coffman Ave, Casper, WY 82604",$952/m Estimated Rental Value,,,,
 "$235,440","E 7th St, Casper, WY 82601",$1230/m Estimated Rental Value,,2 bath,"2,700 sqft.",Single-Family
-"$966,355","W Poison Spider Rd, Casper, WY 82604",$1820/m Estimated Rental Value,,,,
+"$936,547","W Poison Spider Rd, Casper, WY 82604",$1820/m Estimated Rental Value,,,,
 "$217,055","Cascade Ave, Casper, WY 82604",$1201/m Estimated Rental Value,3 bed,1 bath,"1,170 sqft.",Single-Family
 ,"Pershing St, Casper, WY 82601",*Rental Value Coming Soon,,,,Single-Family
 ,"Red Wolf Dr, Casper, WY 82604",*Rental Value Coming Soon,,,,
-"$179,920","N Lowell St, Casper, WY 82601",$1010/m Estimated Rental Value,3 bed,1 bath,"1,135 sqft.",Single-Family
-"$335,699","Mandan Trl, Bar Nunn, WY 82601",$1110/m Estimated Rental Value,4 bed,2.5 bath,"1,152 sqft.",Single-Family
+"$178,163","N Lowell St, Casper, WY 82601",$1010/m Estimated Rental Value,3 bed,1 bath,"1,135 sqft.",Single-Family
 "$360,635","Saker Ct, Casper, WY 82601",$1010/m Estimated Rental Value,,,,Townhome
 "$242,417","E 15th St, Casper, WY 82601",$890/m Estimated Rental Value,,,,
 "$276,501","E 22nd St, Casper, WY 82601",$1201/m Estimated Rental Value,,2 bath,"1,820 sqft.",Single-Family
@@ -778,37 +789,37 @@ Price,Address,Rent Estimate Per Month,Beds,Baths,SqFt,Home Type
 ,"1/2 S Jefferson St, Casper, WY 82601",*Rental Value Coming Soon,,,,
 "$372,960","Dartford Ct, Casper, WY 82609",$1251/m Estimated Rental Value,,2 bath,"1,178 sqft.",Single-Family
 "$248,097","E 19th St, Casper, WY 82601",$1100/m Estimated Rental Value,3 bed,2 bath,"1,825 sqft.",Single-Family
-"$254,148","Carriage Ln, Casper, WY 82609",$1001/m Estimated Rental Value,,1 bath,940 sqft.,Single-Family
+"$251,204","Carriage Ln, Casper, WY 82609",$1001/m Estimated Rental Value,,1 bath,940 sqft.,Single-Family
 "$247,001","Hyview Dr, Casper, WY 82604",$1020/m Estimated Rental Value,,2 bath,"2,360 sqft.",Single-Family
 "$283,767","Ivy Ln, Casper, WY 82609",$1261/m Estimated Rental Value,,2 bath,"2,550 sqft.",Single-Family
 "$186,725","Windsor Pl, Casper, WY 82604",$1201/m Estimated Rental Value,3 bed,1 bath,"1,008 sqft.",Single-Family
 ,"E 18th St Apt 115, Casper, WY 82609",*Rental Value Coming Soon,,,,
 "$187,403","E 16th St, Casper, WY 82601",$1010/m Estimated Rental Value,,,,
 ,"Zion Ln Apt 204, Casper, WY 82609",*Rental Value Coming Soon,,,,
-"$300,635","S Elk St, Casper, WY 82601",$1230/m Estimated Rental Value,,,,
+"$293,946","S Elk St, Casper, WY 82601",$1230/m Estimated Rental Value,,,,
 ,"Tranquility Way, Unit 204, Casper, WY 82601",*Rental Value Coming Soon,,,,
 ,"E H St, Casper, WY 82601",*Rental Value Coming Soon,,,,
 ,"W 25th St Apt C15, Casper, WY 82604",*Rental Value Coming Soon,,,,
 ,"Landmark Ln, Casper, WY 82604",*Rental Value Coming Soon,,,,
+"$270,960","Fairview Ave, Casper, WY 82609",$1251/m Estimated Rental Value,2 bed,2 bath,"1,292 sqft.",Single-Family
 "$315,556","W Odell Ave, Casper, WY 82604",$1080/m Estimated Rental Value,2 bed,2 bath,"2,126 sqft.",Single-Family
 "$292,502","E 12th St, Casper, WY 82609",$1151/m Estimated Rental Value,,3 bath,"2,100 sqft.",Single-Family
-"$216,358","S Cottonwood St, Casper, WY 82604",$850/m Estimated Rental Value,2 bed,1.5 bath,899 sqft.,Single-Family
 ,"Thelma Dr # 221, Casper, WY 82609",*Rental Value Coming Soon,,,,
 ,"Morado Dr # A108, Casper, WY 82609",*Rental Value Coming Soon,,,,
 "$338,523","Nottingham Dr, Casper, WY 82609",$1321/m Estimated Rental Value,,,,
 "$282,000","Beaumont Dr, Casper, WY 82601",$1171/m Estimated Rental Value,3 bed,2 bath,"1,974 sqft.",Single-Family
+,"E 2nd St # 8, Casper, WY 82609",*Rental Value Coming Soon,,,,
 ,"N Poplar St, Casper, WY 82601",*Rental Value Coming Soon,,,,
 "$298,283","Indian Paintbrush St, Casper, WY 82604",$1670/m Estimated Rental Value,,4 bath,"2,454 sqft.",Single-Family
 "$239,855","S 4th Ave, Mills, WY 82604",$1420/m Estimated Rental Value,,2 bath,"2,704 sqft.",Single-Family
 ,"Morado Dr Apt 206, Casper, WY 82609",*Rental Value Coming Soon,,,,
+"$181,000","N Lowell St, Casper, WY 82601",$1010/m Estimated Rental Value,3 bed,1 bath,"1,135 sqft.",Single-Family
+"$335,699","Mandan Trl, Bar Nunn, WY 82601",$1110/m Estimated Rental Value,4 bed,2.5 bath,"1,152 sqft.",Single-Family
 "$165,666","Fremont Ave, Casper, WY 82604",$1201/m Estimated Rental Value,,1 bath,904 sqft.,Single-Family
 "$165,666","Fremont Ave, Casper, WY 82604",$1201/m Estimated Rental Value,3 bed,1 bath,964 sqft.,Single-Family
-"$264,751","Meadowlark Dr, Casper, WY 82604",$1321/m Estimated Rental Value,,3 bath,"2,400 sqft.",Single-Family
-"$247,277","Ridgecrest Dr, Casper, WY 82604",$1201/m Estimated Rental Value,,3 bath,"1,716 sqft.",Single-Family
-"$247,277","Ridgecrest Dr, Casper, WY 82604",$1201/m Estimated Rental Value,3 bed,3 bath,"1,144 sqft.",Single-Family
 "$361,000","Dartford Ct, Casper, WY 82609",$1251/m Estimated Rental Value,3 bed,2 bath,"1,178 sqft.",Single-Family
 "$402,413","Ridgecrest Dr, Casper, WY 82604",$1460/m Estimated Rental Value,3 bed,2 bath,"2,152 sqft.",Single-Family
-"$270,960","Fairview Ave, Casper, WY 82609",$1251/m Estimated Rental Value,2 bed,2 bath,"1,292 sqft.",Single-Family
+"$216,358","S Cottonwood St, Casper, WY 82604",$850/m Estimated Rental Value,2 bed,1.5 bath,899 sqft.,Single-Family
 "$199,878","N Jackson St, Casper, WY 82601",$800/m Estimated Rental Value,,2 bath,"1,830 sqft.",Single-Family
 ,"E 2nd St # 8, Casper, WY 82609",*Rental Value Coming Soon,,,,
 ,"E 2nd St # 8, Casper, WY 82609",*Rental Value Coming Soon,,,,
@@ -819,6 +830,7 @@ Price,Address,Rent Estimate Per Month,Beds,Baths,SqFt,Home Type
 ,"E 2nd St # 8, Casper, WY 82609",*Rental Value Coming Soon,,,,
 ,"E 2nd St # 8, Casper, WY 82609",*Rental Value Coming Soon,,,,
 ,"E 2nd St # 8, Casper, WY 82609",*Rental Value Coming Soon,,,,
+,"Danny Pl, Cheyenne, WY 82007",*Rental Value Coming Soon,,,,
 "$713,005","Tumbleweed Dr, Cheyenne, WY 82009",$1980/m Estimated Rental Value,,,"2,759 sqft.",Single-Family
 "$326,597","E 8th St, Cheyenne, WY 82001",$1110/m Estimated Rental Value,,2 bath,"1,190 sqft.",Single-Family
 ,"E 10th St, Cheyenne, WY 82001",*Rental Value Coming Soon,,,,
@@ -827,21 +839,21 @@ Price,Address,Rent Estimate Per Month,Beds,Baths,SqFt,Home Type
 ,"N Ridge Dr, Cheyenne, WY 82009",*Rental Value Coming Soon,3 bed,2 bath,,Single-Family
 "$416,387","Kerry Ave, Cheyenne, WY 82009",$1420/m Estimated Rental Value,,,"1,598 sqft.",Single-Family
 ,"Cribbon Ave # B, Cheyenne, WY 82001",*Rental Value Coming Soon,,,"1,174 sqft.",Single-Family
-"$391,218","Bocage Dr, Cheyenne, WY 82009",$1440/m Estimated Rental Value,,,"1,075 sqft.",Single-Family
+"$372,622","Bocage Dr, Cheyenne, WY 82009",$1440/m Estimated Rental Value,,,"1,075 sqft.",Single-Family
 "$170,862","Atlantic Dr, Cheyenne, WY 82001",$890/m Estimated Rental Value,,,516 sqft.,Single-Family
 ,"Lonesome Ct, Cheyenne, WY 82007",*Rental Value Coming Soon,,,,
 "$354,903","Southwest Dr, Cheyenne, WY 82007",$1090/m Estimated Rental Value,,,"1,939 sqft.",Single-Family
 ,"Alice Ct, Cheyenne, WY 82007",*Rental Value Coming Soon,,,,
 "$429,723","E 13th St, Cheyenne, WY 82001",$1020/m Estimated Rental Value,,,,
 "$263,293","Gold Dust Rd, Cheyenne, WY 82007",$960/m Estimated Rental Value,,,"1,175 sqft.",Single-Family
-"$247,865","Monroe Ave, Cheyenne, WY 82001",$900/m Estimated Rental Value,,,"1,344 sqft.",Single-Family
+"$248,419","Monroe Ave, Cheyenne, WY 82001",$900/m Estimated Rental Value,,,"1,344 sqft.",Single-Family
 ,"Thomes Ave, Cheyenne, WY 82001",*Rental Value Coming Soon,,,,
 "$300,386","Sonata Ln, Cheyenne, WY 82007",$1090/m Estimated Rental Value,,,"1,235 sqft.",Single-Family
 "$355,829","W 31st St, Cheyenne, WY 82001",$1110/m Estimated Rental Value,,,,
 "$347,866","Blues Dr, Cheyenne, WY 82007",$1090/m Estimated Rental Value,,,"1,536 sqft.",Single-Family
 "$244,949","E 18th St, Cheyenne, WY 82001",$950/m Estimated Rental Value,,,748 sqft.,Single-Family
 ,"Rainbow Rd Apt 102, Cheyenne, WY 82001",*Rental Value Coming Soon,,,,
-"$332,073","Mcgovern Ave, Cheyenne, WY 82001",$1072/m Estimated Rental Value,,,"1,224 sqft.",Single-Family
+"$332,641","Mcgovern Ave, Cheyenne, WY 82001",$1072/m Estimated Rental Value,,,"1,224 sqft.",Single-Family
 ,"E 18th St, Cheyenne, WY 82001",*Rental Value Coming Soon,,,,
 "$154,508","Fawn Pass, Cheyenne, WY 82009",$710/m Estimated Rental Value,,,,Condo
 "$404,205","Centennial Dr, Cheyenne, WY 82001",$1110/m Estimated Rental Value,,,"1,360 sqft.",Single-Family
@@ -855,6 +867,7 @@ Price,Address,Rent Estimate Per Month,Beds,Baths,SqFt,Home Type
 "$288,350","Henderson Dr, Cheyenne, WY 82001",$900/m Estimated Rental Value,,,923 sqft.,Single-Family
 ,"E 17th St Apt A, Cheyenne, WY 82001",*Rental Value Coming Soon,,,,
 "$241,577","E 14th St, Cheyenne, WY 82001",$930/m Estimated Rental Value,,,"1,040 sqft.",Single-Family
+"$342,430","E 13th St, Cheyenne, WY 82001",$1131/m Estimated Rental Value,3 bed,2 bath,"1,264 sqft.",Single-Family
 ,"Brookfield Ct Apt 8, Cheyenne, WY 82009",*Rental Value Coming Soon,,,,
 "$276,381","Frontier St, Cheyenne, WY 82001",$952/m Estimated Rental Value,,,950 sqft.,Single-Family
 "$946,107","W 27th St, Cheyenne, WY 82001",$1390/m Estimated Rental Value,,,"4,450 sqft.",Single-Family
@@ -874,10 +887,10 @@ Price,Address,Rent Estimate Per Month,Beds,Baths,SqFt,Home Type
 ,"Fleischli Pkwy, Cheyenne, WY 82001",*Rental Value Coming Soon,,,"40,412 sqft.",Commercial
 "$294,500","Oxford Dr, Cheyenne, WY 82001",$730/m Estimated Rental Value,,,"1,742 sqft.",Multi-Family
 "$232,110","Boysen Ave, Cheyenne, WY 82001",$970/m Estimated Rental Value,,,912 sqft.,Single-Family
-"$371,356","Melody Ln, Cheyenne, WY 82007",$1090/m Estimated Rental Value,,,"1,500 sqft.",Single-Family
+"$353,886","Melody Ln, Cheyenne, WY 82007",$1090/m Estimated Rental Value,,,"1,500 sqft.",Single-Family
 "$280,445","W 3rd St, Cheyenne, WY 82007",$760/m Estimated Rental Value,,,,
-"$364,185","Hamilton Ave, Cheyenne, WY 82009",$1390/m Estimated Rental Value,,,"1,457 sqft.",Single-Family
-"$282,553","Baldwin Dr, Cheyenne, WY 82001",$970/m Estimated Rental Value,,,792 sqft.,Single-Family
+"$323,867","Hamilton Ave, Cheyenne, WY 82009",$1390/m Estimated Rental Value,,,"1,457 sqft.",Single-Family
+"$272,464","Baldwin Dr, Cheyenne, WY 82001",$970/m Estimated Rental Value,,,792 sqft.,Single-Family
 "$518,865","W 32nd St, Cheyenne, WY 82001",$1080/m Estimated Rental Value,,,"1,663 sqft.",Single-Family
 "$529,412","Campstool Rd, Cheyenne, WY 82007",$1420/m Estimated Rental Value,,,,Single-Family
 "$261,805","Diamond Ave, Cheyenne, WY 82001",$991/m Estimated Rental Value,,,,
@@ -895,14 +908,13 @@ Price,Address,Rent Estimate Per Month,Beds,Baths,SqFt,Home Type
 ,"W Lincolnway, Cheyenne, WY 82001",*Rental Value Coming Soon,,,"48,197 sqft.",Commercial
 "$784,080","W 7th Ave, Cheyenne, WY 82001",$1640/m Estimated Rental Value,,,"2,453 sqft.",Single-Family
 "$319,179","Melton St, Cheyenne, WY 82009",$1388/m Estimated Rental Value,,2 bath,"1,275 sqft.",Single-Family
-"$385,769","E 13th St, Cheyenne, WY 82001",$1131/m Estimated Rental Value,3 bed,2 bath,"1,264 sqft.",Single-Family
 "$311,677","W Leisher Rd, Cheyenne, WY 82007",$1082/m Estimated Rental Value,,,"1,352 sqft.",Single-Family
 "$268,388","War Admiral Rd, Cheyenne, WY 82009",$1220/m Estimated Rental Value,,,"1,483 sqft.",Single-Family
 "$224,500","Klipstein Rd, Cheyenne, WY 82009",$1121/m Estimated Rental Value,2 bed,1 bath,"1,588 sqft.",Single-Family
 "$220,697","Nogales Way, Gillette, WY 82716",$1121/m Estimated Rental Value,5 bed,2 bath,"1,008 sqft.",Single-Family
 ,"N Us Highway 14-16, Gillette, WY 82716",*Rental Value Coming Soon,,,,
 "$308,000","S 4j Rd, Gillette, WY 82716",*Rental Value Coming Soon,3 bed,2 bath,,
-"$251,471","Knickerbocker St, Gillette, WY 82718",$1121/m Estimated Rental Value,3 bed,2 bath,"1,632 sqft.",Single-Family
+"$252,616","Knickerbocker St, Gillette, WY 82718",$1121/m Estimated Rental Value,3 bed,2 bath,"1,632 sqft.",Single-Family
 "$264,895","Garden Cir, Gillette, WY 82716",$1321/m Estimated Rental Value,4 bed,3 bath,"1,454 sqft.",Single-Family
 "$241,251","Peak St, Gillette, WY 82716",$1211/m Estimated Rental Value,3 bed,2 bath,"2,016 sqft.",Single-Family
 "$207,265","Goldenrod Ave, Gillette, WY 82716",$1160/m Estimated Rental Value,,,,Single-Family
@@ -912,7 +924,7 @@ Price,Address,Rent Estimate Per Month,Beds,Baths,SqFt,Home Type
 ,"Nogales Ln, Gillette, WY 82716",*Rental Value Coming Soon,,,,
 ,"Camel Dr, Ste Gg # 238, Gillette, WY 82716",*Rental Value Coming Soon,,,,
 ,"Prairieview Dr Apt C, Gillette, WY 82716",*Rental Value Coming Soon,,,,
-"$127,638","Kimber Ct, Gillette, WY 82718",$1500/m Estimated Rental Value,,,,
+"$385,846","Kimber Ct, Gillette, WY 82718",$1500/m Estimated Rental Value,,,,
 "$80,081","Tarry St, Gillette, WY 82718",$1121/m Estimated Rental Value,4 bed,2 bath,"1,680 sqft.",Single-Family
 "$139,923","Warren Ave, Gillette, WY 82716",$991/m Estimated Rental Value,3 bed,2 bath,796 sqft.,Single-Family
 "$99,900","Goldenrod Ave, Gillette, WY 82716",$1092/m Estimated Rental Value,3 bed,2 bath,"1,298 sqft.",Single-Family
@@ -934,18 +946,16 @@ Price,Address,Rent Estimate Per Month,Beds,Baths,SqFt,Home Type
 "$235,531","Daylight Ct, Gillette, WY 82718",$1100/m Estimated Rental Value,3 bed,2 bath,"1,904 sqft.",Single-Family
 ,"Express Dr Apt 431, Gillette, WY 82718",*Rental Value Coming Soon,,,,
 "$299,338","Cherry Ln, Gillette, WY 82716",$1321/m Estimated Rental Value,4 bed,2 bath,"1,608 sqft.",Single-Family
+"$213,705","Ash Meadows Dr, Gillette, WY 82716",$1121/m Estimated Rental Value,3 bed,2 bath,"1,512 sqft.",Single-Family
+"$207,930","Longhorn Ave, Gillette, WY 82718",$1121/m Estimated Rental Value,3 bed,3 bath,"1,385 sqft.",Mobile Home
+"$213,705","Ash Meadows Dr, Gillette, WY 82716",$1121/m Estimated Rental Value,3 bed,2 bath,"1,512 sqft.",Single-Family
+"$207,930","Longhorn Ave, Gillette, WY 82718",$1121/m Estimated Rental Value,3 bed,2 bath,"1,385 sqft.",Single-Family
 "$207,930","Longhorn Ave, Gillette, WY 82718",$1121/m Estimated Rental Value,3 bed,3 bath,"1,385 sqft.",Single-Family
-"$87,358","Grandview Cir, Gillette, WY 82716",$1201/m Estimated Rental Value,4 bed,2 bath,"1,292 sqft.",Single-Family
 "$167,559","E 8th St, Gillette, WY 82716",$890/m Estimated Rental Value,2 bed,2 bath,"1,480 sqft.",Multi-Family
-"$75,407","Lime Creek Ave, Gillette, WY 82716",$1121/m Estimated Rental Value,3 bed,2 bath,"1,728 sqft.",Mobile Home
 "$167,559","E 8th St, Gillette, WY 82716",$890/m Estimated Rental Value,2 bed,2 bath,"1,480 sqft.",Single-Family
-"$87,358","Grandview Cir, Gillette, WY 82716",$1201/m Estimated Rental Value,4 bed,2 bath,"1,292 sqft.",Single-Family
-"$75,407","Lime Creek Ave, Gillette, WY 82716",$1121/m Estimated Rental Value,3 bed,2 bath,"1,728 sqft.",Single-Family
-"$87,358","Grandview Cir, Gillette, WY 82716",$1201/m Estimated Rental Value,4 bed,2 bath,"1,270 sqft.",Single-Family
 "$199,900","Georgia Cir, Gillette, WY 82718",*Rental Value Coming Soon,3 bed,1 bath,960 sqft.,Single-Family
 "$202,059","Ventura Ave, Gillette, WY 82716",$1072/m Estimated Rental Value,3 bed,2 bath,"1,168 sqft.",Single-Family
 "$267,932","Sequoia Dr, Gillette, WY 82718",$1171/m Estimated Rental Value,5 bed,2 bath,"1,104 sqft.",Single-Family
-"$119,118","Nevada St, Gillette, WY 82716",$991/m Estimated Rental Value,3 bed,2 bath,"1,216 sqft.",Single-Family
 ,"N Mccue St Lot 320b, Laramie, WY 82072",*Rental Value Coming Soon,,,,
 ,"Evans St, Laramie, WY 82070",*Rental Value Coming Soon,,,,
 ,"Downey St # B, Laramie, WY 82072",*Rental Value Coming Soon,5 bed,2 bath,"2,464 sqft.",Single-Family
@@ -1019,9 +1029,10 @@ Price,Address,Rent Estimate Per Month,Beds,Baths,SqFt,Home Type
 ,"Dutton Creek Rd, Laramie, WY 82070",*Rental Value Coming Soon,,,,Single-Family
 "$158,769","N Pine St, Laramie, WY 82072",$860/m Estimated Rental Value,2 bed,1 bath,"1,082 sqft.",Single-Family
 "$172,805","N 13th St, Laramie, WY 82072",$700/m Estimated Rental Value,2 bed,1 bath,686 sqft.,Single-Family
+,"Reagan Ave Apt 202, Rock Springs, WY 82901",*Rental Value Coming Soon,,,,
 "$217,364","Sherman St, Rock Springs, WY 82901",$1072/m Estimated Rental Value,2 bed,1 bath,"1,782 sqft.",Single-Family
 ,"Swanson Dr Lot 140, Rock Springs, WY 82901",*Rental Value Coming Soon,,,,
-"$225,625","Pine St, Rock Springs, WY 82901",$1520/m Estimated Rental Value,4 bed,2 bath,"2,156 sqft.",Single-Family
+"$233,700","Pine St, Rock Springs, WY 82901",$1520/m Estimated Rental Value,4 bed,2 bath,"2,156 sqft.",Single-Family
 "$447,658","Mesa Dr, Rock Springs, WY 82901",$1408/m Estimated Rental Value,3 bed,2 bath,"1,944 sqft.",Single-Family
 ,"Purple Sage Rd Lot 128, Rock Springs, WY 82901",*Rental Value Coming Soon,,,,
 "$210,600","Koven Dr, Rock Springs, WY 82901",$1102/m Estimated Rental Value,3 bed,3 bath,"1,520 sqft.",Single-Family
@@ -1031,7 +1042,7 @@ Price,Address,Rent Estimate Per Month,Beds,Baths,SqFt,Home Type
 ,"Century Blvd Apt 302, Rock Springs, WY 82901",*Rental Value Coming Soon,,,,
 ,"W 2nd St Lot 1, Rock Springs, WY 82901",*Rental Value Coming Soon,,,,
 ,"Elk St Lot 230, Rock Springs, WY 82901",*Rental Value Coming Soon,,,,
-"$189,363","Reagan Ave, Rock Springs, WY 82901",$1102/m Estimated Rental Value,,,,
+"$195,130","Reagan Ave, Rock Springs, WY 82901",$1102/m Estimated Rental Value,,,,
 ,"Dewar Dr Apt 303, Rock Springs, WY 82901",*Rental Value Coming Soon,,,,
 ,"Swanson Dr Lot 83, Rock Springs, WY 82901",*Rental Value Coming Soon,,,,
 ,"Purple Sage Rd Lot 27, Rock Springs, WY 82901",*Rental Value Coming Soon,,,,
@@ -1040,6 +1051,7 @@ Price,Address,Rent Estimate Per Month,Beds,Baths,SqFt,Home Type
 ,"Purple Sage Rd Lot 30, Rock Springs, WY 82901",*Rental Value Coming Soon,,,,
 "$170,474","C St, Rock Springs, WY 82901",$1072/m Estimated Rental Value,,,,
 "$136,854","Clearview Dr, Rock Springs, WY 82901",$1102/m Estimated Rental Value,3 bed,2 bath,"1,688 sqft.",Single-Family
+"$376,323","Washakie Dr, Rock Springs, WY 82901",$1408/m Estimated Rental Value,3 bed,3 bath,"2,724 sqft.",Single-Family
 "$67,853","Clark St, Rock Springs, WY 82901",$1102/m Estimated Rental Value,3 bed,1 bath,"1,428 sqft.",Single-Family
 "$109,480","M St, Rock Springs, WY 82901",$1102/m Estimated Rental Value,3 bed,2 bath,"1,003 sqft.",Single-Family
 ,"N Center St, Rock Springs, WY 82901",*Rental Value Coming Soon,,,"3,997 sqft.",Commercial
@@ -1186,7 +1198,7 @@ Price,Address,Rent Estimate Per Month,Beds,Baths,SqFt,Home Type
 "$139,400","Lee St, Rock Springs, WY 82901",$1201/m Estimated Rental Value,3 bed,2 bath,"1,440 sqft.",Single-Family
 "$110,840","Pilot Butte Ave, Rock Springs, WY 82901",$860/m Estimated Rental Value,2 bed,1 bath,"1,156 sqft.",Single-Family
 ,"Purple Sage Rd Lot 150, Rock Springs, WY 82901",*Rental Value Coming Soon,,,,
-"$393,680","Circle Dr, Afton, WY 83110",$1072/m Estimated Rental Value,4 bed,2 bath,"1,248 sqft.",Single-Family
+"$376,731","Circle Dr, Afton, WY 83110",$1072/m Estimated Rental Value,4 bed,2 bath,"1,248 sqft.",Single-Family
 ,"N 120 E, Afton, WY 83110",*Rental Value Coming Soon,,,,Mobile Home
 ,"W 1st Ave, Afton, WY 83110",*Rental Value Coming Soon,,,,Single-Family
 "$163,795","Hialeah Rd, Afton, WY 83110",$1072/m Estimated Rental Value,,,,Single-Family
@@ -1346,25 +1358,25 @@ Price,Address,Rent Estimate Per Month,Beds,Baths,SqFt,Home Type
 ,"Meadow Lark Ln, Boulder, WY 82923",*Rental Value Coming Soon,,,,Single-Family
 ,"S Sioux Trl, Boulder, WY 82923",*Rental Value Coming Soon,,,,Single-Family
 ,"Dale Rd, Boulder, WY 82923",*Rental Value Coming Soon,,,,Mobile Home
-"$202,288","Jasmine St, Casper, WY 82604",$1201/m Estimated Rental Value,3 bed,1 bath,"1,108 sqft.",Single-Family
+,"Overlook Way, Mills, WY 82604",*Rental Value Coming Soon,,,,
+"$236,675","Salt Creek Hwy, Casper, WY 82601",$1010/m Estimated Rental Value,,,,
 ,"N Conwell St, Casper, WY 82601",*Rental Value Coming Soon,,,,
-"$168,191","Frances St, Casper, WY 82601",$750/m Estimated Rental Value,3 bed,2 bath,"1,272 sqft.",Single-Family
 ,"Bishop Rd, Casper, WY 82604",*Rental Value Coming Soon,,,,
+"$202,288","Jasmine St, Casper, WY 82604",$1201/m Estimated Rental Value,3 bed,1 bath,"1,108 sqft.",Single-Family
+"$168,191","Frances St, Casper, WY 82601",$750/m Estimated Rental Value,3 bed,2 bath,"1,272 sqft.",Single-Family
 ,"Overlook Way, Mills, WY 82604",*Rental Value Coming Soon,,,,Single-Family
-"$189,525","S Boxelder St, Casper, WY 82604",$1251/m Estimated Rental Value,,2 bath,"1,008 sqft.",Mobile Home
 "$174,973","S Jackson St, Casper, WY 82601",$1010/m Estimated Rental Value,,2 bath,"2,633 sqft.",Single-Family
+"$189,525","S Boxelder St, Casper, WY 82604",$1251/m Estimated Rental Value,,2 bath,"1,008 sqft.",Mobile Home
 "$197,548","Sagewood Ave, Casper, WY 82601",$860/m Estimated Rental Value,2 bed,2 bath,"1,064 sqft.",Single-Family
 "$392,219","Kingsbury Dr, Casper, WY 82609",$1490/m Estimated Rental Value,4 bed,2 bath,"2,563 sqft.",Single-Family
 "$165,666","Fremont Ave, Casper, WY 82604",$1201/m Estimated Rental Value,,1 bath,904 sqft.,Single-Family
-"$181,000","N Lowell St, Casper, WY 82601",$1010/m Estimated Rental Value,3 bed,1 bath,"1,135 sqft.",Single-Family
 "$201,559","W Coffman Ave, Casper, WY 82604",$952/m Estimated Rental Value,,,,
 "$235,440","E 7th St, Casper, WY 82601",$1230/m Estimated Rental Value,,2 bath,"2,700 sqft.",Single-Family
-"$966,355","W Poison Spider Rd, Casper, WY 82604",$1820/m Estimated Rental Value,,,,
+"$936,547","W Poison Spider Rd, Casper, WY 82604",$1820/m Estimated Rental Value,,,,
 "$217,055","Cascade Ave, Casper, WY 82604",$1201/m Estimated Rental Value,3 bed,1 bath,"1,170 sqft.",Single-Family
 ,"Pershing St, Casper, WY 82601",*Rental Value Coming Soon,,,,Single-Family
 ,"Red Wolf Dr, Casper, WY 82604",*Rental Value Coming Soon,,,,
-"$179,920","N Lowell St, Casper, WY 82601",$1010/m Estimated Rental Value,3 bed,1 bath,"1,135 sqft.",Single-Family
-"$335,699","Mandan Trl, Bar Nunn, WY 82601",$1110/m Estimated Rental Value,4 bed,2.5 bath,"1,152 sqft.",Single-Family
+"$178,163","N Lowell St, Casper, WY 82601",$1010/m Estimated Rental Value,3 bed,1 bath,"1,135 sqft.",Single-Family
 "$360,635","Saker Ct, Casper, WY 82601",$1010/m Estimated Rental Value,,,,Townhome
 "$242,417","E 15th St, Casper, WY 82601",$890/m Estimated Rental Value,,,,
 "$276,501","E 22nd St, Casper, WY 82601",$1201/m Estimated Rental Value,,2 bath,"1,820 sqft.",Single-Family
@@ -1378,37 +1390,37 @@ Price,Address,Rent Estimate Per Month,Beds,Baths,SqFt,Home Type
 ,"1/2 S Jefferson St, Casper, WY 82601",*Rental Value Coming Soon,,,,
 "$372,960","Dartford Ct, Casper, WY 82609",$1251/m Estimated Rental Value,,2 bath,"1,178 sqft.",Single-Family
 "$248,097","E 19th St, Casper, WY 82601",$1100/m Estimated Rental Value,3 bed,2 bath,"1,825 sqft.",Single-Family
-"$254,148","Carriage Ln, Casper, WY 82609",$1001/m Estimated Rental Value,,1 bath,940 sqft.,Single-Family
+"$251,204","Carriage Ln, Casper, WY 82609",$1001/m Estimated Rental Value,,1 bath,940 sqft.,Single-Family
 "$247,001","Hyview Dr, Casper, WY 82604",$1020/m Estimated Rental Value,,2 bath,"2,360 sqft.",Single-Family
 "$283,767","Ivy Ln, Casper, WY 82609",$1261/m Estimated Rental Value,,2 bath,"2,550 sqft.",Single-Family
 "$186,725","Windsor Pl, Casper, WY 82604",$1201/m Estimated Rental Value,3 bed,1 bath,"1,008 sqft.",Single-Family
 ,"E 18th St Apt 115, Casper, WY 82609",*Rental Value Coming Soon,,,,
 "$187,403","E 16th St, Casper, WY 82601",$1010/m Estimated Rental Value,,,,
 ,"Zion Ln Apt 204, Casper, WY 82609",*Rental Value Coming Soon,,,,
-"$300,635","S Elk St, Casper, WY 82601",$1230/m Estimated Rental Value,,,,
+"$293,946","S Elk St, Casper, WY 82601",$1230/m Estimated Rental Value,,,,
 ,"Tranquility Way, Unit 204, Casper, WY 82601",*Rental Value Coming Soon,,,,
 ,"E H St, Casper, WY 82601",*Rental Value Coming Soon,,,,
 ,"W 25th St Apt C15, Casper, WY 82604",*Rental Value Coming Soon,,,,
 ,"Landmark Ln, Casper, WY 82604",*Rental Value Coming Soon,,,,
+"$270,960","Fairview Ave, Casper, WY 82609",$1251/m Estimated Rental Value,2 bed,2 bath,"1,292 sqft.",Single-Family
 "$315,556","W Odell Ave, Casper, WY 82604",$1080/m Estimated Rental Value,2 bed,2 bath,"2,126 sqft.",Single-Family
 "$292,502","E 12th St, Casper, WY 82609",$1151/m Estimated Rental Value,,3 bath,"2,100 sqft.",Single-Family
-"$216,358","S Cottonwood St, Casper, WY 82604",$850/m Estimated Rental Value,2 bed,1.5 bath,899 sqft.,Single-Family
 ,"Thelma Dr # 221, Casper, WY 82609",*Rental Value Coming Soon,,,,
 ,"Morado Dr # A108, Casper, WY 82609",*Rental Value Coming Soon,,,,
 "$338,523","Nottingham Dr, Casper, WY 82609",$1321/m Estimated Rental Value,,,,
 "$282,000","Beaumont Dr, Casper, WY 82601",$1171/m Estimated Rental Value,3 bed,2 bath,"1,974 sqft.",Single-Family
+,"E 2nd St # 8, Casper, WY 82609",*Rental Value Coming Soon,,,,
 ,"N Poplar St, Casper, WY 82601",*Rental Value Coming Soon,,,,
 "$298,283","Indian Paintbrush St, Casper, WY 82604",$1670/m Estimated Rental Value,,4 bath,"2,454 sqft.",Single-Family
 "$239,855","S 4th Ave, Mills, WY 82604",$1420/m Estimated Rental Value,,2 bath,"2,704 sqft.",Single-Family
 ,"Morado Dr Apt 206, Casper, WY 82609",*Rental Value Coming Soon,,,,
+"$181,000","N Lowell St, Casper, WY 82601",$1010/m Estimated Rental Value,3 bed,1 bath,"1,135 sqft.",Single-Family
+"$335,699","Mandan Trl, Bar Nunn, WY 82601",$1110/m Estimated Rental Value,4 bed,2.5 bath,"1,152 sqft.",Single-Family
 "$165,666","Fremont Ave, Casper, WY 82604",$1201/m Estimated Rental Value,,1 bath,904 sqft.,Single-Family
 "$165,666","Fremont Ave, Casper, WY 82604",$1201/m Estimated Rental Value,3 bed,1 bath,964 sqft.,Single-Family
-"$264,751","Meadowlark Dr, Casper, WY 82604",$1321/m Estimated Rental Value,,3 bath,"2,400 sqft.",Single-Family
-"$247,277","Ridgecrest Dr, Casper, WY 82604",$1201/m Estimated Rental Value,,3 bath,"1,716 sqft.",Single-Family
-"$247,277","Ridgecrest Dr, Casper, WY 82604",$1201/m Estimated Rental Value,3 bed,3 bath,"1,144 sqft.",Single-Family
 "$361,000","Dartford Ct, Casper, WY 82609",$1251/m Estimated Rental Value,3 bed,2 bath,"1,178 sqft.",Single-Family
 "$402,413","Ridgecrest Dr, Casper, WY 82604",$1460/m Estimated Rental Value,3 bed,2 bath,"2,152 sqft.",Single-Family
-"$270,960","Fairview Ave, Casper, WY 82609",$1251/m Estimated Rental Value,2 bed,2 bath,"1,292 sqft.",Single-Family
+"$216,358","S Cottonwood St, Casper, WY 82604",$850/m Estimated Rental Value,2 bed,1.5 bath,899 sqft.,Single-Family
 "$199,878","N Jackson St, Casper, WY 82601",$800/m Estimated Rental Value,,2 bath,"1,830 sqft.",Single-Family
 ,"E 2nd St # 8, Casper, WY 82609",*Rental Value Coming Soon,,,,
 ,"E 2nd St # 8, Casper, WY 82609",*Rental Value Coming Soon,,,,
@@ -1419,6 +1431,7 @@ Price,Address,Rent Estimate Per Month,Beds,Baths,SqFt,Home Type
 ,"E 2nd St # 8, Casper, WY 82609",*Rental Value Coming Soon,,,,
 ,"E 2nd St # 8, Casper, WY 82609",*Rental Value Coming Soon,,,,
 ,"E 2nd St # 8, Casper, WY 82609",*Rental Value Coming Soon,,,,
+,"Danny Pl, Cheyenne, WY 82007",*Rental Value Coming Soon,,,,
 "$713,005","Tumbleweed Dr, Cheyenne, WY 82009",$1980/m Estimated Rental Value,,,"2,759 sqft.",Single-Family
 "$326,597","E 8th St, Cheyenne, WY 82001",$1110/m Estimated Rental Value,,2 bath,"1,190 sqft.",Single-Family
 ,"E 10th St, Cheyenne, WY 82001",*Rental Value Coming Soon,,,,
@@ -1427,21 +1440,21 @@ Price,Address,Rent Estimate Per Month,Beds,Baths,SqFt,Home Type
 ,"N Ridge Dr, Cheyenne, WY 82009",*Rental Value Coming Soon,3 bed,2 bath,,Single-Family
 "$416,387","Kerry Ave, Cheyenne, WY 82009",$1420/m Estimated Rental Value,,,"1,598 sqft.",Single-Family
 ,"Cribbon Ave # B, Cheyenne, WY 82001",*Rental Value Coming Soon,,,"1,174 sqft.",Single-Family
-"$391,218","Bocage Dr, Cheyenne, WY 82009",$1440/m Estimated Rental Value,,,"1,075 sqft.",Single-Family
+"$372,622","Bocage Dr, Cheyenne, WY 82009",$1440/m Estimated Rental Value,,,"1,075 sqft.",Single-Family
 "$170,862","Atlantic Dr, Cheyenne, WY 82001",$890/m Estimated Rental Value,,,516 sqft.,Single-Family
 ,"Lonesome Ct, Cheyenne, WY 82007",*Rental Value Coming Soon,,,,
 "$354,903","Southwest Dr, Cheyenne, WY 82007",$1090/m Estimated Rental Value,,,"1,939 sqft.",Single-Family
 ,"Alice Ct, Cheyenne, WY 82007",*Rental Value Coming Soon,,,,
 "$429,723","E 13th St, Cheyenne, WY 82001",$1020/m Estimated Rental Value,,,,
 "$263,293","Gold Dust Rd, Cheyenne, WY 82007",$960/m Estimated Rental Value,,,"1,175 sqft.",Single-Family
-"$247,865","Monroe Ave, Cheyenne, WY 82001",$900/m Estimated Rental Value,,,"1,344 sqft.",Single-Family
+"$248,419","Monroe Ave, Cheyenne, WY 82001",$900/m Estimated Rental Value,,,"1,344 sqft.",Single-Family
 ,"Thomes Ave, Cheyenne, WY 82001",*Rental Value Coming Soon,,,,
 "$300,386","Sonata Ln, Cheyenne, WY 82007",$1090/m Estimated Rental Value,,,"1,235 sqft.",Single-Family
 "$355,829","W 31st St, Cheyenne, WY 82001",$1110/m Estimated Rental Value,,,,
 "$347,866","Blues Dr, Cheyenne, WY 82007",$1090/m Estimated Rental Value,,,"1,536 sqft.",Single-Family
 "$244,949","E 18th St, Cheyenne, WY 82001",$950/m Estimated Rental Value,,,748 sqft.,Single-Family
 ,"Rainbow Rd Apt 102, Cheyenne, WY 82001",*Rental Value Coming Soon,,,,
-"$332,073","Mcgovern Ave, Cheyenne, WY 82001",$1072/m Estimated Rental Value,,,"1,224 sqft.",Single-Family
+"$332,641","Mcgovern Ave, Cheyenne, WY 82001",$1072/m Estimated Rental Value,,,"1,224 sqft.",Single-Family
 ,"E 18th St, Cheyenne, WY 82001",*Rental Value Coming Soon,,,,
 "$154,508","Fawn Pass, Cheyenne, WY 82009",$710/m Estimated Rental Value,,,,Condo
 "$404,205","Centennial Dr, Cheyenne, WY 82001",$1110/m Estimated Rental Value,,,"1,360 sqft.",Single-Family
@@ -1455,6 +1468,7 @@ Price,Address,Rent Estimate Per Month,Beds,Baths,SqFt,Home Type
 "$288,350","Henderson Dr, Cheyenne, WY 82001",$900/m Estimated Rental Value,,,923 sqft.,Single-Family
 ,"E 17th St Apt A, Cheyenne, WY 82001",*Rental Value Coming Soon,,,,
 "$241,577","E 14th St, Cheyenne, WY 82001",$930/m Estimated Rental Value,,,"1,040 sqft.",Single-Family
+"$342,430","E 13th St, Cheyenne, WY 82001",$1131/m Estimated Rental Value,3 bed,2 bath,"1,264 sqft.",Single-Family
 ,"Brookfield Ct Apt 8, Cheyenne, WY 82009",*Rental Value Coming Soon,,,,
 "$276,381","Frontier St, Cheyenne, WY 82001",$952/m Estimated Rental Value,,,950 sqft.,Single-Family
 "$946,107","W 27th St, Cheyenne, WY 82001",$1390/m Estimated Rental Value,,,"4,450 sqft.",Single-Family
@@ -1474,10 +1488,10 @@ Price,Address,Rent Estimate Per Month,Beds,Baths,SqFt,Home Type
 ,"Fleischli Pkwy, Cheyenne, WY 82001",*Rental Value Coming Soon,,,"40,412 sqft.",Commercial
 "$294,500","Oxford Dr, Cheyenne, WY 82001",$730/m Estimated Rental Value,,,"1,742 sqft.",Multi-Family
 "$232,110","Boysen Ave, Cheyenne, WY 82001",$970/m Estimated Rental Value,,,912 sqft.,Single-Family
-"$371,356","Melody Ln, Cheyenne, WY 82007",$1090/m Estimated Rental Value,,,"1,500 sqft.",Single-Family
+"$353,886","Melody Ln, Cheyenne, WY 82007",$1090/m Estimated Rental Value,,,"1,500 sqft.",Single-Family
 "$280,445","W 3rd St, Cheyenne, WY 82007",$760/m Estimated Rental Value,,,,
-"$364,185","Hamilton Ave, Cheyenne, WY 82009",$1390/m Estimated Rental Value,,,"1,457 sqft.",Single-Family
-"$282,553","Baldwin Dr, Cheyenne, WY 82001",$970/m Estimated Rental Value,,,792 sqft.,Single-Family
+"$323,867","Hamilton Ave, Cheyenne, WY 82009",$1390/m Estimated Rental Value,,,"1,457 sqft.",Single-Family
+"$272,464","Baldwin Dr, Cheyenne, WY 82001",$970/m Estimated Rental Value,,,792 sqft.,Single-Family
 "$518,865","W 32nd St, Cheyenne, WY 82001",$1080/m Estimated Rental Value,,,"1,663 sqft.",Single-Family
 "$529,412","Campstool Rd, Cheyenne, WY 82007",$1420/m Estimated Rental Value,,,,Single-Family
 "$261,805","Diamond Ave, Cheyenne, WY 82001",$991/m Estimated Rental Value,,,,
@@ -1495,7 +1509,6 @@ Price,Address,Rent Estimate Per Month,Beds,Baths,SqFt,Home Type
 ,"W Lincolnway, Cheyenne, WY 82001",*Rental Value Coming Soon,,,"48,197 sqft.",Commercial
 "$784,080","W 7th Ave, Cheyenne, WY 82001",$1640/m Estimated Rental Value,,,"2,453 sqft.",Single-Family
 "$319,179","Melton St, Cheyenne, WY 82009",$1388/m Estimated Rental Value,,2 bath,"1,275 sqft.",Single-Family
-"$385,769","E 13th St, Cheyenne, WY 82001",$1131/m Estimated Rental Value,3 bed,2 bath,"1,264 sqft.",Single-Family
 "$311,677","W Leisher Rd, Cheyenne, WY 82007",$1082/m Estimated Rental Value,,,"1,352 sqft.",Single-Family
 "$268,388","War Admiral Rd, Cheyenne, WY 82009",$1220/m Estimated Rental Value,,,"1,483 sqft.",Single-Family
 "$224,500","Klipstein Rd, Cheyenne, WY 82009",$1121/m Estimated Rental Value,2 bed,1 bath,"1,588 sqft.",Single-Family
@@ -1816,6 +1829,8 @@ Price,Address,Rent Estimate Per Month,Beds,Baths,SqFt,Home Type
 ,"Main St, Evanston, WY 82930",*Rental Value Coming Soon,,,"2,278 sqft.",Commercial
 "$95,880","Summit St, Evanston, WY 82930",$700/m Estimated Rental Value,,,,Single-Family
 "$121,975","Wasatch Rd, Evanston, WY 82930",$810/m Estimated Rental Value,,,"1,296 sqft.",Mobile Home
+"$305,040","Cedar St, Evanston, WY 82930",$1121/m Estimated Rental Value,5 bed,2 bath,"1,098 sqft.",Single-Family
+"$305,040","Cedar St, Evanston, WY 82930",$1121/m Estimated Rental Value,,,"1,098 sqft.",Single-Family
 ,"Hwy 239, Freedom, WY 83120",*Rental Value Coming Soon,,,,Single-Family
 ,"Prater Canyon Rd, Freedom, WY 83120",*Rental Value Coming Soon,,,,Single-Family
 ,"239, Freedom, WY 83120",*Rental Value Coming Soon,,,,Agricultural
@@ -1827,7 +1842,7 @@ Price,Address,Rent Estimate Per Month,Beds,Baths,SqFt,Home Type
 "$220,697","Nogales Way, Gillette, WY 82716",$1121/m Estimated Rental Value,5 bed,2 bath,"1,008 sqft.",Single-Family
 ,"N Us Highway 14-16, Gillette, WY 82716",*Rental Value Coming Soon,,,,
 "$308,000","S 4j Rd, Gillette, WY 82716",*Rental Value Coming Soon,3 bed,2 bath,,
-"$251,471","Knickerbocker St, Gillette, WY 82718",$1121/m Estimated Rental Value,3 bed,2 bath,"1,632 sqft.",Single-Family
+"$252,616","Knickerbocker St, Gillette, WY 82718",$1121/m Estimated Rental Value,3 bed,2 bath,"1,632 sqft.",Single-Family
 "$264,895","Garden Cir, Gillette, WY 82716",$1321/m Estimated Rental Value,4 bed,3 bath,"1,454 sqft.",Single-Family
 "$241,251","Peak St, Gillette, WY 82716",$1211/m Estimated Rental Value,3 bed,2 bath,"2,016 sqft.",Single-Family
 "$207,265","Goldenrod Ave, Gillette, WY 82716",$1160/m Estimated Rental Value,,,,Single-Family
@@ -1837,7 +1852,7 @@ Price,Address,Rent Estimate Per Month,Beds,Baths,SqFt,Home Type
 ,"Nogales Ln, Gillette, WY 82716",*Rental Value Coming Soon,,,,
 ,"Camel Dr, Ste Gg # 238, Gillette, WY 82716",*Rental Value Coming Soon,,,,
 ,"Prairieview Dr Apt C, Gillette, WY 82716",*Rental Value Coming Soon,,,,
-"$127,638","Kimber Ct, Gillette, WY 82718",$1500/m Estimated Rental Value,,,,
+"$385,846","Kimber Ct, Gillette, WY 82718",$1500/m Estimated Rental Value,,,,
 "$80,081","Tarry St, Gillette, WY 82718",$1121/m Estimated Rental Value,4 bed,2 bath,"1,680 sqft.",Single-Family
 "$139,923","Warren Ave, Gillette, WY 82716",$991/m Estimated Rental Value,3 bed,2 bath,796 sqft.,Single-Family
 "$99,900","Goldenrod Ave, Gillette, WY 82716",$1092/m Estimated Rental Value,3 bed,2 bath,"1,298 sqft.",Single-Family
@@ -1859,20 +1874,20 @@ Price,Address,Rent Estimate Per Month,Beds,Baths,SqFt,Home Type
 "$235,531","Daylight Ct, Gillette, WY 82718",$1100/m Estimated Rental Value,3 bed,2 bath,"1,904 sqft.",Single-Family
 ,"Express Dr Apt 431, Gillette, WY 82718",*Rental Value Coming Soon,,,,
 "$299,338","Cherry Ln, Gillette, WY 82716",$1321/m Estimated Rental Value,4 bed,2 bath,"1,608 sqft.",Single-Family
+"$213,705","Ash Meadows Dr, Gillette, WY 82716",$1121/m Estimated Rental Value,3 bed,2 bath,"1,512 sqft.",Single-Family
+"$207,930","Longhorn Ave, Gillette, WY 82718",$1121/m Estimated Rental Value,3 bed,3 bath,"1,385 sqft.",Mobile Home
+"$213,705","Ash Meadows Dr, Gillette, WY 82716",$1121/m Estimated Rental Value,3 bed,2 bath,"1,512 sqft.",Single-Family
+"$207,930","Longhorn Ave, Gillette, WY 82718",$1121/m Estimated Rental Value,3 bed,2 bath,"1,385 sqft.",Single-Family
 "$207,930","Longhorn Ave, Gillette, WY 82718",$1121/m Estimated Rental Value,3 bed,3 bath,"1,385 sqft.",Single-Family
-"$87,358","Grandview Cir, Gillette, WY 82716",$1201/m Estimated Rental Value,4 bed,2 bath,"1,292 sqft.",Single-Family
 "$167,559","E 8th St, Gillette, WY 82716",$890/m Estimated Rental Value,2 bed,2 bath,"1,480 sqft.",Multi-Family
-"$75,407","Lime Creek Ave, Gillette, WY 82716",$1121/m Estimated Rental Value,3 bed,2 bath,"1,728 sqft.",Mobile Home
 "$167,559","E 8th St, Gillette, WY 82716",$890/m Estimated Rental Value,2 bed,2 bath,"1,480 sqft.",Single-Family
-"$87,358","Grandview Cir, Gillette, WY 82716",$1201/m Estimated Rental Value,4 bed,2 bath,"1,292 sqft.",Single-Family
-"$75,407","Lime Creek Ave, Gillette, WY 82716",$1121/m Estimated Rental Value,3 bed,2 bath,"1,728 sqft.",Single-Family
-"$87,358","Grandview Cir, Gillette, WY 82716",$1201/m Estimated Rental Value,4 bed,2 bath,"1,270 sqft.",Single-Family
 "$199,900","Georgia Cir, Gillette, WY 82718",*Rental Value Coming Soon,3 bed,1 bath,960 sqft.,Single-Family
 "$202,059","Ventura Ave, Gillette, WY 82716",$1072/m Estimated Rental Value,3 bed,2 bath,"1,168 sqft.",Single-Family
 "$267,932","Sequoia Dr, Gillette, WY 82718",$1171/m Estimated Rental Value,5 bed,2 bath,"1,104 sqft.",Single-Family
-"$119,118","Nevada St, Gillette, WY 82716",$991/m Estimated Rental Value,3 bed,2 bath,"1,216 sqft.",Single-Family
+"$245,902","Mountain Fuel Sta, Green River, WY 82935",$960/m Estimated Rental Value,,,,Single-Family
+"$283,319","Arkansas Dr, Green River, WY 82935",$1241/m Estimated Rental Value,,,,Single-Family
 "$325,082","Knotty Pine St, Green River, WY 82935",$1388/m Estimated Rental Value,,,,Single-Family
-"$269,745","E Teton Blvd, Green River, WY 82935",$1311/m Estimated Rental Value,5 bed,3 bath,"2,360 sqft.",Single-Family
+"$271,215","E Teton Blvd, Green River, WY 82935",$1311/m Estimated Rental Value,5 bed,3 bath,"2,360 sqft.",Single-Family
 "$251,759","Hoover Dr, Green River, WY 82935",$1092/m Estimated Rental Value,,,,
 "$160,516","W 2nd North St, Green River, WY 82935",$860/m Estimated Rental Value,,,,
 "$236,215","Iowa Ave, Green River, WY 82935",$1141/m Estimated Rental Value,3 bed,2 bath,"1,680 sqft.",Single-Family
@@ -1954,7 +1969,6 @@ Price,Address,Rent Estimate Per Month,Beds,Baths,SqFt,Home Type
 "$204,164","Driftwood St, Green River, WY 82935",$1430/m Estimated Rental Value,,,,Single-Family
 "$169,506","S 4th East St, Green River, WY 82935",$1151/m Estimated Rental Value,,,,Single-Family
 ,"Shoshone Ave # Unit30, Green River, WY 82935",*Rental Value Coming Soon,,,,Single-Family
-"$251,212","E Teton Blvd, Green River, WY 82935",$1160/m Estimated Rental Value,2 bed,2 bath,"1,170 sqft.",Single-Family
 "$373,539","New York Ln, Green River, WY 82935",$1388/m Estimated Rental Value,3 bed,2 bath,,Single-Family
 ,"N Clark St, Hanna, WY 82327",*Rental Value Coming Soon,,,,
 ,"Linda Dr, Hanna, WY 82327",*Rental Value Coming Soon,,,,Single-Family
@@ -2061,7 +2075,6 @@ Price,Address,Rent Estimate Per Month,Beds,Baths,SqFt,Home Type
 "$1,353,455","Cache Creek Dr, Jackson, WY 83001",$2620/m Estimated Rental Value,,,,Single-Family
 "$1,497,785","S Us Highway 89, Jackson, WY 83001",$2890/m Estimated Rental Value,,3 bath,,Single-Family
 "$1,936,765","S Pitch Fork Dr, Jackson, WY 83001",$2630/m Estimated Rental Value,,2 bath,,Single-Family
-,"S Cache St # 100-8640, Jackson, WY 83001",*Rental Value Coming Soon,,,,
 ,"S Cache St # 100-8640, Jackson, WY 83001",*Rental Value Coming Soon,,,,
 ,"S Cache St # 100-8640, Jackson, WY 83001",*Rental Value Coming Soon,,,,
 ,"S Cache St # 100-8640, Jackson, WY 83001",*Rental Value Coming Soon,,,,
@@ -2206,6 +2219,7 @@ Price,Address,Rent Estimate Per Month,Beds,Baths,SqFt,Home Type
 "$226,525","B D Blvd, Pinedale, WY 82941",$1420/m Estimated Rental Value,,,,Mobile Home
 "$378,420","Margo Ln, Pinedale, WY 82941",$1530/m Estimated Rental Value,,,,Single-Family
 "$339,200","S Tyler Ave, Pinedale, WY 82941",$1241/m Estimated Rental Value,,,,Single-Family
+"$412,800","Lane 11, Powell, WY 82435",$1388/m Estimated Rental Value,,,,Single-Family
 ,"Lane 9 1/2, Powell, WY 82435",*Rental Value Coming Soon,,,,Single-Family
 ,"E Monroe St Apt D, Powell, WY 82435",*Rental Value Coming Soon,,,,
 "$316,600","Road 19, Powell, WY 82435",$1181/m Estimated Rental Value,,,,
@@ -2413,7 +2427,7 @@ Price,Address,Rent Estimate Per Month,Beds,Baths,SqFt,Home Type
 ,"5th St # 1-11, Rawlins, WY 82301",*Rental Value Coming Soon,,,,Commercial
 ,"Seiloff St, Rawlins, WY 82301",*Rental Value Coming Soon,,,,Commercial
 "$120,000","E Pine St, Rawlins, WY 82301",$1121/m Estimated Rental Value,2 bed,1.5 bath,"2,501 sqft.",Single-Family
-"$261,235","W Main St, Riverton, WY 82501",$1102/m Estimated Rental Value,3 bed,1 bath,"1,152 sqft.",Single-Family
+"$265,320","W Main St, Riverton, WY 82501",$1102/m Estimated Rental Value,3 bed,1 bath,"1,152 sqft.",Single-Family
 ,"N Mountain View Dr, Riverton, WY 82501",*Rental Value Coming Soon,,,,Land
 "$246,779","E Jackson Ave, Riverton, WY 82501",$1001/m Estimated Rental Value,,,,Single-Family
 ,"Center St, Riverton, WY 82501",*Rental Value Coming Soon,,,,
@@ -2614,9 +2628,10 @@ Price,Address,Rent Estimate Per Month,Beds,Baths,SqFt,Home Type
 "$141,185","Antelope Dr, Riverton, WY 82501",$890/m Estimated Rental Value,,,,Single-Family
 ,"N 6th St W # W, Riverton, WY 82501",*Rental Value Coming Soon,,,,Single-Family
 "$161,500","Pinecrest St, Riverton, WY 82501",$650/m Estimated Rental Value,,,,Single-Family
+,"Reagan Ave Apt 202, Rock Springs, WY 82901",*Rental Value Coming Soon,,,,
 "$217,364","Sherman St, Rock Springs, WY 82901",$1072/m Estimated Rental Value,2 bed,1 bath,"1,782 sqft.",Single-Family
 ,"Swanson Dr Lot 140, Rock Springs, WY 82901",*Rental Value Coming Soon,,,,
-"$225,625","Pine St, Rock Springs, WY 82901",$1520/m Estimated Rental Value,4 bed,2 bath,"2,156 sqft.",Single-Family
+"$233,700","Pine St, Rock Springs, WY 82901",$1520/m Estimated Rental Value,4 bed,2 bath,"2,156 sqft.",Single-Family
 "$447,658","Mesa Dr, Rock Springs, WY 82901",$1408/m Estimated Rental Value,3 bed,2 bath,"1,944 sqft.",Single-Family
 ,"Purple Sage Rd Lot 128, Rock Springs, WY 82901",*Rental Value Coming Soon,,,,
 "$210,600","Koven Dr, Rock Springs, WY 82901",$1102/m Estimated Rental Value,3 bed,3 bath,"1,520 sqft.",Single-Family
@@ -2626,7 +2641,7 @@ Price,Address,Rent Estimate Per Month,Beds,Baths,SqFt,Home Type
 ,"Century Blvd Apt 302, Rock Springs, WY 82901",*Rental Value Coming Soon,,,,
 ,"W 2nd St Lot 1, Rock Springs, WY 82901",*Rental Value Coming Soon,,,,
 ,"Elk St Lot 230, Rock Springs, WY 82901",*Rental Value Coming Soon,,,,
-"$189,363","Reagan Ave, Rock Springs, WY 82901",$1102/m Estimated Rental Value,,,,
+"$195,130","Reagan Ave, Rock Springs, WY 82901",$1102/m Estimated Rental Value,,,,
 ,"Dewar Dr Apt 303, Rock Springs, WY 82901",*Rental Value Coming Soon,,,,
 ,"Swanson Dr Lot 83, Rock Springs, WY 82901",*Rental Value Coming Soon,,,,
 ,"Purple Sage Rd Lot 27, Rock Springs, WY 82901",*Rental Value Coming Soon,,,,
@@ -2635,6 +2650,7 @@ Price,Address,Rent Estimate Per Month,Beds,Baths,SqFt,Home Type
 ,"Purple Sage Rd Lot 30, Rock Springs, WY 82901",*Rental Value Coming Soon,,,,
 "$170,474","C St, Rock Springs, WY 82901",$1072/m Estimated Rental Value,,,,
 "$136,854","Clearview Dr, Rock Springs, WY 82901",$1102/m Estimated Rental Value,3 bed,2 bath,"1,688 sqft.",Single-Family
+"$376,323","Washakie Dr, Rock Springs, WY 82901",$1408/m Estimated Rental Value,3 bed,3 bath,"2,724 sqft.",Single-Family
 "$67,853","Clark St, Rock Springs, WY 82901",$1102/m Estimated Rental Value,3 bed,1 bath,"1,428 sqft.",Single-Family
 "$109,480","M St, Rock Springs, WY 82901",$1102/m Estimated Rental Value,3 bed,2 bath,"1,003 sqft.",Single-Family
 ,"N Center St, Rock Springs, WY 82901",*Rental Value Coming Soon,,,"3,997 sqft.",Commercial
@@ -2804,6 +2820,7 @@ Price,Address,Rent Estimate Per Month,Beds,Baths,SqFt,Home Type
 ,"W Saratoga St, Saratoga, WY 82331",*Rental Value Coming Soon,,,,Mobile Home
 ,"View Estates #1, Saratoga, WY 82331",*Rental Value Coming Soon,,,,Single-Family
 ,"W Farm Ave, Saratoga, WY 82331",*Rental Value Coming Soon,,,,Single-Family
+"$311,767","Marion St, Sheridan, WY 82801",$1080/m Estimated Rental Value,3 bed,2 bath,"1,512 sqft.",Single-Family
 "$513,418","Dana Ave, Sheridan, WY 82801",$1810/m Estimated Rental Value,,,,Single-Family
 ,"Avoca Ave, Apt 319, Sheridan, WY 82801",*Rental Value Coming Soon,,,,
 "$320,512","Schiller St, Sheridan, WY 82801",$1810/m Estimated Rental Value,5 bed,2 bath,"1,036 sqft.",Single-Family
@@ -2816,7 +2833,7 @@ Price,Address,Rent Estimate Per Month,Beds,Baths,SqFt,Home Type
 "$317,917","W Works St, Sheridan, WY 82801",$1281/m Estimated Rental Value,4 bed,2 bath,"1,208 sqft.",Single-Family
 ,"Marion Ct Apt 1, Sheridan, WY 82801",*Rental Value Coming Soon,,,,
 ,"Mydland Rd Unit 6c, Sheridan, WY 82801",*Rental Value Coming Soon,,,,
-"$260,160","S Sheridan Ave, Sheridan, WY 82801",$820/m Estimated Rental Value,2 bed,1 bath,898 sqft.,Single-Family
+"$275,025","S Sheridan Ave, Sheridan, WY 82801",$820/m Estimated Rental Value,2 bed,1 bath,898 sqft.,Single-Family
 ,"Coffeen Ave # 1200, Sheridan, WY 82801",*Rental Value Coming Soon,,,"7,720 sqft.",Commercial
 "$429,067","Taylor Ave, Sheridan, WY 82801",$1281/m Estimated Rental Value,,2 bath,"2,400 sqft.",Single-Family
 "$130,390","Val Vista St, Sheridan, WY 82801",$780/m Estimated Rental Value,,,,Single-Family
@@ -3073,7 +3090,7 @@ Price,Address,Rent Estimate Per Month,Beds,Baths,SqFt,Home Type
 "$160,627","Green River Rd, Douglas, WY 82633",$930/m Estimated Rental Value,,,936 sqft.,Single-Family
 ,"Sweetwater Rd Apt 2, Douglas, WY 82633",*Rental Value Coming Soon,,,,
 "$219,900","Cedar St, Douglas, WY 82633",$1291/m Estimated Rental Value,4 bed,1 bath,"2,304 sqft.",Single-Family
-"$321,289","Robin Ln, Douglas, WY 82633",$1220/m Estimated Rental Value,,,"2,588 sqft.",Single-Family
+"$344,881","Robin Ln, Douglas, WY 82633",$1220/m Estimated Rental Value,,,"2,588 sqft.",Single-Family
 ,"E Richards St, Douglas, WY 82633",*Rental Value Coming Soon,,,"4,910 sqft.",Commercial
 ,"N 4th St, Douglas, WY 82633",*Rental Value Coming Soon,,,,Commercial
 "$129,111","S 3rd St, Douglas, WY 82633",$850/m Estimated Rental Value,,,756 sqft.,Single-Family
@@ -3210,9 +3227,6 @@ Price,Address,Rent Estimate Per Month,Beds,Baths,SqFt,Home Type
 ,"E Center St, Douglas, WY 82633",*Rental Value Coming Soon,,,"2,287 sqft.",Commercial
 "$127,688","S 3rd St, Douglas, WY 82633",$970/m Estimated Rental Value,,,,Single-Family
 "$200,430","Hamilton St, Douglas, WY 82633",$1072/m Estimated Rental Value,,,"1,380 sqft.",Single-Family
-"$135,683","N 5th St, Douglas, WY 82633",$952/m Estimated Rental Value,2 bed,2 bath,971 sqft.,Single-Family
-"$135,683","N 5th St, Douglas, WY 82633",$952/m Estimated Rental Value,,,971 sqft.,Single-Family
-"$282,150","Skyline Dr, Douglas, WY 82633",$1100/m Estimated Rental Value,3 bed,2 bath,"1,799 sqft.",Single-Family
 ,"N Mccue St Lot 320b, Laramie, WY 82072",*Rental Value Coming Soon,,,,
 ,"Evans St, Laramie, WY 82070",*Rental Value Coming Soon,,,,
 ,"Downey St # B, Laramie, WY 82072",*Rental Value Coming Soon,5 bed,2 bath,"2,464 sqft.",Single-Family
