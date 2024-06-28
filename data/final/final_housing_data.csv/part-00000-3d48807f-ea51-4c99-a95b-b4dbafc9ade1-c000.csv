@@ -1,0 +1,637 @@
+Price,Address,Rent Estimate Per Month,Beds,Baths,SqFt,Home Type,Street,City,State Label,Zip Code
+1043000,"Q St Nw, Washington, DC 20001",2710,4,3,1653,MF,Q St Nw,Washington,DC,20001
+335387,"H St Se, Washington, DC 20019",1880,3,1,1064,SF,H St Se,Washington,DC,20019
+639000,"K St Nw, Washington, DC 20001",2770,4,3,1360,MF,K St Nw,Washington,DC,20001
+719475,"Park Rd Nw, Washington, DC 20010",2630,3,2.5,1336,SF,Park Rd Nw,Washington,DC,20010
+128690,"Ash St, Rock Springs, WY 82901",1010,2,1,925,SF,Ash St,Rock Springs,WY,82901
+412879,"Baker St Ne, Washington, DC 20019",1420,2,1,884,SF,Baker St Ne,Washington,DC,20019
+658000,"Longfellow St Nw, Washington, DC 20011",2440,4,2,1440,MF,Longfellow St Nw,Washington,DC,20011
+148104,"Lincoln Ave, Rock Springs, WY 82901",1181,3,2,864,SF,Lincoln Ave,Rock Springs,WY,82901
+886051,"4th St Nw, Washington, DC 20011",2440,4,2,1660,SF,4th St Nw,Washington,DC,20011
+838513,"Duncan St Ne, Washington, DC 20002",2670,3,1,1472,Townhome,Duncan St Ne,Washington,DC,20002
+434875,"Wahler Pl Se, Washington, DC 20032",1390,3,3,1408,Townhome,Wahler Pl Se,Washington,DC,20032
+273785,"Quadrant Dr, Rock Springs, WY 82901",1378,2,1,2020,SF,Quadrant Dr,Rock Springs,WY,82901
+724429,"7th St Ne, Washington, DC 20017",2480,3,3,1982,SF,7th St Ne,Washington,DC,20017
+241251,"Peak St, Gillette, WY 82716",1211,3,2,2016,SF,Peak St,Gillette,WY,82716
+207353,"Peak Ct, Gillette, WY 82716",1072,3,2,1408,SF,Peak Ct,Gillette,WY,82716
+865730,"Monroe St Nw, Washington, DC 20010",3110,8,4,2639,Townhome,Monroe St Nw,Washington,DC,20010
+84490,"M St, Rock Springs, WY 82901",860,2,1,652,SF,M St,Rock Springs,WY,82901
+528771,"14th St Ne, Washington, DC 20018",2130,3,1.5,1056,SF,14th St Ne,Washington,DC,20018
+272859,"2nd St Se, Washington, DC 20032",1301,3,2,1836,Townhome,2nd St Se,Washington,DC,20032
+1158000,"Chapin St Nw, Washington, DC 20009",3230,6,3.5,2706,MF,Chapin St Nw,Washington,DC,20009
+181000,"N Lowell St, Casper, WY 82601",1010,3,1,1135,SF,N Lowell St,Casper,WY,82601
+119170,"Thomas St, Rock Springs, WY 82901",860,2,1,968,SF,Thomas St,Rock Springs,WY,82901
+225625,"Pine St, Rock Springs, WY 82901",1520,4,2,2156,SF,Pine St,Rock Springs,WY,82901
+197191,"Gladstone St, Sheridan, WY 82801",1810,5,2,1304,SF,Gladstone St,Sheridan,WY,82801
+575403,"Channing St Ne, Washington, DC 20018",2570,3,1.5,1159,SF,Channing St Ne,Washington,DC,20018
+1212241,"Corcoran St Nw, Washington, DC 20009",3130,3,1,1708,SF,Corcoran St Nw,Washington,DC,20009
+667103,"Otis St Ne, Washington, DC 20018",2890,4,2.5,1656,SF,Otis St Ne,Washington,DC,20018
+101471,"Warren Ave, Gillette, WY 82716",820,3,1,904,SF,Warren Ave,Gillette,WY,82716
+103020,"Center St, Rock Springs, WY 82901",973,2,1,803,SF,Center St,Rock Springs,WY,82901
+358498,"Cascade St, Lander, WY 82520",1141,4,3,1056,SF,Cascade St,Lander,WY,82520
+660921,"7th St Nw, Washington, DC 20011",2200,4,1,832,SF,7th St Nw,Washington,DC,20011
+746907,"Kansas Ave Nw, Washington, DC 20011",2640,3,1.5,1484,SF,Kansas Ave Nw,Washington,DC,20011
+427770,"Calvert St Nw Apt 402, Washington, DC 20009",2240,1,1,747,CONDO,Calvert St Nw Apt 402,Washington,DC,20009
+672762,"Queen St Ne, Washington, DC 20002",1690,3,1,1080,Townhome,Queen St Ne,Washington,DC,20002
+129396,"Chesapeake St Se # 206, Washington, DC 20032",1398,2,1,884,CONDO,Chesapeake St Se # 206,Washington,DC,20032
+394708,"20th St Se, Washington, DC 20020",2030,3,2,1090,SF,20th St Se,Washington,DC,20020
+222132,"Southview Rd, Laramie, WY 82070",1072,3,2.5,1152,SF,Southview Rd,Laramie,WY,82070
+1369346,"Verbena St Nw, Washington, DC 20012",3640,4,2.5,1706,SF,Verbena St Nw,Washington,DC,20012
+748433,"Kansas Ave Nw, Washington, DC 20011",2670,3,3,1400,Townhome,Kansas Ave Nw,Washington,DC,20011
+878979,"8th St Ne, Washington, DC 20002",3070,3,1,1444,Townhome,8th St Ne,Washington,DC,20002
+248097,"E 19th St, Casper, WY 82601",1100,3,2,1825,SF,E 19th St,Casper,WY,82601
+75407,"Lime Creek Ave, Gillette, WY 82716",1121,3,2,1728,MH,Lime Creek Ave,Gillette,WY,82716
+624139,"Shepherd St Nw, Washington, DC 20011",2220,2,2,1330,Townhome,Shepherd St Nw,Washington,DC,20011
+320041,"35th St Ne, Washington, DC 20019",1510,2,1,780,Townhome,35th St Ne,Washington,DC,20019
+202288,"Jasmine St, Casper, WY 82604",1201,3,1,1108,SF,Jasmine St,Casper,WY,82604
+316800,"Fort Davis St Se, Washington, DC 20020",1560,2,1,986,Townhome,Fort Davis St Se,Washington,DC,20020
+352342,"Greve Cir, Rock Springs, WY 82901",1860,4,2,2052,MH,Greve Cir,Rock Springs,WY,82901
+174666,"Omarr Ave, Sheridan, WY 82801",1001,2,2,1381,SF,Omarr Ave,Sheridan,WY,82801
+883000,"Clifton St Nw, Washington, DC 20009",2920,5,2,3131,SF,Clifton St Nw,Washington,DC,20009
+195224,"Mckinley Ave, Rock Springs, WY 82901",1301,3,1,1156,SF,Mckinley Ave,Rock Springs,WY,82901
+890010,"Owen Pl Ne, Washington, DC 20002",1890,3,1,1310,SF,Owen Pl Ne,Washington,DC,20002
+503058,"4th St Ne Apt 1, Washington, DC 20002",1920,2,2,954,CONDO,4th St Ne Apt 1,Washington,DC,20002
+521000,"5th St Nw, Washington, DC 20011",2140,3,1,800,SF,5th St Nw,Washington,DC,20011
+741179,"Spring Rd Nw, Washington, DC 20010",2690,3,1,1280,SF,Spring Rd Nw,Washington,DC,20010
+544500,"9th St Nw, Washington, DC 20011",2380,4,2.5,1836,SF,9th St Nw,Washington,DC,20011
+780865,"Morse St Ne, Washington, DC 20002",1880,3,2,1836,Townhome,Morse St Ne,Washington,DC,20002
+1185977,"Redwood Ter Nw, Washington, DC 20012",3930,4,5,2599,SF,Redwood Ter Nw,Washington,DC,20012
+772269,"5th St Nw, Washington, DC 20011",2220,2,1,1440,SF,5th St Nw,Washington,DC,20011
+343274,"32nd St Se, Washington, DC 20020",2100,3,1.5,1248,SF,32nd St Se,Washington,DC,20020
+283148,"Carrington Ct, Laramie, WY 82072",1251,4,2,1944,SF,Carrington Ct,Laramie,WY,82072
+146710,"Apache Ln, Rock Springs, WY 82901",1201,1,2,1013,SF,Apache Ln,Rock Springs,WY,82901
+495215,"5th St Nw, Washington, DC 20011",2140,3,1,800,Townhome,5th St Nw,Washington,DC,20011
+1376000,"Maryland Ave Ne, Washington, DC 20002",3350,5,4.5,2921,MF,Maryland Ave Ne,Washington,DC,20002
+457905,"1st Pl Nw Apt 403, Washington, DC 20011",1880,2,2,950,CONDO,1st Pl Nw Apt 403,Washington,DC,20011
+450392,"Q St Se, Washington, DC 20020",1610,4,3,1120,MF,Q St Se,Washington,DC,20020
+199900,"Georgia Cir, Gillette, WY 82718",,3,1,960,SF,Georgia Cir,Gillette,WY,82718
+305040,"Cedar St, Evanston, WY 82930",1121,5,2,1098,SF,Cedar St,Evanston,WY,82930
+842664,"N Capitol St Nw, Washington, DC 20002",2460,3,1,1680,Townhome,N Capitol St Nw,Washington,DC,20002
+879540,"D St Ne, Washington, DC 20002",1790,4,4,2960,MF,D St Ne,Washington,DC,20002
+431683,"M St Ne, Washington, DC 20002",1550,3,1,1252,Townhome,M St Ne,Washington,DC,20002
+280000,"35th St Ne, Washington, DC 20019",1660,4,4,3230,MF,35th St Ne,Washington,DC,20019
+264800,"E Burrows St, Sheridan, WY 82801",1092,3,1,1046,SF,E Burrows St,Sheridan,WY,82801
+470487,"Savannah St Se, Washington, DC 20032",1940,4,2,1476,SF,Savannah St Se,Washington,DC,20032
+220697,"Nogales Way, Gillette, WY 82716",1121,5,2,1008,SF,Nogales Way,Gillette,WY,82716
+454638,"20th St Ne, Washington, DC 20002",1610,3,1,1116,Townhome,20th St Ne,Washington,DC,20002
+434630,"Bowen Rd Se, Washington, DC 20020",1470,3,2,1220,CONDO,Bowen Rd Se,Washington,DC,20020
+413313,"E Capitol St Se, Washington, DC 20019",1880,3,1.5,1273,SF,E Capitol St Se,Washington,DC,20019
+379674,"33rd St Ne, Washington, DC 20019",1420,2,1,832,SF,33rd St Ne,Washington,DC,20019
+233240,"Yellowstone Rd, Rock Springs, WY 82901",1460,3,2,1858,MH,Yellowstone Rd,Rock Springs,WY,82901
+407561,"54th St Se, Washington, DC 20019",1880,3,1,1292,SF,54th St Se,Washington,DC,20019
+151300,"Honeysuckle St, Casper, WY 82604",1420,4,2,1200,MF,Honeysuckle St,Casper,WY,82604
+346800,"Maverick Dr, Sheridan, WY 82801",1430,3,2,1680,SF,Maverick Dr,Sheridan,WY,82801
+110840,"Pilot Butte Ave, Rock Springs, WY 82901",860,2,1,1156,SF,Pilot Butte Ave,Rock Springs,WY,82901
+623818,"Hamlin St Ne, Washington, DC 20017",1870,3,1.5,1284,Townhome,Hamlin St Ne,Washington,DC,20017
+417037,"Congress St Se Apt 101, Washington, DC 20032",1390,3,3,1063,CONDO,Congress St Se Apt 101,Washington,DC,20032
+423750,"Martin Luther King Jr ..., Washington, DC 20032",1490,2,3,1152,Townhome,Martin Luther King Jr ...,Washington,DC,20032
+672432,"Newton Pl Nw, Washington, DC 20010",2500,2,1,1320,SF,Newton Pl Nw,Washington,DC,20010
+937530,"12th St Nw, Washington, DC 20012",3140,3,2.5,1638,SF,12th St Nw,Washington,DC,20012
+412007,"Central Ave Se, Washington, DC 20019",1388,2,1.5,996,SF,Central Ave Se,Washington,DC,20019
+179920,"N Lowell St, Casper, WY 82601",1010,3,1,1135,SF,N Lowell St,Casper,WY,82601
+131665,"Mckinley Ave, Rock Springs, WY 82901",1141,1,2,1042,SF,Mckinley Ave,Rock Springs,WY,82901
+167559,"E 8th St, Gillette, WY 82716",890,2,2,1480,MF,E 8th St,Gillette,WY,82716
+506949,"Irving St Nw, Washington, DC 20010",2510,3,1,1088,SF,Irving St Nw,Washington,DC,20010
+176843,"Cedar St, Rock Springs, WY 82901",1131,3,2,1344,MH,Cedar St,Rock Springs,WY,82901
+99790,"Center St, Rock Springs, WY 82901",973,2,1,810,SF,Center St,Rock Springs,WY,82901
+400389,"Harvard St Nw # T1, Washington, DC 20009",2070,1,1,640,CONDO,Harvard St Nw # T1,Washington,DC,20009
+637899,"Sherman Ave Nw, Washington, DC 20001",2620,3,2,1080,SF,Sherman Ave Nw,Washington,DC,20001
+236215,"Iowa Ave, Green River, WY 82935",1141,3,2,1680,SF,Iowa Ave,Green River,WY,82935
+493020,"Gainesville St Se Apt 201, Washington, DC 20020",1580,3,3,1678,CONDO,Gainesville St Se Apt 201,Washington,DC,20020
+381578,"Dubois Pl Se, Washington, DC 20019",1920,3,1,984,SF,Dubois Pl Se,Washington,DC,20019
+75407,"Lime Creek Ave, Gillette, WY 82716",1121,3,2,1728,SF,Lime Creek Ave,Gillette,WY,82716
+148580,"Ponderosa Way, Rock Springs, WY 82901",1102,3,2,1310,MF,Ponderosa Way,Rock Springs,WY,82901
+698579,"17th Pl Se, Washington, DC 20020",1740,4,4,2720,MF,17th Pl Se,Washington,DC,20020
+1206464,"Butterworth Pl Nw, Washington, DC 20016",3160,3,2,1080,SF,Butterworth Pl Nw,Washington,DC,20016
+504218,"44th Pl Se, Washington, DC 20019",1880,3,2,1276,SF,44th Pl Se,Washington,DC,20019
+476308,"M St Sw # N801, Washington, DC 20024",2200,2,2,1140,CONDO,M St Sw # N801,Washington,DC,20024
+295407,"Southern Ave Se, Washington, DC 20019",1620,2,2,832,SF,Southern Ave Se,Washington,DC,20019
+502660,"17th St Nw Apt 72, Washington, DC 20009",2340,1,1,694,CONDO,17th St Nw Apt 72,Washington,DC,20009
+573728,"2nd St Ne, Washington, DC 20002",1890,2,2,1202,SF,2nd St Ne,Washington,DC,20002
+207930,"Longhorn Ave, Gillette, WY 82718",1121,3,3,1385,SF,Longhorn Ave,Gillette,WY,82718
+210205,"N Hodgeman St, Laramie, WY 82072",1001,3,2,1337,SF,N Hodgeman St,Laramie,WY,82072
+263925,"Stassinos Ranch Rd, Rock Springs, WY 82901",1540,3,2,2308,MH,Stassinos Ranch Rd,Rock Springs,WY,82901
+172260,"Highland Ave, Sheridan, WY 82801",900,3,2,864,Townhome,Highland Ave,Sheridan,WY,82801
+694984,"Lincoln Rd Ne, Washington, DC 20002",1900,3,1,1530,Townhome,Lincoln Rd Ne,Washington,DC,20002
+337733,"47th Pl Ne, Washington, DC 20019",1720,2,1,1024,SF,47th Pl Ne,Washington,DC,20019
+318125,"Darrington St Sw, Washington, DC 20032",2000,3,2,1136,SF,Darrington St Sw,Washington,DC,20032
+651892,"Shepherd St Ne, Washington, DC 20017",2230,3,1,930,SF,Shepherd St Ne,Washington,DC,20017
+231443,"Pumpkin Ct, Gillette, WY 82718",1100,3,2,1632,SF,Pumpkin Ct,Gillette,WY,82718
+458053,"Hilltop Ter Se, Washington, DC 20019",1880,3,2,1410,SF,Hilltop Ter Se,Washington,DC,20019
+566100,"War Emblem Ln, Rock Springs, WY 82901",1540,1,3,3264,SF,War Emblem Ln,Rock Springs,WY,82901
+228732,"G St Se, Washington, DC 20019",1880,2,1,832,SF,G St Se,Washington,DC,20019
+599930,"High View Rd, Sheridan, WY 82801",1780,4,4,4000,SF,High View Rd,Sheridan,WY,82801
+264275,"14th St Nw Apt 116w, Washington, DC 20009",2230,2,1,720,CONDO,14th St Nw Apt 116w,Washington,DC,20009
+653823,"Channing St Ne, Washington, DC 20018",2680,3,2,1540,SF,Channing St Ne,Washington,DC,20018
+206224,"E 13th St, Casper, WY 82601",860,2,1,1210,SF,E 13th St,Casper,WY,82601
+285685,"State Highway 241, Afton, WY 83110",1281,2,2,2227,SF,State Highway 241,Afton,WY,83110
+217701,"Mcmicken St, Rawlins, WY 82301",1171,5,3,2352,SF,Mcmicken St,Rawlins,WY,82301
+151424,"Dana Ave, Sheridan, WY 82801",900,3,2,864,CONDO,Dana Ave,Sheridan,WY,82801
+647857,"Oneida Pl Nw, Washington, DC 20011",2780,3,1,1730,SF,Oneida Pl Nw,Washington,DC,20011
+654000,"N St Nw, Washington, DC 20001",2770,5,3,1604,MF,N St Nw,Washington,DC,20001
+309771,"49th St Ne, Washington, DC 20019",1790,3,1,1355,SF,49th St Ne,Washington,DC,20019
+119118,"Nevada St, Gillette, WY 82716",991,3,2,1216,SF,Nevada St,Gillette,WY,82716
+328900,"Lamont St Nw Apt 3a, Washington, DC 20010",1920,1,1,525,CONDO,Lamont St Nw Apt 3a,Washington,DC,20010
+975593,"Tamarack St Nw, Washington, DC 20012",3620,4,3,1752,SF,Tamarack St Nw,Washington,DC,20012
+264860,"State Highway 239, Freedom, WY 83120",1311,4,2,1878,SF,State Highway 239,Freedom,WY,83120
+565920,"Georgia Ave Nw Apt 111, Washington, DC 20012",1920,2,1,944,CONDO,Georgia Ave Nw Apt 111,Washington,DC,20012
+308750,"D St Se, Washington, DC 20019",1620,2,1,660,SF,D St Se,Washington,DC,20019
+743197,"Chancellors Way Ne, Washington, DC 20017",1910,2,3,972,Townhome,Chancellors Way Ne,Washington,DC,20017
+3424576,"37th St Nw, Washington, DC 20007",4600,4,3,1360,Townhome,37th St Nw,Washington,DC,20007
+887440,"S Dakota Ave Ne, Washington, DC 20018",3770,6,2.5,3280,SF,S Dakota Ave Ne,Washington,DC,20018
+498612,"47th St Ne, Washington, DC 20019",2040,5,2,2363,SF,47th St Ne,Washington,DC,20019
+146455,"Westridge Dr, Rock Springs, WY 82901",1102,3,3,1482,MF,Westridge Dr,Rock Springs,WY,82901
+460274,"Otis St Ne, Washington, DC 20018",2200,3,1,1092,SF,Otis St Ne,Washington,DC,20018
+528650,"9th Pl Se, Washington, DC 20032",2070,4,3,1474,SF,9th Pl Se,Washington,DC,20032
+136854,"Clearview Dr, Rock Springs, WY 82901",1102,3,2,1688,SF,Clearview Dr,Rock Springs,WY,82901
+972000,"Corcoran St Nw, Washington, DC 20009",3700,6,5,2445,MF,Corcoran St Nw,Washington,DC,20009
+296973,"57th St Ne, Washington, DC 20019",1398,2,1,768,SF,57th St Ne,Washington,DC,20019
+260100,"50th St Ne, Washington, DC 20019",1760,2,1,806,SF,50th St Ne,Washington,DC,20019
+486455,"Anacostia Rd Se, Washington, DC 20019",1850,4,3,1008,SF,Anacostia Rd Se,Washington,DC,20019
+224500,"Klipstein Rd, Cheyenne, WY 82009",1121,2,1,1588,SF,Klipstein Rd,Cheyenne,WY,82009
+668073,"Upshur St Nw, Washington, DC 20011",2640,3,3,1352,Townhome,Upshur St Nw,Washington,DC,20011
+1295093,"Van Ness St Nw, Washington, DC 20016",3880,3,2,1322,SF,Van Ness St Nw,Washington,DC,20016
+1181448,"Primrose Rd Nw, Washington, DC 20012",3790,4,3.5,2292,SF,Primrose Rd Nw,Washington,DC,20012
+352450,"4th St Se, Washington, DC 20032",1400,4,2,1200,Townhome,4th St Se,Washington,DC,20032
+874259,"Eastern Ave Ne, Washington, DC 20011",3260,3,2.5,1682,SF,Eastern Ave Ne,Washington,DC,20011
+797230,"Madison St Nw, Washington, DC 20011",2980,3,2,1682,SF,Madison St Nw,Washington,DC,20011
+224679,"Wilson Way, Rock Springs, WY 82901",1141,3,2,2464,SF,Wilson Way,Rock Springs,WY,82901
+890644,"Webster St Nw, Washington, DC 20011",2670,4,3.5,2142,SF,Webster St Nw,Washington,DC,20011
+556620,"7th Pl Nw, Washington, DC 20012",2370,3,1,1133,SF,7th Pl Nw,Washington,DC,20012
+408262,"Buena Vista Ter Se, Washington, DC 20020",2060,3,2,1326,SF,Buena Vista Ter Se,Washington,DC,20020
+489143,"Barnaby St Se, Washington, DC 20032",1430,3,2.5,1646,SF,Barnaby St Se,Washington,DC,20032
+139400,"Lee St, Rock Springs, WY 82901",1201,3,2,1440,SF,Lee St,Rock Springs,WY,82901
+397786,"24th St Ne, Washington, DC 20018",1840,2,1.5,911,SF,24th St Ne,Washington,DC,20018
+403035,"24th St Se, Washington, DC 20020",2040,2,1,1152,SF,24th St Se,Washington,DC,20020
+395359,"Central Ave Se, Washington, DC 20019",1760,2,1,800,SF,Central Ave Se,Washington,DC,20019
+3870076,"Asbury Pl Nw, Washington, DC 20016",5200,4,3,2464,SF,Asbury Pl Nw,Washington,DC,20016
+308160,"Lenfant Sq Se, Washington, DC 20020",1590,3,2,1360,Townhome,Lenfant Sq Se,Washington,DC,20020
+67065,"6th St, Rock Springs, WY 82901",630,1,1,560,SF,6th St,Rock Springs,WY,82901
+256893,"Alabama Ave Se Unit B, Washington, DC 20020",1520,2,1,1216,CONDO,Alabama Ave Se Unit B,Washington,DC,20020
+465715,"Apache Ln, Rock Springs, WY 82901",1610,3,3,2582,SF,Apache Ln,Rock Springs,WY,82901
+327505,"S Thurmond St, Sheridan, WY 82801",1001,3,2,1376,SF,S Thurmond St,Sheridan,WY,82801
+182920,"Vista West Dr, Star Valley Ranch, WY 83127",952,2,2,1152,SF,Vista West Dr,Star Valley Ranch,WY,83127
+487795,"Massachusetts Ave Se # 2, Washington, DC 20019",1440,3,3,1696,CONDO,Massachusetts Ave Se # 2,Washington,DC,20019
+1027735,"11th St Se, Washington, DC 20003",3190,4,4,3296,MF,11th St Se,Washington,DC,20003
+369487,"Howard Rd Se, Washington, DC 20020",1520,2,1,768,Townhome,Howard Rd Se,Washington,DC,20020
+238971,"Midway St, Rock Springs, WY 82901",1102,3,2,2016,SF,Midway St,Rock Springs,WY,82901
+511917,"Division Ave Ne, Washington, DC 20019",1790,3,3,1888,SF,Division Ave Ne,Washington,DC,20019
+217055,"Cascade Ave, Casper, WY 82604",1201,3,1,1170,SF,Cascade Ave,Casper,WY,82604
+405900,"Taylor St Ne, Washington, DC 20017",2140,3,2,1088,Townhome,Taylor St Ne,Washington,DC,20017
+251471,"Knickerbocker St, Gillette, WY 82718",1121,3,2,1632,SF,Knickerbocker St,Gillette,WY,82718
+118061,"Gainesville St Se Apt 204, Washington, DC 20020",1440,2,1,780,CONDO,Gainesville St Se Apt 204,Washington,DC,20020
+544500,"Irving St Ne, Washington, DC 20017",2500,2,2,750,SF,Irving St Ne,Washington,DC,20017
+67853,"Clark St, Rock Springs, WY 82901",1102,3,1,1428,SF,Clark St,Rock Springs,WY,82901
+512837,"E St Nw Apt 230, Washington, DC 20004",2260,1,1,861,CONDO,E St Nw Apt 230,Washington,DC,20004
+402000,"Bass Pl Se, Washington, DC 20019",1408,4,4,2442,MF,Bass Pl Se,Washington,DC,20019
+307384,"Eads St Ne, Washington, DC 20019",1720,3,2,787,SF,Eads St Ne,Washington,DC,20019
+519303,"Kearny St Ne, Washington, DC 20018",2680,3,2,1640,SF,Kearny St Ne,Washington,DC,20018
+797230,"Madison St Nw, Washington, DC 20011",2980,3,3,1682,SF,Madison St Nw,Washington,DC,20011
+249305,"Corthell Rd, Laramie, WY 82070",1230,4,2,1636,SF,Corthell Rd,Laramie,WY,82070
+118575,"Pilot Butte Ave, Rock Springs, WY 82901",860,2,1,1404,SF,Pilot Butte Ave,Rock Springs,WY,82901
+481355,"Mccormick Rd, Sheridan, WY 82801",1400,3,3,2544,SF,Mccormick Rd,Sheridan,WY,82801
+668741,"Hamilton St Nw, Washington, DC 20011",2220,2,1,1024,SF,Hamilton St Nw,Washington,DC,20011
+526670,"Texas Ave Se, Washington, DC 20020",2160,3,2.5,1664,SF,Texas Ave Se,Washington,DC,20020
+293597,"47th St Se, Washington, DC 20019",1660,2,1,800,SF,47th St Se,Washington,DC,20019
+480150,"T Pl Se, Washington, DC 20020",1620,2,2,900,Townhome,T Pl Se,Washington,DC,20020
+284392,"Malcolm X Ave Se, Washington, DC 20032",1790,4,2,1254,SF,Malcolm X Ave Se,Washington,DC,20032
+774376,"A St Ne, Washington, DC 20002",2400,3,2.5,1512,SF,A St Ne,Washington,DC,20002
+441176,"Olive St Ne, Washington, DC 20019",1920,3,3,1716,SF,Olive St Ne,Washington,DC,20019
+115345,"Potter St, Rock Springs, WY 82901",940,2,1,720,SF,Potter St,Rock Springs,WY,82901
+316101,"Hayes St Ne, Washington, DC 20019",1790,3,2,1129,SF,Hayes St Ne,Washington,DC,20019
+329064,"Emerald St, Rock Springs, WY 82901",1420,2,3,2786,SF,Emerald St,Rock Springs,WY,82901
+111775,"Plainview Dr, Rock Springs, WY 82901",1092,2,1,966,MH,Plainview Dr,Rock Springs,WY,82901
+732432,"P St Nw, Washington, DC 20001",2510,4,1,1416,SF,P St Nw,Washington,DC,20001
+341268,"Southern Ave Se, Washington, DC 20020",1560,3,1,1024,Townhome,Southern Ave Se,Washington,DC,20020
+202059,"Ventura Ave, Gillette, WY 82716",1072,3,2,1168,SF,Ventura Ave,Gillette,WY,82716
+188712,"E Gibbon St, Laramie, WY 82072",1001,3,2,1264,SF,E Gibbon St,Laramie,WY,82072
+432500,"Overland Rd, Laramie, WY 82070",1530,4,4.5,4292,SF,Overland Rd,Laramie,WY,82070
+791990,"Longfellow St Nw, Washington, DC 20011",2370,3,2,1116,Townhome,Longfellow St Nw,Washington,DC,20011
+1310440,"K St Se, Washington, DC 20003",2800,1,1,1800,SF,K St Se,Washington,DC,20003
+399360,"Valley Ave Se, Washington, DC 20032",1880,3,2,1296,SF,Valley Ave Se,Washington,DC,20032
+260160,"S Sheridan Ave, Sheridan, WY 82801",820,2,1,898,SF,S Sheridan Ave,Sheridan,WY,82801
+781703,"N Capitol St Nw, Washington, DC 20002",2450,3,2,1380,Townhome,N Capitol St Nw,Washington,DC,20002
+187952,"E Park Ave, Laramie, WY 82070",1072,2,1,1088,SF,E Park Ave,Laramie,WY,82070
+610981,"Montana Ave Ne, Washington, DC 20018",2680,3,1.5,1375,SF,Montana Ave Ne,Washington,DC,20018
+244532,"E Tonk St, Gillette, WY 82718",1110,3,3,1220,SF,E Tonk St,Gillette,WY,82718
+155889,"Hunter Pl Se Apt 101, Washington, DC 20020",1500,2,1,791,CONDO,Hunter Pl Se Apt 101,Washington,DC,20020
+687445,"Hamlin St Ne, Washington, DC 20017",2500,2,1.5,1324,SF,Hamlin St Ne,Washington,DC,20017
+222098,"E Harney St, Laramie, WY 82072",1001,3,2,1578,SF,E Harney St,Laramie,WY,82072
+1024092,"18th St Se, Washington, DC 20003",2760,3,2,960,SF,18th St Se,Washington,DC,20003
+785390,"13th St Ne, Washington, DC 20017",2330,3,2,1435,SF,13th St Ne,Washington,DC,20017
+154615,"Palisades Way, Rock Springs, WY 82901",1220,3,1,1128,SF,Palisades Way,Rock Springs,WY,82901
+309505,"U Pl Se, Washington, DC 20020",1580,3,1,1080,Townhome,U Pl Se,Washington,DC,20020
+702596,"4th St Nw, Washington, DC 20011",2540,3,1,1488,Townhome,4th St Nw,Washington,DC,20011
+470903,"31st St Se, Washington, DC 20019",1850,3,1,1166,SF,31st St Se,Washington,DC,20019
+736189,"Kennedy St Nw, Washington, DC 20011",2710,4,1,1520,Townhome,Kennedy St Nw,Washington,DC,20011
+211565,"Georgia Way, Green River, WY 82935",1211,3,2,1255,SF,Georgia Way,Green River,WY,82935
+633600,"13th St Ne, Washington, DC 20017",2240,3,1,1628,SF,13th St Ne,Washington,DC,20017
+93330,"Rugby St, Rock Springs, WY 82901",860,2,1,1084,SF,Rugby St,Rock Springs,WY,82901
+801900,"Hamilton St Nw, Washington, DC 20011",3260,4,2.5,2999,SF,Hamilton St Nw,Washington,DC,20011
+366000,"Ames St Ne, Washington, DC 20019",1398,2,2,1211,MF,Ames St Ne,Washington,DC,20019
+54068,"Jane Ct, Gillette, WY 82718",980,3,2,1152,SF,Jane Ct,Gillette,WY,82718
+764699,"Illinois Ave Nw, Washington, DC 20011",2760,4,2,1680,SF,Illinois Ave Nw,Washington,DC,20011
+158015,"Hay St, Rock Springs, WY 82901",1271,3,1,1262,SF,Hay St,Rock Springs,WY,82901
+675045,"Galloway St Ne, Washington, DC 20017",2470,4,2,1444,SF,Galloway St Ne,Washington,DC,20017
+304004,"Newcomb St Se, Washington, DC 20032",1780,2,1.5,1232,SF,Newcomb St Se,Washington,DC,20032
+213705,"Ash Meadows Dr, Gillette, WY 82716",1121,3,2,1511,MH,Ash Meadows Dr,Gillette,WY,82716
+152065,"Elk St, Rock Springs, WY 82901",1102,3,2,1830,SF,Elk St,Rock Springs,WY,82901
+147815,"E 7th St, Sheridan, WY 82801",810,1,1,576,SF,E 7th St,Sheridan,WY,82801
+845633,"Lamont St Nw, Washington, DC 20010",2960,6,3,2718,SF,Lamont St Nw,Washington,DC,20010
+285779,"Elmira St Sw, Washington, DC 20032",2040,2,1.5,928,SF,Elmira St Sw,Washington,DC,20032
+116000,"Custer Ave, Casper, WY 82604",810,2,1,904,SF,Custer Ave,Casper,WY,82604
+421400,"Reynolds St, Laramie, WY 82072",1440,5,3.5,4044,SF,Reynolds St,Laramie,WY,82072
+393680,"Circle Dr, Afton, WY 83110",1072,4,2,1248,SF,Circle Dr,Afton,WY,83110
+873626,"9th St Nw, Washington, DC 20012",3140,3,1.5,1576,SF,9th St Nw,Washington,DC,20012
+116450,"Ludvig St, Rock Springs, WY 82901",1080,2,1,832,SF,Ludvig St,Rock Springs,WY,82901
+280160,"Sumner St, Sheridan, WY 82801",1090,3,2,1324,SF,Sumner St,Sheridan,WY,82801
+484054,"Chillum Pl Ne, Washington, DC 20011",1880,2,2,864,SF,Chillum Pl Ne,Washington,DC,20011
+392219,"Kingsbury Dr, Casper, WY 82609",1490,4,2,2563,SF,Kingsbury Dr,Casper,WY,82609
+500330,"30th St Ne, Washington, DC 20018",2360,3,3,1664,SF,30th St Ne,Washington,DC,20018
+653653,"Keefer Pl Nw, Washington, DC 20010",2630,3,2,1236,Townhome,Keefer Pl Nw,Washington,DC,20010
+346500,"Talbert Ter Se, Washington, DC 20020",1580,4,1,1560,Townhome,Talbert Ter Se,Washington,DC,20020
+1098200,"Eagle Ridge Dr, Sheridan, WY 82801",2370,5,6,3084,SF,Eagle Ridge Dr,Sheridan,WY,82801
+836381,"G St Ne, Washington, DC 20002",2710,3,3,1412,SF,G St Ne,Washington,DC,20002
+451000,"Webster St Ne, Washington, DC 20011",1980,4,2,1152,MF,Webster St Ne,Washington,DC,20011
+192127,"W St Se Apt 302, Washington, DC 20020",1470,2,1,644,CONDO,W St Se Apt 302,Washington,DC,20020
+264895,"Garden Cir, Gillette, WY 82716",1321,4,3,1454,SF,Garden Cir,Gillette,WY,82716
+1973040,"16th St Nw, Washington, DC 20012",4400,5,6,3692,SF,16th St Nw,Washington,DC,20012
+263802,"Maple Ln, Riverton, WY 82501",960,2,1,858,SF,Maple Ln,Riverton,WY,82501
+440253,"Girard St Ne, Washington, DC 20017",2390,3,1,1270,SF,Girard St Ne,Washington,DC,20017
+766994,"Alaska Ave Nw, Washington, DC 20012",3140,3,2.5,1768,SF,Alaska Ave Nw,Washington,DC,20012
+349491,"Good Hope Rd Se, Washington, DC 20020",1580,3,1,1080,SF,Good Hope Rd Se,Washington,DC,20020
+693020,"D St Ne, Washington, DC 20002",1750,4,2.5,1156,SF,D St Ne,Washington,DC,20002
+567680,"7th St Nw, Washington, DC 20011",2500,3,1,1080,SF,7th St Nw,Washington,DC,20011
+584245,"Somerset Pl Nw, Washington, DC 20011",2240,3,1,1084,SF,Somerset Pl Nw,Washington,DC,20011
+280140,"Brandner Cir, Green River, WY 82935",1590,3,3,3068,SF,Brandner Cir,Green River,WY,82935
+499700,"N Capitol St Ne, Washington, DC 20011",2360,3,2,1216,SF,N Capitol St Ne,Washington,DC,20011
+490800,"Jackson St Ne, Washington, DC 20018",2640,3,2,1346,SF,Jackson St Ne,Washington,DC,20018
+851735,"Bryant St Nw, Washington, DC 20001",2780,4,3,2224,Townhome,Bryant St Nw,Washington,DC,20001
+401445,"6th St Se, Washington, DC 20032",1420,3,2,1224,Townhome,6th St Se,Washington,DC,20032
+395000,"17th St Nw Apt 504, Washington, DC 20009",,1,1,800,Co-Op,17th St Nw Apt 504,Washington,DC,20009
+755134,"Allison St Ne, Washington, DC 20017",2320,4,3.5,1706,SF,Allison St Ne,Washington,DC,20017
+200260,"Locust St, Rock Springs, WY 82901",1201,3,2,1456,SF,Locust St,Rock Springs,WY,82901
+320512,"Schiller St, Sheridan, WY 82801",1810,5,2,1036,SF,Schiller St,Sheridan,WY,82801
+171445,"W Whitney St, Sheridan, WY 82801",930,3,2,1445,SF,W Whitney St,Sheridan,WY,82801
+387000,"Forrester St Sw, Washington, DC 20032",1720,4,4,2800,MF,Forrester St Sw,Washington,DC,20032
+80081,"Tarry St, Gillette, WY 82718",1121,4,2,1680,SF,Tarry St,Gillette,WY,82718
+83045,"5th Ave W, Rock Springs, WY 82901",830,1,1,688,SF,5th Ave W,Rock Springs,WY,82901
+193466,"Truman St, Rock Springs, WY 82901",1211,3,2,1209,SF,Truman St,Rock Springs,WY,82901
+148495,"E Burkitt St, Sheridan, WY 82801",881,2,1,864,CONDO,E Burkitt St,Sheridan,WY,82801
+351025,"Savannah Pl Se, Washington, DC 20020",1960,2,1,850,SF,Savannah Pl Se,Washington,DC,20020
+236012,"56th Pl Ne, Washington, DC 20019",1790,3,2,634,SF,56th Pl Ne,Washington,DC,20019
+406915,"Chesapeake St Se, Washington, DC 20032",1850,3,2,1122,SF,Chesapeake St Se,Washington,DC,20032
+270960,"Fairview Ave, Casper, WY 82609",1251,2,2,1292,SF,Fairview Ave,Casper,WY,82609
+207712,"E Laurel St, Gillette, WY 82718",1102,4,2,912,SF,E Laurel St,Gillette,WY,82718
+100130,"Mccarty Ave, Rock Springs, WY 82901",973,1,2,1566,SF,Mccarty Ave,Rock Springs,WY,82901
+479180,"D St Se, Washington, DC 20019",1388,3,2.5,2310,SF,D St Se,Washington,DC,20019
+594000,"Suitland Rd Se, Washington, DC 20020",2190,3,2.5,2192,SF,Suitland Rd Se,Washington,DC,20020
+636000,"T St Nw, Washington, DC 20001",2860,4,2,1985,MF,T St Nw,Washington,DC,20001
+437337,"Underwood St Nw, Washington, DC 20012",2060,2,1,832,SF,Underwood St Nw,Washington,DC,20012
+361000,"Dartford Ct, Casper, WY 82609",1251,3,2,1178,SF,Dartford Ct,Casper,WY,82609
+398800,"Mill St, Laramie, WY 82072",1398,6,3,3190,SF,Mill St,Laramie,WY,82072
+158424,"Mountain Rd, Rock Springs, WY 82901",1110,3,3,1232,SF,Mountain Rd,Rock Springs,WY,82901
+251212,"E Teton Blvd, Green River, WY 82935",1160,2,2,1170,SF,E Teton Blvd,Green River,WY,82935
+727000,"Douglas St Ne, Washington, DC 20018",2640,5,3,1729,MF,Douglas St Ne,Washington,DC,20018
+348084,"C St Se, Washington, DC 20019",1900,2,2,1172,SF,C St Se,Washington,DC,20019
+210630,"Cook Dr, Rock Springs, WY 82901",1400,3,2,2232,SF,Cook Dr,Rock Springs,WY,82901
+219900,"Cedar St, Douglas, WY 82633",1291,4,1,2304,SF,Cedar St,Douglas,WY,82633
+259338,"Minnesota Ave Ne, Washington, DC 20019",1790,3,1,918,SF,Minnesota Ave Ne,Washington,DC,20019
+321000,"18th St Se, Washington, DC 20020",1740,4,4,3200,MF,18th St Se,Washington,DC,20020
+442208,"Blaine St Ne, Washington, DC 20019",1420,3,2,960,Townhome,Blaine St Ne,Washington,DC,20019
+247277,"Ridgecrest Dr, Casper, WY 82604",1201,3,3,1144,SF,Ridgecrest Dr,Casper,WY,82604
+470400,"Ayers Pl Se, Washington, DC 20019",1760,3,2,1344,SF,Ayers Pl Se,Washington,DC,20019
+336463,"35th St Ne, Washington, DC 20019",1420,2,1,832,Townhome,35th St Ne,Washington,DC,20019
+120785,"Elk St, Rock Springs, WY 82901",860,2,1,1161,SF,Elk St,Rock Springs,WY,82901
+286140,"Edson Pl Ne, Washington, DC 20019",1720,4,1.5,1315,SF,Edson Pl Ne,Washington,DC,20019
+279565,"Cottonwood Dr, Laramie, WY 82070",1261,3,1,1305,SF,Cottonwood Dr,Laramie,WY,82070
+418169,"33rd St Ne, Washington, DC 20019",1420,2,1.5,832,SF,33rd St Ne,Washington,DC,20019
+277000,"Halley Pl Se, Washington, DC 20032",1530,4,4,2442,MF,Halley Pl Se,Washington,DC,20032
+429531,"Anacostia Ave Ne, Washington, DC 20019",1920,3,2,1060,SF,Anacostia Ave Ne,Washington,DC,20019
+422625,"Banks Pl Ne, Washington, DC 20019",1790,2,2,800,SF,Banks Pl Ne,Washington,DC,20019
+285000,"51st St Ne, Washington, DC 20019",1710,6,3,2223,MF,51st St Ne,Washington,DC,20019
+628296,"Eastern Ave Ne, Washington, DC 20017",2640,3,2,1400,SF,Eastern Ave Ne,Washington,DC,20017
+852300,"12th St Nw, Washington, DC 20012",3140,3,3,1638,SF,12th St Nw,Washington,DC,20012
+171190,"Converse Ct, Rock Springs, WY 82901",1102,3,1,1152,SF,Converse Ct,Rock Springs,WY,82901
+142970,"Carbon St, Rock Springs, WY 82901",1181,3,2,792,SF,Carbon St,Rock Springs,WY,82901
+338282,"Garfield Ln, Rock Springs, WY 82901",1311,3,3,1764,SF,Garfield Ln,Rock Springs,WY,82901
+471437,"T St Se, Washington, DC 20020",1580,3,1.5,1080,SF,T St Se,Washington,DC,20020
+1375500,"9th St Nw, Washington, DC 20012",3140,3,3,1518,SF,9th St Nw,Washington,DC,20012
+291272,"Jay St Ne, Washington, DC 20019",1620,2,1,776,SF,Jay St Ne,Washington,DC,20019
+385769,"E 13th St, Cheyenne, WY 82001",1131,3,2,1264,SF,E 13th St,Cheyenne,WY,82001
+246075,"State Highway 239, Freedom, WY 83120",1271,2,1,1596,SF,State Highway 239,Freedom,WY,83120
+556938,"Sargent Rd Ne, Washington, DC 20017",2620,3,2.5,1360,SF,Sargent Rd Ne,Washington,DC,20017
+169463,"Kane Pl Ne, Washington, DC 20019",1680,1,1,392,SF,Kane Pl Ne,Washington,DC,20019
+442208,"Blaine St Ne, Washington, DC 20019",1420,3,1.5,960,SF,Blaine St Ne,Washington,DC,20019
+1138500,"Kenyon St Nw, Washington, DC 20010",3360,6,3,3456,SF,Kenyon St Nw,Washington,DC,20010
+125000,"E L St, Casper, WY 82601",1010,3,1,976,SF,E L St,Casper,WY,82601
+306947,"Blaine St Ne, Washington, DC 20019",1790,3,2,1188,SF,Blaine St Ne,Washington,DC,20019
+326700,"Cathedral Ave Nw Apt 404w, Washington, DC 20016",1970,1,1,803,CONDO,Cathedral Ave Nw Apt 404w,Washington,DC,20016
+394525,"Dexter Ter Se, Washington, DC 20020",1570,2,1,900,Townhome,Dexter Ter Se,Washington,DC,20020
+115175,"Lowell Ave, Rock Springs, WY 82901",860,3,1,1310,SF,Lowell Ave,Rock Springs,WY,82901
+120000,"E Pine St, Rawlins, WY 82301",1121,2,1.5,2501,SF,E Pine St,Rawlins,WY,82301
+708000,"Adams St Nw, Washington, DC 20001",2670,4,2,1470,MF,Adams St Nw,Washington,DC,20001
+141810,"Dewar Dr, Rock Springs, WY 82901",1102,2,2,1545,SF,Dewar Dr,Rock Springs,WY,82901
+387087,"13th St Nw Apt 414, Washington, DC 20005",2080,1,1,637,CONDO,13th St Nw Apt 414,Washington,DC,20005
+1273091,"Kalmia Rd Nw, Washington, DC 20012",3960,4,3.5,1920,SF,Kalmia Rd Nw,Washington,DC,20012
+166560,"Benning Rd Se Apt 202, Washington, DC 20019",1388,1,1,609,CONDO,Benning Rd Se Apt 202,Washington,DC,20019
+267932,"Sequoia Dr, Gillette, WY 82718",1171,5,2,1104,SF,Sequoia Dr,Gillette,WY,82718
+159993,"Jackson St, Rock Springs, WY 82901",1141,3,1,1536,SF,Jackson St,Rock Springs,WY,82901
+100215,"7th St, Rock Springs, WY 82901",860,2,1,864,SF,7th St,Rock Springs,WY,82901
+282150,"Skyline Dr, Douglas, WY 82633",1100,3,2,1799,SF,Skyline Dr,Douglas,WY,82633
+308160,"Lenfant Sq Se, Washington, DC 20020",1590,3,1.5,1360,SF,Lenfant Sq Se,Washington,DC,20020
+1574900,"19th St Nw, Washington, DC 20036",4960,8,6,2515,SF,19th St Nw,Washington,DC,20036
+1179280,"Warren St Nw, Washington, DC 20016",11554,3,2,1843,SF,Warren St Nw,Washington,DC,20016
+438826,"Danbury St Sw, Washington, DC 20032",1490,3,4,1152,Townhome,Danbury St Sw,Washington,DC,20032
+270001,"Cathedral Ave Nw # 23, Washington, DC 20016",1670,1,1,753,CONDO,Cathedral Ave Nw # 23,Washington,DC,20016
+261235,"W Main St, Riverton, WY 82501",1102,3,1,1152,SF,W Main St,Riverton,WY,82501
+347000,"42nd St Ne, Washington, DC 20019",1301,2,2,1120,MF,42nd St Ne,Washington,DC,20019
+287910,"Connecticut Ave Nw Apt..., Washington, DC 20008",1880,1,1,761,CONDO,Connecticut Ave Nw Apt...,Washington,DC,20008
+409860,"Southern Ave Se, Washington, DC 20019",1900,3,1,1024,Townhome,Southern Ave Se,Washington,DC,20019
+445401,"Barnaby St Se, Washington, DC 20032",1400,4,2.5,2092,SF,Barnaby St Se,Washington,DC,20032
+257380,"Allred Rd, Afton, WY 83110",1191,3,3,1440,MH,Allred Rd,Afton,WY,83110
+377214,"52nd St Ne, Washington, DC 20019",1790,2,1,810,SF,52nd St Ne,Washington,DC,20019
+191250,"E Kearney St, Laramie, WY 82070",710,1,1,692,SF,E Kearney St,Laramie,WY,82070
+451180,"Lancaster Ln, Afton, WY 83110",1281,2,2,2135,SF,Lancaster Ln,Afton,WY,83110
+414377,"Alabama Ave Se, Washington, DC 20020",2070,3,1,1164,SF,Alabama Ave Se,Washington,DC,20020
+881837,"New Hampshire Ave Nw, Washington, DC 20011",3010,4,4,2287,SF,New Hampshire Ave Nw,Washington,DC,20011
+138465,"Beaufort St Spc 85, Laramie, WY 82072",1001,3,2,1380,MH,Beaufort St Spc 85,Laramie,WY,82072
+760027,"17th St Ne, Washington, DC 20018",2680,3,2.5,1440,SF,17th St Ne,Washington,DC,20018
+69275,"N Front St, Rock Springs, WY 82901",860,2,1,616,SF,N Front St,Rock Springs,WY,82901
+269745,"E Teton Blvd, Green River, WY 82935",1311,5,3,2360,SF,E Teton Blvd,Green River,WY,82935
+1004670,"29th St Se, Washington, DC 20020",1680,4,4,2640,MF,29th St Se,Washington,DC,20020
+701824,"I St Ne, Washington, DC 20002",2320,3,1.5,1310,SF,I St Ne,Washington,DC,20002
+556937,"Ord St Ne, Washington, DC 20019",1920,4,2.5,2888,SF,Ord St Ne,Washington,DC,20019
+489000,"17th Pl Se, Washington, DC 20020",1740,4,4,2720,MF,17th Pl Se,Washington,DC,20020
+299338,"Cherry Ln, Gillette, WY 82716",1321,4,2,1608,SF,Cherry Ln,Gillette,WY,82716
+477991,"15th St Ne, Washington, DC 20018",2150,3,1,1160,SF,15th St Ne,Washington,DC,20018
+827025,"Delafield Pl Nw, Washington, DC 20011",2950,4,2,1743,SF,Delafield Pl Nw,Washington,DC,20011
+653400,"Kansas Ave Nw, Washington, DC 20011",2360,3,2,1152,Townhome,Kansas Ave Nw,Washington,DC,20011
+159375,"Connecticut Ave, Rock Springs, WY 82901",1271,2,2,1920,SF,Connecticut Ave,Rock Springs,WY,82901
+875835,"Duncan St Ne, Washington, DC 20002",2670,3,1,1472,SF,Duncan St Ne,Washington,DC,20002
+728709,"F St Ne, Washington, DC 20002",2660,3,2,1312,Townhome,F St Ne,Washington,DC,20002
+272109,"Irving St Se, Washington, DC 20020",1700,2,1,602,SF,Irving St Se,Washington,DC,20020
+455994,"Oglethorpe St Ne, Washington, DC 20011",2250,3,1.5,1123,SF,Oglethorpe St Ne,Washington,DC,20011
+335699,"Mandan Trl, Bar Nunn, WY 82601",1110,4,2.5,1152,SF,Mandan Trl,Bar Nunn,WY,82601
+416000,"State Highway 789, Lander, WY 82520",1100,4,2,2464,SF,State Highway 789,Lander,WY,82520
+317917,"W Works St, Sheridan, WY 82801",1281,4,2,1208,SF,W Works St,Sheridan,WY,82801
+944358,"25th St Nw # 502, Washington, DC 20037",2970,2,3,1881,CONDO,25th St Nw # 502,Washington,DC,20037
+221357,"New Hampshire Ave Nw A..., Washington, DC 20009",1840,1,1,336,CONDO,New Hampshire Ave Nw A...,Washington,DC,20009
+607024,"Channing St Ne, Washington, DC 20018",2480,3,2,1650,SF,Channing St Ne,Washington,DC,20018
+814227,"16th St Se, Washington, DC 20003",2720,3,1,960,SF,16th St Se,Washington,DC,20003
+186725,"Windsor Pl, Casper, WY 82604",1201,3,1,1008,SF,Windsor Pl,Casper,WY,82604
+97926,"Call Pl Se Apt 303, Washington, DC 20019",1388,1,1,704,CONDO,Call Pl Se Apt 303,Washington,DC,20019
+969518,"Kentucky Ave Se, Washington, DC 20003",2850,3,2,1224,Townhome,Kentucky Ave Se,Washington,DC,20003
+582258,"Evarts St Ne, Washington, DC 20017",1730,4,2,1300,Townhome,Evarts St Ne,Washington,DC,20017
+342975,"Spackman Ln, Afton, WY 83110",1281,3,2,2562,SF,Spackman Ln,Afton,WY,83110
+499259,"9th St Nw, Washington, DC 20011",2300,4,2,1116,Townhome,9th St Nw,Washington,DC,20011
+408717,"Eads St Ne, Washington, DC 20019",1420,3,1,1040,Townhome,Eads St Ne,Washington,DC,20019
+741148,"11th St Nw, Washington, DC 20001",2740,3,1,1698,Townhome,11th St Nw,Washington,DC,20001
+448965,"Hanna Pl Se, Washington, DC 20019",1420,2,1,896,Townhome,Hanna Pl Se,Washington,DC,20019
+696308,"18th St Ne, Washington, DC 20002",1750,3,2,1368,SF,18th St Ne,Washington,DC,20002
+161245,"Valley View Dr, Rock Springs, WY 82901",1230,3,2,1522,MH,Valley View Dr,Rock Springs,WY,82901
+220745,"Gladstone St, Sheridan, WY 82801",1281,4,2,2272,SF,Gladstone St,Sheridan,WY,82801
+185286,"E Lyons St, Laramie, WY 82072",1001,3,1,900,SF,E Lyons St,Laramie,WY,82072
+210600,"Koven Dr, Rock Springs, WY 82901",1102,3,3,1520,SF,Koven Dr,Rock Springs,WY,82901
+109480,"M St, Rock Springs, WY 82901",1102,3,2,1003,SF,M St,Rock Springs,WY,82901
+1097272,"12th St Nw, Washington, DC 20012",3560,5,2.5,2163,SF,12th St Nw,Washington,DC,20012
+152134,"Fillmore Ave, Rock Springs, WY 82901",1121,3,2,1078,Townhome,Fillmore Ave,Rock Springs,WY,82901
+516382,"Woodcrest Dr Se, Washington, DC 20032",1390,3,3,1496,Townhome,Woodcrest Dr Se,Washington,DC,20032
+323154,"Martin Luther King Jr ..., Washington, DC 20032",2040,2,1,1450,SF,Martin Luther King Jr ...,Washington,DC,20032
+496347,"Oneida St Ne, Washington, DC 20011",2260,3,1,1152,SF,Oneida St Ne,Washington,DC,20011
+1626373,"Asbury Pl Nw, Washington, DC 20016",43904,4,3,1813,SF,Asbury Pl Nw,Washington,DC,20016
+300091,"Texas Ave Se, Washington, DC 20019",1530,2,1,832,Townhome,Texas Ave Se,Washington,DC,20019
+411840,"Blakney Ln Se, Washington, DC 20032",1398,3,2.5,1080,Townhome,Blakney Ln Se,Washington,DC,20032
+364228,"P St Se, Washington, DC 20020",1580,2,1,1216,SF,P St Se,Washington,DC,20020
+81855,"7th St, Rock Springs, WY 82901",860,2,2,1352,SF,7th St,Rock Springs,WY,82901
+149770,"State Highway 241, Afton, WY 83110",850,2,1,908,SF,State Highway 241,Afton,WY,83110
+545000,"C St Ne, Washington, DC 20002",2400,3,1,1224,SF,C St Ne,Washington,DC,20002
+445569,"48th St Ne, Washington, DC 20019",1790,3,2,1509,SF,48th St Ne,Washington,DC,20019
+473969,"E St Nw Apt 1022, Washington, DC 20004",2140,1,1,822,CONDO,E St Nw Apt 1022,Washington,DC,20004
+345596,"Barnaby Ter Se, Washington, DC 20032",1408,3,2,1134,Townhome,Barnaby Ter Se,Washington,DC,20032
+167559,"E 8th St, Gillette, WY 82716",890,2,2,1480,SF,E 8th St,Gillette,WY,82716
+492001,"P St Nw, Washington, DC 20036",3470,4,4,3202,MF,P St Nw,Washington,DC,20036
+469030,"Us Highway 87, Sheridan, WY 82801",1380,3,2,1761,SF,Us Highway 87,Sheridan,WY,82801
+315556,"W Odell Ave, Casper, WY 82604",1080,2,2,2126,SF,W Odell Ave,Casper,WY,82604
+322910,"Downing Pl Ne Apt 1, Washington, DC 20018",,2,1,606,CONDO,Downing Pl Ne Apt 1,Washington,DC,20018
+1142336,"Corcoran St Nw # 1, Washington, DC 20009",3050,2,3,1771,CONDO,Corcoran St Nw # 1,Washington,DC,20009
+871199,"9th St Nw, Washington, DC 20012",3140,3,3,1518,SF,9th St Nw,Washington,DC,20012
+537280,"Evarts St Ne, Washington, DC 20018",2510,3,1,1340,SF,Evarts St Ne,Washington,DC,20018
+733096,"Illinois Ave Nw, Washington, DC 20011",2740,3,4,1856,Townhome,Illinois Ave Nw,Washington,DC,20011
+593528,"16th St Nw Apt 305, Washington, DC 20009",2610,2,1.5,1158,CONDO,16th St Nw Apt 305,Washington,DC,20009
+672871,"21st St Ne, Washington, DC 20002",1800,3,1.5,1330,SF,21st St Ne,Washington,DC,20002
+442654,"Tuckerman St Nw, Washington, DC 20011",2440,3,1.5,1088,SF,Tuckerman St Nw,Washington,DC,20011
+527000,"Peabody St Nw, Washington, DC 20011",3260,8,4,3180,MF,Peabody St Nw,Washington,DC,20011
+98175,"5th Ave W, Rock Springs, WY 82901",900,2,1,808,SF,5th Ave W,Rock Springs,WY,82901
+968403,"Rock Creek Church Rd Nw, Washington, DC 20010",3030,6,3,2463,SF,Rock Creek Church Rd Nw,Washington,DC,20010
+826943,"Emerald St Ne, Washington, DC 20002",2660,3,2,1324,Townhome,Emerald St Ne,Washington,DC,20002
+235531,"Daylight Ct, Gillette, WY 82718",1100,3,2,1904,SF,Daylight Ct,Gillette,WY,82718
+726841,"Pennsylvania Ave Se, Washington, DC 20003",2520,3,1,1192,Townhome,Pennsylvania Ave Se,Washington,DC,20003
+810530,"Shepherd St Nw, Washington, DC 20011",2790,5,2.5,2112,Townhome,Shepherd St Nw,Washington,DC,20011
+217364,"Sherman St, Rock Springs, WY 82901",1072,2,1,1782,SF,Sherman St,Rock Springs,WY,82901
+681614,"17th Pl Ne, Washington, DC 20018",2680,3,1.5,1200,SF,17th Pl Ne,Washington,DC,20018
+364002,"Daly Rd, Gillette, WY 82716",1321,4,3,2280,SF,Daly Rd,Gillette,WY,82716
+141355,"Skinner St, Sheridan, WY 82801",790,1,1,525,SF,Skinner St,Sheridan,WY,82801
+414000,"Newcomb St Se, Washington, DC 20032",1780,8,4,2880,MF,Newcomb St Se,Washington,DC,20032
+542317,"33rd St Se, Washington, DC 20020",2120,3,2,1284,SF,33rd St Se,Washington,DC,20020
+362941,"Fort Davis Pl Se, Washington, DC 20020",1550,3,1.5,1024,Townhome,Fort Davis Pl Se,Washington,DC,20020
+1373322,"Upland Ter Nw, Washington, DC 20015",4360,3,3,1854,SF,Upland Ter Nw,Washington,DC,20015
+913967,"43rd Pl Nw, Washington, DC 20016",3010,2,1,1008,SF,43rd Pl Nw,Washington,DC,20016
+642000,"Warner St Nw, Washington, DC 20001",2910,3,2,1279,MF,Warner St Nw,Washington,DC,20001
+335636,"Branch Ave Se, Washington, DC 20019",2040,3,1,992,SF,Branch Ave Se,Washington,DC,20019
+1007781,"28th St Nw, Washington, DC 20007",3120,2,1,844,Townhome,28th St Nw,Washington,DC,20007
+419637,"Southern Ave Se, Washington, DC 20019",1880,3,1,1492,SF,Southern Ave Se,Washington,DC,20019
+393775,"49th Pl Ne, Washington, DC 20019",1620,2,1,936,SF,49th Pl Ne,Washington,DC,20019
+337877,"49th St Ne, Washington, DC 20019",1790,2,1,962,SF,49th St Ne,Washington,DC,20019
+470012,"Ely Pl Se, Washington, DC 20019",1920,3,2,1128,SF,Ely Pl Se,Washington,DC,20019
+406187,"Irving St Se, Washington, DC 20020",2070,3,1,1200,SF,Irving St Se,Washington,DC,20020
+190910,"W Teton Blvd, Green River, WY 82935",1211,3,1,1224,SF,W Teton Blvd,Green River,WY,82935
+168980,"Emerson St, Sheridan, WY 82801",900,3,2,1268,SF,Emerson St,Sheridan,WY,82801
+821797,"Champlain St Nw, Washington, DC 20009",2850,3,2,1624,Townhome,Champlain St Nw,Washington,DC,20009
+2054400,"Mckinley St Nw, Washington, DC 20015",43914,3,2.5,1894,SF,Mckinley St Nw,Washington,DC,20015
+239445,"Bowles Ln, Afton, WY 83110",1220,3,2,1776,SF,Bowles Ln,Afton,WY,83110
+219895,"Locust St, Rock Springs, WY 82901",1400,3,2,1624,MH,Locust St,Rock Springs,WY,82901
+74375,"6th St, Rock Springs, WY 82901",630,1,1,624,SF,6th St,Rock Springs,WY,82901
+282000,"Beaumont Dr, Casper, WY 82601",1171,3,2,1974,SF,Beaumont Dr,Casper,WY,82601
+286377,"Sprucewood Dr, Rock Springs, WY 82901",2240,3,3,2324,SF,Sprucewood Dr,Rock Springs,WY,82901
+591934,"Jefferson St Ne, Washington, DC 20011",2250,3,1.5,1156,SF,Jefferson St Ne,Washington,DC,20011
+146585,"N Railroad St, Laramie, WY 82072",890,2,1,708,SF,N Railroad St,Laramie,WY,82072
+707642,"14th Pl Ne, Washington, DC 20002",2650,3,1.5,1188,Townhome,14th Pl Ne,Washington,DC,20002
+435924,"Jay St Ne, Washington, DC 20019",1790,3,1.5,1632,SF,Jay St Ne,Washington,DC,20019
+429272,"13th St Ne, Washington, DC 20017",2520,4,2,1316,SF,13th St Ne,Washington,DC,20017
+216358,"S Cottonwood St, Casper, WY 82604",850,2,1.5,899,SF,S Cottonwood St,Casper,WY,82604
+135683,"N 5th St, Douglas, WY 82633",952,2,2,971,SF,N 5th St,Douglas,WY,82633
+259900,"Cathedral Ave Nw Apt 108, Washington, DC 20016",1770,1,1,765,CONDO,Cathedral Ave Nw Apt 108,Washington,DC,20016
+179585,"Oakwood St Se Apt B5, Washington, DC 20032",1230,1,1,628,CONDO,Oakwood St Se Apt B5,Washington,DC,20032
+565725,"Queens Stroll Pl Se, Washington, DC 20019",1760,4,4,2890,SF,Queens Stroll Pl Se,Washington,DC,20019
+926000,"T St Nw, Washington, DC 20001",2920,4,5,2035,MF,T St Nw,Washington,DC,20001
+392607,"Dix St Ne, Washington, DC 20019",1790,3,1,928,SF,Dix St Ne,Washington,DC,20019
+402413,"Ridgecrest Dr, Casper, WY 82604",1460,3,2,2152,SF,Ridgecrest Dr,Casper,WY,82604
+189315,"Lake Hattie Rd, Laramie, WY 82070",950,2,1,1377,SF,Lake Hattie Rd,Laramie,WY,82070
+198013,"E Gibbon St, Laramie, WY 82072",1001,3,1,1344,SF,E Gibbon St,Laramie,WY,82072
+688685,"Half St Sw, Washington, DC 20024",2560,2,2,1280,SF,Half St Sw,Washington,DC,20024
+403067,"Austin St Se, Washington, DC 20020",2090,4,1,1108,SF,Austin St Se,Washington,DC,20020
+321750,"Jay St Ne, Washington, DC 20019",1640,4,1,948,SF,Jay St Ne,Washington,DC,20019
+259409,"Eads Pl Ne, Washington, DC 20019",1301,2,1,768,SF,Eads Pl Ne,Washington,DC,20019
+381052,"36th St Ne, Washington, DC 20019",1510,3,1,992,Townhome,36th St Ne,Washington,DC,20019
+99397,"4th Ave W, Rock Springs, WY 82901",973,2,1,952,SF,4th Ave W,Rock Springs,WY,82901
+700582,"Underwood St Nw, Washington, DC 20012",2300,3,2,1471,SF,Underwood St Nw,Washington,DC,20012
+616028,"Upshur St Ne, Washington, DC 20018",2550,3,3,1344,SF,Upshur St Ne,Washington,DC,20018
+616910,"8th St Ne, Washington, DC 20017",2070,3,2,1188,Townhome,8th St Ne,Washington,DC,20017
+307384,"Eads St Ne, Washington, DC 20019",1720,3,1.5,787,SF,Eads St Ne,Washington,DC,20019
+99900,"Goldenrod Ave, Gillette, WY 82716",1092,3,2,1298,SF,Goldenrod Ave,Gillette,WY,82716
+155800,"Linden Cir, Gillette, WY 82718",760,2,1,1036,MF,Linden Cir,Gillette,WY,82718
+636000,"Skyland Pl Se, Washington, DC 20020",2100,4,3,1594,SF,Skyland Pl Se,Washington,DC,20020
+365000,"Brooks St Ne, Washington, DC 20019",1301,2,2,1440,MF,Brooks St Ne,Washington,DC,20019
+1930500,"52nd St Nw, Washington, DC 20016",6360,4,4,4076,SF,52nd St Nw,Washington,DC,20016
+245280,"Wisconsin Ave Nw Apt 614, Washington, DC 20007",1760,1,1,439,CONDO,Wisconsin Ave Nw Apt 614,Washington,DC,20007
+569342,"Varnum St Ne, Washington, DC 20017",2500,2,3,1320,SF,Varnum St Ne,Washington,DC,20017
+1200677,"Sycamore St Nw, Washington, DC 20012",3800,3,4,2263,SF,Sycamore St Nw,Washington,DC,20012
+199750,"Logan St, Green River, WY 82935",1010,1,2,1703,SF,Logan St,Green River,WY,82935
+412335,"Barnaby Ter Se, Washington, DC 20032",1400,3,1.5,1134,SF,Barnaby Ter Se,Washington,DC,20032
+305684,"Fort Dupont St Se, Washington, DC 20020",1550,2,1,832,SF,Fort Dupont St Se,Washington,DC,20020
+605795,"N 30th St, Laramie, WY 82072",1850,7,5,7526,SF,N 30th St,Laramie,WY,82072
+109470,"Eastern Ave Ne Apt 10, Washington, DC 20019",1271,1,1,555,CONDO,Eastern Ave Ne Apt 10,Washington,DC,20019
+613994,"Kennedy St Ne, Washington, DC 20011",2290,3,1.5,1088,SF,Kennedy St Ne,Washington,DC,20011
+87358,"Grandview Cir, Gillette, WY 82716",1201,4,2,1292,SF,Grandview Cir,Gillette,WY,82716
+223125,"S 5th St, Laramie, WY 82070",1090,2,1,1065,SF,S 5th St,Laramie,WY,82070
+470259,"46th St Se, Washington, DC 20019",1880,3,2,1232,SF,46th St Se,Washington,DC,20019
+639159,"17th Pl Ne, Washington, DC 20002",1760,2,2,1398,Townhome,17th Pl Ne,Washington,DC,20002
+803404,"7th St Ne, Washington, DC 20002",2350,3,1,1200,Townhome,7th St Ne,Washington,DC,20002
+818848,"D St Ne, Washington, DC 20002",2660,3,1,1054,Townhome,D St Ne,Washington,DC,20002
+503001,"21st St Ne, Washington, DC 20002",2430,5,4,2720,MF,21st St Ne,Washington,DC,20002
+77860,"K St, Rock Springs, WY 82901",860,2,1,2744,MF,K St,Rock Springs,WY,82901
+138040,"Dana Ave, Sheridan, WY 82801",900,3,2,864,CONDO,Dana Ave,Sheridan,WY,82801
+1264086,"16th St Nw, Washington, DC 20011",3740,4,3.5,3078,SF,16th St Nw,Washington,DC,20011
+693020,"D St Ne, Washington, DC 20002",1750,4,3,1156,Townhome,D St Ne,Washington,DC,20002
+115345,"Booker St, Rock Springs, WY 82901",1520,4,1,1478,SF,Booker St,Rock Springs,WY,82901
+371000,"28th St Se, Washington, DC 20020",1780,5,2,810,MF,28th St Se,Washington,DC,20020
+408171,"P St Se, Washington, DC 20020",2120,3,3,1250,SF,P St Se,Washington,DC,20020
+394293,"41st St Se, Washington, DC 20020",2060,3,1.5,1160,SF,41st St Se,Washington,DC,20020
+751275,"Newton Pl Nw, Washington, DC 20010",2500,2,1,1320,SF,Newton Pl Nw,Washington,DC,20010
+239700,"Victor Dr, Rock Springs, WY 82901",1720,4,2,2096,MH,Victor Dr,Rock Springs,WY,82901
+655220,"14th St Ne, Washington, DC 20017",2640,3,2,1152,SF,14th St Ne,Washington,DC,20017
+1252217,"28th St Nw, Washington, DC 20015",4700,5,5,2433,SF,28th St Nw,Washington,DC,20015
+948000,"R St Ne, Washington, DC 20002",1980,4,2,1836,MF,R St Ne,Washington,DC,20002
+345988,"Fort Baker Dr Se, Washington, DC 20020",2090,3,2,1303,SF,Fort Baker Dr Se,Washington,DC,20020
+572445,"3rd Pl Nw, Washington, DC 20011",2580,4,2,1600,SF,3rd Pl Nw,Washington,DC,20011
+486212,"Anacostia Rd Se, Washington, DC 20019",1850,4,2,1008,SF,Anacostia Rd Se,Washington,DC,20019
+866745,"Bryant St Nw, Washington, DC 20001",2740,4,1.5,1897,SF,Bryant St Nw,Washington,DC,20001
+197601,"Bowen Rd Se Apt 403, Washington, DC 20020",1490,2,1,930,CONDO,Bowen Rd Se Apt 403,Washington,DC,20020
+347391,"L St Nw Apt 520, Washington, DC 20037",1980,1,1,505,CONDO,L St Nw Apt 520,Washington,DC,20037
+1375962,"9th St Nw, Washington, DC 20012",3140,3,2,1518,SF,9th St Nw,Washington,DC,20012
+138720,"Railroad Ave, Rock Springs, WY 82901",1520,4,2,1134,SF,Railroad Ave,Rock Springs,WY,82901
+316625,"Country Club Way, Thayne, WY 83127",1281,3,2.5,1716,SF,Country Club Way,Thayne,WY,83127
+626000,"Isherwood St Ne, Washington, DC 20002",1980,8,4,3270,MF,Isherwood St Ne,Washington,DC,20002
+202300,"Monte Vista St, Sheridan, WY 82801",1141,2,2,912,SF,Monte Vista St,Sheridan,WY,82801
+395000,"Eastern Ave Ne, Washington, DC 20011",2060,3,1,1024,SF,Eastern Ave Ne,Washington,DC,20011
+200685,"E Burkitt St, Sheridan, WY 82801",1001,2,1,1087,SF,E Burkitt St,Sheridan,WY,82801
+450549,"Sheriff Rd Ne, Washington, DC 20019",1790,3,2,1782,SF,Sheriff Rd Ne,Washington,DC,20019
+350221,"Columbia Rd Nw Apt 102, Washington, DC 20009",2070,2,1,718,CONDO,Columbia Rd Nw Apt 102,Washington,DC,20009
+437906,"56th St Se, Washington, DC 20019",1880,3,2,1188,SF,56th St Se,Washington,DC,20019
+189000,"Forrester St Sw, Washington, DC 20032",1620,4,4,2556,MF,Forrester St Sw,Washington,DC,20032
+683549,"Shepherd St Nw, Washington, DC 20011",2680,3,1,1820,Townhome,Shepherd St Nw,Washington,DC,20011
+146265,"N 5th St, Douglas, WY 82633",952,2,2,971,SF,N 5th St,Douglas,WY,82633
+369075,"Horner Pl Se, Washington, DC 20032",1398,3,1,1024,SF,Horner Pl Se,Washington,DC,20032
+536268,"Oates St Ne, Washington, DC 20002",2040,6,1,1294,Townhome,Oates St Ne,Washington,DC,20002
+87358,"Grandview Cir, Gillette, WY 82716",1201,4,2,1270,SF,Grandview Cir,Gillette,WY,82716
+341700,"Hillcrest Dr, Sheridan, WY 82801",1131,3,2,1334,SF,Hillcrest Dr,Sheridan,WY,82801
+254580,"Eastern Ave Ne, Washington, DC 20019",1398,2,1.5,832,SF,Eastern Ave Ne,Washington,DC,20019
+308210,"Penn St Ne Apt 1, Washington, DC 20002",1770,2,1,616,CONDO,Penn St Ne Apt 1,Washington,DC,20002
+480726,"Tobias Dr Se, Washington, DC 20020",1600,3,3,2160,Townhome,Tobias Dr Se,Washington,DC,20020
+258152,"Cathedral Ave Nw # 26, Washington, DC 20016",1650,1,1,638,CONDO,Cathedral Ave Nw # 26,Washington,DC,20016
+542622,"P St Se, Washington, DC 20020",2100,4,2,891,SF,P St Se,Washington,DC,20020
+605855,"5th St Nw, Washington, DC 20011",2270,3,1,1054,SF,5th St Nw,Washington,DC,20011
+207060,"Hialeah Rd, Afton, WY 83110",1121,4,2,1120,SF,Hialeah Rd,Afton,WY,83110
+1089920,"Holly St Nw, Washington, DC 20012",3140,3,1,1704,SF,Holly St Nw,Washington,DC,20012
+589698,"Monroe St Ne, Washington, DC 20018",2260,3,2,1776,SF,Monroe St Ne,Washington,DC,20018
+439843,"Kearny St Ne, Washington, DC 20017",2500,2,1,992,SF,Kearny St Ne,Washington,DC,20017
+391448,"27th St Ne, Washington, DC 20018",1760,2,1,918,SF,27th St Ne,Washington,DC,20018
+541955,"Kearny St Ne, Washington, DC 20017",2920,3,1,1650,SF,Kearny St Ne,Washington,DC,20017
+861635,"Emerald St Ne, Washington, DC 20002",2670,3,1,1444,SF,Emerald St Ne,Washington,DC,20002
+158769,"N Pine St, Laramie, WY 82072",860,2,1,1082,SF,N Pine St,Laramie,WY,82072
+269961,"Crystal Creek Dr, Sheridan, WY 82801",1102,3,2,2040,SF,Crystal Creek Dr,Sheridan,WY,82801
+371587,"Benning Rd Se, Washington, DC 20019",1880,3,2,1344,SF,Benning Rd Se,Washington,DC,20019
+460023,"Banks Pl Ne, Washington, DC 20019",1790,3,2,1152,SF,Banks Pl Ne,Washington,DC,20019
+410875,"55th St Ne, Washington, DC 20019",1790,3,1,1476,SF,55th St Ne,Washington,DC,20019
+589343,"Highwood Dr Se, Washington, DC 20020",2140,3,1.5,1600,SF,Highwood Dr Se,Washington,DC,20020
+172805,"N 13th St, Laramie, WY 82072",700,2,1,686,SF,N 13th St,Laramie,WY,82072
+94656,"Sherman St, Rock Springs, WY 82901",860,2,1,824,SF,Sherman St,Rock Springs,WY,82901
+262112,"Connecticut Ave Nw Apt..., Washington, DC 20015",1740,1,1,808,CONDO,Connecticut Ave Nw Apt...,Washington,DC,20015
+300319,"Nash St Ne, Washington, DC 20019",1620,2,1,896,SF,Nash St Ne,Washington,DC,20019
+168474,"N Heights Ter, Sheridan, WY 82801",991,3,2,1148,SF,N Heights Ter,Sheridan,WY,82801
+319600,"Moraine St, Laramie, WY 82070",1378,4,4,2376,SF,Moraine St,Laramie,WY,82070
+631803,"C St Ne, Washington, DC 20002",2400,3,1,1224,SF,C St Ne,Washington,DC,20002
+639602,"Allison St Ne, Washington, DC 20017",2650,3,3,1440,SF,Allison St Ne,Washington,DC,20017
+1012795,"G St Ne, Washington, DC 20002",2740,3,2,1802,SF,G St Ne,Washington,DC,20002
+1375500,"9th St Nw, Washington, DC 20012",3140,3,2,1518,SF,9th St Nw,Washington,DC,20012
+113220,"I St, Rock Springs, WY 82901",1100,2,2,1525,SF,I St,Rock Springs,WY,82901
+1210377,"29th St Nw, Washington, DC 20015",4140,4,3.5,1508,SF,29th St Nw,Washington,DC,20015
+426241,"Hayes St Ne, Washington, DC 20019",1301,2,1,990,SF,Hayes St Ne,Washington,DC,20019
+1146588,"Longfellow St Nw, Washington, DC 20011",3480,4,3,2340,SF,Longfellow St Nw,Washington,DC,20011
+402325,"54th St Ne, Washington, DC 20019",1790,3,1,1476,SF,54th St Ne,Washington,DC,20019
+256144,"Sheriff Rd Ne, Washington, DC 20019",1251,2,1,1064,Townhome,Sheriff Rd Ne,Washington,DC,20019
+695147,"Otis Pl Nw, Washington, DC 20010",2680,3,1,1360,Townhome,Otis Pl Nw,Washington,DC,20010
+545537,"New York Ave Nw Apt 202, Washington, DC 20001",2240,2,1,990,CONDO,New York Ave Nw Apt 202,Washington,DC,20001
+683263,"8th St Nw, Washington, DC 20011",2440,3,3,1054,SF,8th St Nw,Washington,DC,20011
+456385,"Southern Ave Se, Washington, DC 20019",1880,3,1.5,1802,SF,Southern Ave Se,Washington,DC,20019
+627000,"Harvard St Nw, Washington, DC 20001",2760,4,2,1634,MF,Harvard St Nw,Washington,DC,20001
+667728,"N Capitol St Ne, Washington, DC 20002",1930,3,1,1860,SF,N Capitol St Ne,Washington,DC,20002
+163038,"Tyler St, Rock Springs, WY 82901",1102,3,2,1260,CONDO,Tyler St,Rock Springs,WY,82901
+360910,"Taylor Ave, Sheridan, WY 82801",1370,3,2,2768,SF,Taylor Ave,Sheridan,WY,82801
+1002253,"13th St Nw, Washington, DC 20012",3660,4,4,2404,SF,13th St Nw,Washington,DC,20012
+494600,"Martin Luther King Jr ..., Washington, DC 20032",1460,2,1,800,SF,Martin Luther King Jr ...,Washington,DC,20032
+671000,"14th St Nw, Washington, DC 20011",2700,3,2,1354,MF,14th St Nw,Washington,DC,20011
+594827,"12th St Nw, Washington, DC 20011",2380,4,2,1620,SF,12th St Nw,Washington,DC,20011
+427067,"Foote St Ne, Washington, DC 20019",1680,3,1,970,SF,Foote St Ne,Washington,DC,20019
+440000,"Meigs Pl Ne, Washington, DC 20002",2040,8,4,3210,MF,Meigs Pl Ne,Washington,DC,20002
+197548,"Sagewood Ave, Casper, WY 82601",860,2,2,1064,SF,Sagewood Ave,Casper,WY,82601
+485912,"18th St Ne, Washington, DC 20002",1620,4,2,1152,SF,18th St Ne,Washington,DC,20002
+442208,"Blaine St Ne, Washington, DC 20019",1420,3,1,960,CONDO,Blaine St Ne,Washington,DC,20019
+681000,"Maryland Ave Ne, Washington, DC 20002",2310,3,2,1400,MF,Maryland Ave Ne,Washington,DC,20002
+771081,"Columbia Rd Nw, Washington, DC 20001",2700,3,1,1122,Townhome,Columbia Rd Nw,Washington,DC,20001
+267000,"Mount View Pl Se, Washington, DC 20020",1570,4,2,1488,MF,Mount View Pl Se,Washington,DC,20020
+139923,"Warren Ave, Gillette, WY 82716",991,3,2,796,SF,Warren Ave,Gillette,WY,82716
+137858,"Johnson Ave, Rock Springs, WY 82901",1080,2,1,1276,Townhome,Johnson Ave,Rock Springs,WY,82901
+417480,"Barnaby St Se, Washington, DC 20032",1400,3,4,1494,Townhome,Barnaby St Se,Washington,DC,20032
+461962,"Oakwood St Se, Washington, DC 20032",1870,2,1,1208,SF,Oakwood St Se,Washington,DC,20032
+663424,"Neal St Ne, Washington, DC 20002",1850,3,1,1020,Townhome,Neal St Ne,Washington,DC,20002
+186000,"Miranda Ave, Gillette, WY 82718",1001,3,2.5,1552,MF,Miranda Ave,Gillette,WY,82718
+447658,"Mesa Dr, Rock Springs, WY 82901",1408,3,2,1944,SF,Mesa Dr,Rock Springs,WY,82901
+416100,"Blaine St Ne, Washington, DC 20019",1510,3,1.5,1056,SF,Blaine St Ne,Washington,DC,20019
+168191,"Frances St, Casper, WY 82601",750,3,2,1272,SF,Frances St,Casper,WY,82601
+822232,"M St Ne, Washington, DC 20002",2400,3,2,1512,Townhome,M St Ne,Washington,DC,20002
+616569,"Webster St Ne, Washington, DC 20017",2630,3,3,1344,SF,Webster St Ne,Washington,DC,20017
+165666,"Fremont Ave, Casper, WY 82604",1201,3,1,964,SF,Fremont Ave,Casper,WY,82604
+313504,"Wilson Way, Gillette, WY 82718",1408,4,2,1772,SF,Wilson Way,Gillette,WY,82718
+239785,"W Blair Ave, Rock Springs, WY 82901",2160,6,3,3356,SF,W Blair Ave,Rock Springs,WY,82901
+700594,"Georgia Ave Nw, Washington, DC 20011",2730,3,2,1614,Townhome,Georgia Ave Nw,Washington,DC,20011
+353863,"9th St Nw Apt 4, Washington, DC 20010",2060,2,2,678,CONDO,9th St Nw Apt 4,Washington,DC,20010
+554385,"Pope St Se, Washington, DC 20020",2140,3,1,1653,SF,Pope St Se,Washington,DC,20020
+327500,"56th St Ne, Washington, DC 20019",1790,3,2.5,800,SF,56th St Ne,Washington,DC,20019
+461091,"Baker St Ne, Washington, DC 20019",1420,2,1,864,SF,Baker St Ne,Washington,DC,20019
+157253,"Naylor Rd Se Apt 302, Washington, DC 20020",1450,2,1,848,CONDO,Naylor Rd Se Apt 302,Washington,DC,20020
+148155,"E Gibbon St, Laramie, WY 82072",710,2,1,720,SF,E Gibbon St,Laramie,WY,82072
+177905,"Alabama St, Green River, WY 82935",1311,3,2,1792,SF,Alabama St,Green River,WY,82935
+376967,"Douglas St Ne, Washington, DC 20019",1920,2,2,1307,SF,Douglas St Ne,Washington,DC,20019
+548867,"2nd St Ne, Washington, DC 20011",2060,2,1.5,1088,SF,2nd St Ne,Washington,DC,20011
+157251,"Easy Acres Loop, Afton, WY 83110",1072,3,2,1396,MH,Easy Acres Loop,Afton,WY,83110
+662829,"New Hampshire Ave Nw, Washington, DC 20011",2620,3,3,1260,Townhome,New Hampshire Ave Nw,Washington,DC,20011
+382137,"55th St Ne, Washington, DC 20019",1680,1,2,1315,SF,55th St Ne,Washington,DC,20019
+308500,"Taylor Ave, Sheridan, WY 82801",1281,4,2,1144,SF,Taylor Ave,Sheridan,WY,82801
+491217,"Highwood Pl Se, Washington, DC 20020",2140,3,3.5,1576,SF,Highwood Pl Se,Washington,DC,20020
+343821,"28th St Se, Washington, DC 20020",2080,3,3,1200,Townhome,28th St Se,Washington,DC,20020
+646000,"N Capitol St Ne, Washington, DC 20011",2420,3,2,1240,SF,N Capitol St Ne,Washington,DC,20011
+344714,"Foote St Ne, Washington, DC 20019",1720,3,1,1000,SF,Foote St Ne,Washington,DC,20019
+325000,"Buchanan St Ne, Washington, DC 20017",2370,3,2,1240,SF,Buchanan St Ne,Washington,DC,20017
+556466,"Peabody St Ne, Washington, DC 20011",2370,3,2,1216,SF,Peabody St Ne,Washington,DC,20011
+663289,"Emerson St Nw, Washington, DC 20011",2480,3,1,1280,SF,Emerson St Nw,Washington,DC,20011
+1979010,"Sudbury Ln Nw, Washington, DC 20012",11554,5,4,3520,SF,Sudbury Ln Nw,Washington,DC,20012
+429751,"22nd St Ne, Washington, DC 20018",2530,3,1,1320,SF,22nd St Ne,Washington,DC,20018
+514651,"9th St Nw, Washington, DC 20012",2570,3,1.5,1088,SF,9th St Nw,Washington,DC,20012
+378960,"1st St Nw Apt 10, Washington, DC 20001",1880,1,1,551,CONDO,1st St Nw Apt 10,Washington,DC,20001
+267000,"17th Pl Se, Washington, DC 20020",1740,4,4,2720,MF,17th Pl Se,Washington,DC,20020
+313313,"17th St Se, Washington, DC 20020",1520,3,2,902,Townhome,17th St Se,Washington,DC,20020
+249907,"W Granite St, Gillette, WY 82718",1321,3,2,1460,SF,W Granite St,Gillette,WY,82718
+248965,"Palmer Dr, Laramie, WY 82070",1241,3,2.5,2136,CONDO,Palmer Dr,Laramie,WY,82070
+200770,"N Fillmore St, Laramie, WY 82070",840,2,1,1596,SF,N Fillmore St,Laramie,WY,82070
