@@ -137,15 +137,15 @@ python3 src/data_processing/house_data_converter.py data/uncleaned/data_all_stat
 
 ## EC2 Setup
 
-**1. Login to AWS console**
+- 1. Login to AWS console**
 
-**2. Create Amazon Linux EC2 Virtual Instance. Select free tier**
+- 2. Create Amazon Linux EC2 Virtual Instance. Select free tier**
 
-**3. Create a new key pair. Download it as keypair1.pem**
+- 3. Create a new key pair. Download it as keypair1.pem**
 
-**4. Connect to your EC2 instance using the pem file.**
+- 4. Connect to your EC2 instance using the pem file.**
 
-**5. Install git using these commands:**
+- 5. Install git using these commands:**
 
 ```sh
    sudo yum update -y
@@ -163,7 +163,7 @@ python3 src/data_processing/house_data_converter.py data/uncleaned/data_all_stat
 ## Running tests
 
 ```sh
-python -m unittest discover -s tests -p "*.py"
+python3 -m unittest discover -s tests -p "*.py"
 ```
 
 ## High Level Workflow Diagram

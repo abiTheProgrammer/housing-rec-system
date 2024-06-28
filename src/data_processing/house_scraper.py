@@ -13,7 +13,7 @@ class HouseScraper:
 
     def scrape_list_of_states(self) -> list:
         states = []
-        r = requests.get(self.__config['base_url'])
+        r = requests.get(self.__config['base_url'], verify=False)
         soup = BeautifulSoup(r.content, 'html.parser')
         # with open('data/state_list.html', 'w') as file:
         #     file.write(soup.prettify())
@@ -32,7 +32,7 @@ class HouseScraper:
         self.df = pd.DataFrame(columns=self.__config['df_columns'])
         # parse html content of main html page
         state_url = self.__config['base_url'] + self.__config['search_state'].format(state=state)
-        r = requests.get(state_url)
+        r = requests.get(state_url, verify=False)
         soup = BeautifulSoup(r.content, 'html.parser')
         # pipe the soup_html content into local data file (remove once analysis of html content completed)
         # soup_content = soup.prettify()
@@ -63,7 +63,7 @@ class HouseScraper:
         cities_url = area_tag.get('href')
         print("Metro Area: \"" + cities + '\"\n' + "Path: \"" + cities_url + "\"", end='\n\n')
         # parse the url of area to get listings in that area
-        r = requests.get(self.__config['base_url'] + cities_url)
+        r = requests.get(self.__config['base_url'] + cities_url, verify=False)
         soup = BeautifulSoup(r.content, 'html.parser')
         # pipe the area content into local data file (remove once analysis of html content completed)
         # soup_content = soup.prettify()
@@ -106,7 +106,7 @@ class HouseScraper:
         self.scrape_page(neighborhood_url, 1)
 
     def scrape_page(self, neighborhood_url: str, page_number: int) -> None:
-        r = requests.get(neighborhood_url, headers=self.__config['browser_header'])
+        r = requests.get(neighborhood_url, headers=self.__config['browser_header'], verify=False)
         soup = BeautifulSoup(r.content, 'html.parser')
         # If there are 0 listings => stop scraping
         print("Page Number: " + str(page_number))
